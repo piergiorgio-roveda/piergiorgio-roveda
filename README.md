@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GEO::DASHBOARD](https://github.com/piergiorgio-roveda/geodashboard-demo)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1JPeYx0fRB8CcXQfQMqxgo78qLpo-scbg/view?usp=sharing](https://drive.google.com/file/d/1JPeYx0fRB8CcXQfQMqxgo78qLpo-scbg/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [My Works](https://drive.google.com/file/d/1JPeYx0fRB8CcXQfQMqxgo78qLpo-scbg/view?usp=sharing)
 
 - 💬 Ask me about **QGIS, LeafletJS, PostGIS**
 
