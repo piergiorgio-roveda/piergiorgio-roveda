@@ -42,8 +42,8 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 |Ports & Airports|/| [project/ports_and_airports](https://cityplanner.biz/project/ports_and_airports/) |/|
 |Retail Competition Map|/| [project/retail-competition-map](https://cityplanner.biz/project/retail-competition-map/) |/|
 |openAIP|/| [project/openAIP](https://cityplanner.biz/project/openAIP/) |/|
-|Base Template with Map|It demonstrates the use of Mapbox's capabilities in generating detailed, interactive maps.| [geodashboard-v7/base__template__with_map](https://cityplanner.biz/geodashboard-v7/base__template__with_map/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--base__template__with_map)|
-|py__geotiff__extract|/|[geodashboard-v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
+|Base Template with Map|It demonstrates the use of Mapbox's capabilities in generating detailed, interactive maps.| [v7/base__template__with_map](https://cityplanner.biz/geodashboard-v7/base__template__with_map/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--base__template__with_map)|
+|py__geotiff__extract|/|[v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
 
 
 ## Snippet
