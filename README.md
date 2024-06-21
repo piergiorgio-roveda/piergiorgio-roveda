@@ -3,11 +3,8 @@
 ## A passionate GIS Developer & Urban Planner from Null Island
 
 - 🔭 I’m currently working on [[GEO]DASHBOARD](https://cityplanner.biz/geo-dashboard/geodashboard-intro/)
-
 - 👨‍💻 All of my projects are available at [My Works](https://drive.google.com/file/d/1aOcx2KWQx27OdtYLtqTKky5BpGKAjMpL/view?usp=sharing)
-
 - 💬 Ask me about **[QGIS](https://www.qgis.org/en/site/), [PostGIS](https://postgis.net/), [MapLibre](https://maplibre.org/), [GeoPandas](https://geopandas.org/en/stable/)**
-
 - 📫 How to reach me **piergiorgio.roveda@cityplanner.biz**
 
 ## Connect with me
@@ -20,9 +17,7 @@
 
 ## About Me
 
-<p style="font-weight:900;">
-GIS / GeoBI Developer & Urban Planner – Charting cities, populations, and throughfares in preparation for tomorrow’s solutions.
-</p>
+> GIS / GeoBI Developer & Urban Planner – Charting cities, populations, and throughfares in preparation for tomorrow’s solutions.
 
 GIS expert managing geospatial data to support a variety of project and client needs. Performs programming, data analysis, or software development for GIS applications. Active contributor on YouTube’s online QGIS tutorials channel and Open Source community projects. Designed, promoted, or administered government plans or policies affecting land use, zoning, public utilities, community facilities, housing, or transportation. 
 
