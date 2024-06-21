@@ -32,25 +32,32 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 
 | Name        | Description | Link       |
 | ----------- | ----------- | ---------- |
-| aaa         | bbb         | https://a.com |
+|Introduction|[GEO]DASHBOARD is a web application that enables the creation of visualizations for maps, tables, graphsand generic web pages using a Postgres database with a geographical extension PostGIS and Geoserver to generate map tiles.|[geodashboard-intro](https://cityplanner.biz/geo-dashboard/geodashboard-intro/)|
 
 ## Projects
 
-| Name        | Description | Link       |
-| ----------- | ----------- | ---------- |
-| aaa         | bbb         | https://a.com |
+| Name        | Description | Link       | GitHub|
+| ----------- | ----------- | ---------- | ---------- |
+|AirPollution|/| [project/AirPollution](https://cityplanner.biz/project/AirPollution/) |/|
+|Ports & Airports|/| [project/ports_and_airports](https://cityplanner.biz/project/ports_and_airports/) |/|
+|Retail Competition Map|/| [project/retail-competition-map](https://cityplanner.biz/project/retail-competition-map/) |/|
+|openAIP|/| [project/openAIP](https://cityplanner.biz/project/openAIP/) |/|
+|Base Template with Map|It demonstrates the use of Mapbox's capabilities in generating detailed, interactive maps.| [geodashboard-v7/base__template__with_map](https://cityplanner.biz/geodashboard-v7/base__template__with_map/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--base__template__with_map)|
+|py__geotiff__extract|/|[geodashboard-v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
+
 
 ## Snippet
 
-| Name        | Description | Link       |
-| ----------- | ----------- | ---------- |
-| aaa         | bbb         | https://a.com |
+| Name        | Description | Link       | GitHub|
+| ----------- | ----------- | ---------- | ---------- |
+|Snippet List|/|https://cityplanner.biz/geodashboard-v7/snippet/_list/|/|
+|Login From|/|https://cityplanner.biz/geodashboard-v7/snippet/login/|/|
 
 ## Geo Data Catalog
 
 | Name        | Description/Comments | Link(s)       | Tags       |
 | ----------- | ----------- | ---------- | ---------- |
-| Kontur Population|Global Population Density for 400m H3 Hexagons|[kontur-population-dataset](https://data.humdata.org/dataset/kontur-population-dataset)|population, H3|
+|Kontur Population|Global Population Density for 400m H3 Hexagons|[kontur-population-dataset](https://data.humdata.org/dataset/kontur-population-dataset)|population, H3|
 |Global Urban Areas|/|[globalurbanareas](https://dataforgood.facebook.com/dfg/tools/globalurbanareas#accessdata)|Urban Area|
 |High Resolution Population Density Maps|/|[high-resolution-population-density-maps](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps), [awesome-gee-community-catalog](https://gee-community-catalog.org/projects/hrsl/)|population|
 |Unconstrained global mosaics 2000-2020|1km Age structures in 2020|[geodata/summary?id=24798](https://hub.worldpop.org/geodata/summary?id=24798)|age,sex|
