@@ -34,7 +34,7 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 | ----------- | ----------- | ---------- |
 |Introduction|[GEO]DASHBOARD is a web application that enables the creation of visualizations for maps, tables, graphsand generic web pages using a Postgres database with a geographical extension PostGIS and Geoserver to generate map tiles.|[geodashboard-intro](https://cityplanner.biz/geo-dashboard/geodashboard-intro/)|
 
-## Projects
+## Projects (web)
 
 | Name        | Description | Link       | GitHub|
 | ----------- | ----------- | ---------- | ---------- |
@@ -43,14 +43,21 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 |Retail Competition Map|/| [project/retail-competition-map](https://cityplanner.biz/project/retail-competition-map/) |/|
 |openAIP|/| [project/openAIP](https://cityplanner.biz/project/openAIP/) |/|
 |Base Template with Map|It demonstrates the use of Mapbox's capabilities in generating detailed, interactive maps.| [v7/base__template__with_map](https://cityplanner.biz/geodashboard-v7/base__template__with_map/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--base__template__with_map)|
-|py__geotiff__extract|/|[v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
-|(py)__forecast--csv-to-map|/|[v7--(py)__forecast--csv-to-map](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
 |Base Template with Map + React|/|[v7/base__template__with_map__react](https://cityplanner.biz/geodashboard-v7/base__template__with_map__react/)|[PRIVATE](doc/private-access.md)|
 
-## Snippet
+## Projects (Python)
 
 | Name        | Description | Link       | GitHub|
 | ----------- | ----------- | ---------- | ---------- |
+|Convert a GeoTIFF in Points|/|[v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
+|Interpolate CSV grid|Used for forecast data, to create Raster, Scatter Points, H3 Hexagons|[(v7)--py__forecast--csv-to-map](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
+| ...| | | |
+|<h2>Projects (Services)</h2>| | | |
+|<b>Name</b> | <b>Description</b> | <b>Link</b>| <b>GitHub</b>|
+|(v7)--etl__a272|/|[(v7)--etl__a272](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
+| ...| | | |
+|<h2>Snippet</h2>| | | |
+|<b>Name</b> | <b>Description</b> | <b>Link</b>| <b>GitHub</b>|
 |Snippet List|/|[snippet/_list](https://cityplanner.biz/geodashboard-v7/snippet/_list/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--snippet)|
 |Login From|/|[snippet/login](https://cityplanner.biz/geodashboard-v7/snippet/login/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--snippet)|
 |react/test01|First test to use React functions with Javascript|[geodashboard-v7/snippet--javascript-react/test01](https://cityplanner.biz/geodashboard-v7/snippet--javascript-react/test01/index.php)|[PRIVATE](doc/private-access.md)|
