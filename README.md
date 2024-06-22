@@ -44,14 +44,16 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 |openAIP|/| [project/openAIP](https://cityplanner.biz/project/openAIP/) |/|
 |Base Template with Map|It demonstrates the use of Mapbox's capabilities in generating detailed, interactive maps.| [v7/base__template__with_map](https://cityplanner.biz/geodashboard-v7/base__template__with_map/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--base__template__with_map)|
 |py__geotiff__extract|/|[v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
-
+|(py)__forecast--csv-to-map|/|[v7--(py)__forecast--csv-to-map](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
+|Base Template with Map + React|/|[v7/base__template__with_map__react](https://cityplanner.biz/geodashboard-v7/base__template__with_map__react/)|[PRIVATE](doc/private-access.md)|
 
 ## Snippet
 
 | Name        | Description | Link       | GitHub|
 | ----------- | ----------- | ---------- | ---------- |
-|Snippet List|/|https://cityplanner.biz/geodashboard-v7/snippet/_list/|/|
-|Login From|/|https://cityplanner.biz/geodashboard-v7/snippet/login/|/|
+|Snippet List|/|[snippet/_list](https://cityplanner.biz/geodashboard-v7/snippet/_list/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--snippet)|
+|Login From|/|[snippet/login](https://cityplanner.biz/geodashboard-v7/snippet/login/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--snippet)|
+|react/test01|First test to use React functions with Javascript|[geodashboard-v7/snippet--javascript-react/test01](https://cityplanner.biz/geodashboard-v7/snippet--javascript-react/test01/index.php)|[PRIVATE](doc/private-access.md)|
 
 ## Geo Data Catalog
 
