@@ -51,13 +51,17 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 | ----------- | ----------- | ---------- | ---------- |
 |Convert a GeoTIFF in Points|/|[v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
 |Interpolate CSV grid|Used for forecast data, to create Raster, Scatter Points, H3 Hexagons|[(v7)--py__forecast--csv-to-map](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
-| ...| | | |
-|<h2>Projects (Services)</h2>| | | |
-|<b>Name</b> | <b>Description</b> | <b>Link</b>| <b>GitHub</b>|
+
+## Projects (Services)
+
+| Name        | Description | Link       | GitHub|
+| ----------- | ----------- | ---------- | ---------- |
 |(v7)--etl__a272|/|[(v7)--etl__a272](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
-| ...| | | |
-|<h2>Snippet</h2>| | | |
-|<b>Name</b> | <b>Description</b> | <b>Link</b>| <b>GitHub</b>|
+
+## Snippet
+
+| Name        | Description | Link       | GitHub|
+| ----------- | ----------- | ---------- | ---------- |
 |Snippet List|/|[snippet/_list](https://cityplanner.biz/geodashboard-v7/snippet/_list/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--snippet)|
 |Login From|/|[snippet/login](https://cityplanner.biz/geodashboard-v7/snippet/login/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--snippet)|
 |react/test01|First test to use React functions with Javascript|[geodashboard-v7/snippet--javascript-react/test01](https://cityplanner.biz/geodashboard-v7/snippet--javascript-react/test01/index.php)|[PRIVATE](doc/private-access.md)|
