@@ -44,20 +44,10 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 |openAIP|/| [project/openAIP](https://cityplanner.biz/project/openAIP/) |/|
 |Base Template with Map|It demonstrates the use of Mapbox's capabilities in generating detailed, interactive maps.| [v7/base__template__with_map](https://cityplanner.biz/geodashboard-v7/base__template__with_map/)|[FORK](https://github.com/piergiorgio-roveda/geodashboard-v7--base__template__with_map)|
 |Base Template with Map + React|/|[v7/base__template__with_map__react](https://cityplanner.biz/geodashboard-v7/base__template__with_map__react/)|[PRIVATE](doc/private-access.md)|
-
-## Projects (Python)
-
-| Name        | Description | Link       | GitHub|
-| ----------- | ----------- | ---------- | ---------- |
 |Convert a GeoTIFF in Points|/|[v7--py__geotiff__extract](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
 |Interpolate CSV grid|Used for forecast data, to create Raster, Scatter Points, H3 Hexagons|[(v7)--py__forecast--csv-to-map](sheet/v7--py__forecast--csv-to-map.md)|[PRIVATE](doc/private-access.md)|
 |Download and compare SENTINEL2_L2A|/|[v7--py__sentinel2--download](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
-|Idealista Milano|/|[v7--py__idealista__milano](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
-
-## Projects (Services)
-
-| Name        | Description | Link       | GitHub|
-| ----------- | ----------- | ---------- | ---------- |
+|Idealista Milano|/|[sheet/v7--idealista_milano](sheet/v7--idealista_milano.md)|[PRIVATE](doc/private-access.md)|
 |(v7)--etl__a272|/|[(v7)--etl__a272](doc/private-access.md)|[PRIVATE](doc/private-access.md)|
 
 ## Snippet
