@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piergiorgio</h1>
 
-## A passionate GIS Developer & Urban Planner from Null Island
+## A passionate GIS / GeoBI Developer & Urban Planner from Null Island
 
 - 🔭 I’m currently working on [[GEO]DASHBOARD](https://cityplanner.biz/geo-dashboard/geodashboard-intro/)
 - 👨‍💻 All of my projects are available at [My Works](https://drive.google.com/file/d/1aOcx2KWQx27OdtYLtqTKky5BpGKAjMpL/view?usp=sharing)
 - 💬 Ask me about **[QGIS](https://www.qgis.org/en/site/), [PostGIS](https://postgis.net/), [MapLibre](https://maplibre.org/), [GeoPandas](https://geopandas.org/en/stable/)**
 - 📫 How to reach me **piergiorgio.roveda@cityplanner.biz**
+
+![Banner Piergiorgio Roveda](https://cityplanner.biz/source/img/business_2021/banner_linkedin_2024/banner_linkedin.png "GIS / GeoBI Developer & Urban Planner")
 
 ## Connect with me
 
