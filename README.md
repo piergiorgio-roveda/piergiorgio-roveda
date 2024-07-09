@@ -78,6 +78,8 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 | ----------- | ----------- | ---------- |
 |Awesome Geospatial|Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect.|[sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial)|
 |Awesome README|Elements in beautiful READMEs include, but are not limited to:images, screenshots, GIFs, text formatting, etc.|[matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme?tab=readme-ov-file)|
+|Refactoring.Guru|Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.|[refactoring.guru](https://refactoring.guru/)|
+|Choropleth Maps|Get better at using color palettes with choropleth maps.|[atlas.co/blog](https://atlas.co/blog/get-better-at-using-color-palettes-with-choropleth-maps/)|
 |{{empty}}|{{empty}}|{{empty}}|
 
 ## YouTube Geospatial
@@ -87,6 +89,69 @@ During GIS career, I have sought opportunities to analyze situations accurately 
 |OSINT At Home #10|How to map anything with freely available location data.|[youtube.com/watch](https://www.youtube.com/watch?v=bJkV3l5Haq0)|
 |Why I quit Esri|(and how you can too)|[youtube.com/watch](https://www.youtube.com/watch?v=03UcZfI8G4s)|
 |Geospatial Data Pipelines|Extract, Load, Transform! Ever wanted to create scalable geospatial data pipelines that are repeatable and scalable? Look no further than this live stream where we will use geospatial files loaded into common data storage tools like PostGIS and DuckDB, and transforming those datasets with dbt - Data Build Tool!|[youtube.com/watch](https://www.youtube.com/watch?v=OTo3xgJoZRM)|
+|OpenJS Foundation|The OpenJS Foundation supports the healthy growth of JavaScript and web technologies by providing a neutral organization to host and sustain projects.|[youtube.com/@OpenJSFoundation](https://www.youtube.com/@OpenJSFoundation)|
 |{{empty}}|{{empty}}|{{empty}}|
+
+## Awesome Maps
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|KONTUR disaster.ninja|Disaster Ninja showcases some of Kontur’s capabilities in addressing these needs.|[disaster.ninja](https://disaster.ninja/active/)|
+|MapHub|/|[maphub.net](https://maphub.net/explore)|
+|uMap|/|[umap.openstreetmap.fr](https://umap.openstreetmap.fr/en/map/inclusion-numerique-dans-la-nievre_1006777#9/46.9203/3.6612)|
+|eyesonrussia.org|/|[eyesonrussia.org](https://eyesonrussia.org/)|
+
+## GeoAi
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|exa.ai|The web, organized. Exa search uses embeddings to understand meaning.|[https://exa.ai/search](https://exa.ai/search)|
+|thegigabrain.com|Cut the noise. Get real answers from real people.|[https://thegigabrain.com/](https://thegigabrain.com/)|
+|Glimpse|Discover trends before they’re trending.|[https://meetglimpse.com/](https://meetglimpse.com/)|
+|subredditstats.com|Here you'll find a bunch of different subreddit ranking lists. You can click a subreddit name to see stats (graphs, etc.) for that subreddit.|[https://subredditstats.com/](https://subredditstats.com/)|
+|anvaka.github.io/sayit|The graph of related subreddits.|[anvaka.github.io/sayit/?query=gis](https://anvaka.github.io/sayit/?query=gis)|
+|poe.com|Poe is a platform that lets people ask questions, get instant answers, and have back-and-forth conversations with a wide variety of AI-powered bots.|[poe.com](https://poe.com/)|
+
+## Tips&Tricks
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|Using CSS custom properties (variables)|Custom properties (sometimes referred to as CSS variables or cascading variables) are entities defined by CSS authors that represent specific values to be reused throughout a document. |[developer.mozilla.org/Using_CSS_custom_properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)|
+
+## Weather / Aerial / Nautical
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|aviationweather.gov/gfa|Graphical Forecasts for Aviation (GFA)|[aviationweather.gov](https://aviationweather.gov/gfa/#taf)|
+|adsbexchange.com|World's largest source of unfiltered flight data|[globe.adsbexchange.com](https://globe.adsbexchange.com/)|
+|WEATHER DATA FOR WEB MAPS|USING MAPBOX AND OPEN SOURCE TOOLS TO MAP ATMOSPHERIC WATER|[commercedataservice.github.io/tutorial_mapbox_part1](https://commercedataservice.github.io/tutorial_mapbox_part1/)|
+
+## Movement data
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|HERE Traffic Vector Tile API|This section outlines how to quickly get started using the HERE Traffic Vector Tile API on the HERE platform|[here.com](https://www.here.com/docs/bundle/traffic-vector-tile-api-developer-guide/page/topics/quickstart.html#get-a-here-account)|
+
+## BaseMaps
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|Basemaps for MapLibre|To render a full basemap, you'll need not only a style and a tileset, but also MapLibre fontstack and spritesheet assets.|[protomaps.com/basemaps](https://docs.protomaps.com/basemaps/maplibre)|
+|Map Compare|Map Compare shows you different maps from OpenStreetMap, Google, and others side by side.|[mc.bbbike.org/mc](https://mc.bbbike.org/mc/?lon=13.368594&lat=52.459748&zoom=10&num=2&mt0=osm-no-labels&mt1=mapnik&marker=)|
+|qgis_recursos/xyztiles|Listado de servicios XYZ.|[sigdeletras/qgis_recursos](https://github.com/sigdeletras/qgis_recursos/blob/master/xyztiles/README.md)|
+
+## Satellite Data
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|Sentinel-2|The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180°.|[dataspace.copernicus.eu](https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2)|
+|Jupyter Notebook Samples|In this page, we present a compilation of Jupyter Notebooks showcasing the utilization of available data analyzed through the openEO API and the Sentinel Hub API across various use cases. These notebooks are categorized and will expand over time. Written in Python, they are designed to be executed in a Jupyter environment.|[dataspace.copernicus.eu/Usecase](https://documentation.dataspace.copernicus.eu/Usecase.html)|
+|openEO Basics|How to load a data cube from a data collection?|[dataspace.copernicus.eu/Load_Collection](https://documentation.dataspace.copernicus.eu/notebook-samples/openeo/Load_Collection.html)|
+
+## API First!
+
+| Name        | Description/Comments | Link(s)       |
+| ----------- | ----------- | ---------- |
+|pygeoapi.io|pygeoapi is a Python server implementation of the OGC API suite of standards. The project emerged as part of the next generation OGC API efforts in 2018 and provides the capability for organizations to deploy a RESTful OGC API endpoint using OpenAPI, GeoJSON, and HTML.|[pygeoapi.io](https://pygeoapi.io/)|
 
 
