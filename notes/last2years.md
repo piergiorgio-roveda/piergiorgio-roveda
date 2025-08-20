@@ -1,0 +1,25 @@
+# Last 2 years
+
+Cosa ho fatto negli ultimi 2 anni
+
+- ho messo insieme tutte le webapp sviluppate negli ultimi 10 anni e ho creato Geodashboard come tema e plugin di Wordpress
+- ho integrato in Geodashboard e sperimentato centinaia di librerie Javascript per il mapping e la visualizzazione
+- ho iniziato ad organizzare file e cartelle in modo tale da avere da una parte un controllo delle versioni iniziando ad utilizzare GitHub, escludendo file inutili e sync con file che non cambiano
+- dall’altra parte essendo Geodashboard installato per 3 differenti clienti, ho organizzato le cartelle in modo da copiare le cartelle dalla root, ma comunque mantenere separate le personalizzazioni per ogni cliente
+- ho continuato ad ottimizzare il tutto per rendere le webapp sempre piu’ leggere e che possano essere viste sia su desktop che su mobile
+- ogni webapp, ma anche i contenuti al suo interno sono configurati per il SEO e il SEM
+- ho sviluppato tutta la parte di analytics di Google, in modo tale da non visualizzare solo chi entra nel sito e che pagine vede, ma anche quale bottone schiaccia e che movimenti fa, ispirandomi ad un log completo, ma focalizzato sull’interazione dell’utente
+- ho ri-sviluppato la webapp in modo tale che il template si customizzabile e che ogni contenuto, dal menu’, alle descrizioni e cosi’ tutti i dati siano sempre serviti da un file json o statico o da database
+- questo fatto di avere dati e contenuti sempre distribuiti con json, mi ha portato a alla ricerca di tools, dashboard ed in generale interfacce gia’ sviluppate e pronte all’uso, quelle che vengono chiamate “nocode”, ne ho provate decine cercando sempre di raggiungere quale fossero i limiti
+- ho speso circa 6 per esplorare la maggior parte delle applicazioni nocode disponibili, imparando molto su come funzionano, e mi sono servite per individuare gli usi specifici che possono offrire: visualizzazione, organizzazione contenuti, documentazione, logging, monitoraggio, pipeline, automazione
+- con Mauro ho iniziato a focalizzarmi sullo sviluppo di tutti questi centinaia di pezzi, perche’ a tutti gli effetti la panoramica di applicazioni esplorate avevano punti in comune: interfaccia stile dashboard, connessione database e parte di scripting backend
+- il risultato di tutto questo l’ho provato ad unire come moduli all’interno di Geodashboard che purtroppo ha perso l’idea di essere distribuita a tutti i clienti nello stesso modo come copia incolla di files.
+- con Mauro ho imparato ad organizzare tutto a moduli, solo che con lui ho visto solo la parte frontend, ma dall’altra parte ho trovato benefici anche nel backend e mi ha permesso di esplorare un po’ la parte con Node, ma soprattutto Python
+- negli ultimi 6 mesi con Python ho potuto riprendere la maggior parte dello scripting backend e ho rivisto completamente la logica, infatti essendo sempre legato al Php, non mi staccavo dall’uso delle interfacce per organizzare liste di azioni e fare test di esecuzione, mentre con i tools gia’ sviluppati per utilizzare Python, ho integrato tutta questa parte come flusso di lavoro separato
+- nello stesso modo ho continuato ad organizzare Geodashboard, trasformandola da una webapp unica ad una cartella con centinaia di piccole applicazioni sviluppate in modo isolato. Questo e’ stato veramente un cambio che mi ha fatto risparmiare un sacco di tempo, ogni volta che sviluppo una nuova mappa
+- anche se tutte queste webapp sono isolate, mantengono pero’ un collegamento tra di loro, in modo da facilitare l’organizzazione e dare all’utente finale la sensazione che la webapp e’ sempre unica
+- ho sempre usato una lista di funzionalita’, ma non sono mai riuscito a tenerla aggiornata, perche’ le funzionalita’ erano troppe, invece adesso ogni webapp, script funzione e’ organizzata come sotto-progetto, con repository su github dedicato e tutti file per essere sviluppati o clonati sono su una macchina virtuale linux, in modo tale da aggiornare i vari server e nello stesso momento fare continui commit su Github delle modifiche
+
+---
+
+Come mai ho fatto questa lista? Nell’analisi di marketing l’obiettivo e’ quello di consolidare quello che posso offrire ad un cliente finale o ad un team. E mi sono reso conto che non sono adatto alla ricerca di un cliente finale, ma il mio obiettivo e’ quello di entrare come esterno in un team esistente che lavora per uno o piu’ clienti finali, coprendo tutta una panoramica di funzioni interne necessarie ad arrivare alla consegna in modo piu’ veloce, col minimo di errori e con un prodotto moderno ed innovativo, in questo contesto la richiesta del cliente finale e’ spesso qualcosa di gia’ visto e che molti sono gia’ abituati a vedere, ma il fatto di avere un risultato in modo veloce, senza licenza software, veloce nell’esecuzione di report e visualizzazione, con possibilita’ di personalizzazione pressoche’ infinite e adatte ad ogni esigenza, e’ una visione concreta di come poter fare soldi farne sempre di piu.
