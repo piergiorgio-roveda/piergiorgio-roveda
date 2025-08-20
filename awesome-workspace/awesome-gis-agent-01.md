@@ -2,6 +2,11 @@
 
 This [REPO://awesome-gis-agent](https://github.com/piergiorgio-roveda/awesome-gis-agent)
 
+- What it takes to win building AI applications
+https://samit-kalra.com/blog/what-it-takes-to-win-building-ai-applications
+- GitHub - googleapis/genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases.
+https://github.com/googleapis/genai-toolbox
+
 ## Vibe Coding
 
 - `Andrej Karpathy` ⇒ [x.com ("vibe coding")](https://x.com/karpathy/status/1886192184808149383)
@@ -27,8 +32,30 @@ This [REPO://awesome-gis-agent](https://github.com/piergiorgio-roveda/awesome-gi
   - The editor for what's next
 - notability.com ⇒ https://notability.com/
   - minimal interface with powerful AI tools
+- [GeoDa AI](https://openjsf.org/blog/introducing-geoda-ai)
+- [GeoGPT](https://geogpt.zero2x.org/)
+- https://observablehq.com/notebook-kit/
+- GISFAST - Advanced Geospatial Data Visualization Platform
+https://www.gisfast.my.id/
+- AtlasAI - The AI Platform for Geospatial https://www.atlasai.co/
+- https://github.com/rohinmanvi/GeoLLM GitHub (https://github.com/rohinmanvi/GeoLLM)
+GitHub - rohinmanvi/GeoLLM
+- https://github.com/Teakinboyewa/SpatialAnalysisAgent GitHub (https://github.com/Teakinboyewa/SpatialAnalysisAgent)
+GitHub - Teakinboyewa/SpatialAnalysisAgent
+- GitHub (https://github.com/gladcolor/LLM-Geo) GitHub - gladcolor/LLM-Geo
 
 ## Other Resources
+
+- [AGENTS.md](https://agents.md/)
+- [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
+- [anthropic-cookbook/tool_use](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/customer_service_agent.ipynb)
+- [Secure your AI applications](https://www.promptfoo.dev/)
+- Interpretability: Understanding how AI models think - YouTube
+https://www.youtube.com/watch?v=fGKNUvivvnc
+- Claude Code best practices | Code w/ Claude - YouTube
+https://www.youtube.com/watch?v=gv0WHhKelSE&pp=QAFIAQ%3D%3D
+- MiniMax Agent: Minimize Effort, Maximize Intelligence
+https://agent.minimax.io/
 
 | Name | Description/Comments | Link(s) | Created time |
 | --- | --- | --- | --- |
