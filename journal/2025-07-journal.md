@@ -2,20 +2,13 @@
 
 July was an intense month of exploration and experimentation. Between digging into vast geospatial datasets, testing new frameworks for dashboards, and pushing the limits of AI-assisted coding, I had the chance to refine both my technical skills and my overall approach. Some projects worked well and reached completion, while others became learning experiences that revealed what paths not to take. The month felt like a balance between discovery, trial-and-error, and consolidating knowledge.
 
+|Personal Growing| STEPS | GISTIPSTER | CONTACT | LLM USAGE       |
+|---| :---: | :---: | :---: | :---: |
+|| +247K    | +93 | +4 | $809 |
 
-## Personal Growing
-```
-╭───────╮ ╭────────────╮ ╭─────────╮ ╭───────────╮
-│ STEPS │ │ GISTIPSTER │ │ CONTACT │ │ LLM USAGE │
-│ +247K │ │    +93     │ │   +4    │ │   $809    │
-╰───────╯ ╰────────────╯ ╰─────────╯ ╰───────────╯
-```
-
-## Lifecycle
-```
-╭────SLEEP───╮ ╭───DOGS───╮ ╭──STUDY──╮ ╭─CODE─╮ ╭─X─╮
-▪▪▪▪▪▪▪▪▪▪▪▪▪▪ ▪▪▪▪▪▪▪▪▪▪▪▪ ▪▪▪▪▪▪▪▪▪▪▪ ▪▪▪▪▪▪▪▪ ▪▪▪▪▪
-```
+|Lifecycle| SLEEP | DOGS | STUDY | CODE | X |
+|---| :---: | :---: | :---: | :---: | :---: |
+||▪▪▪▪▪▪▪▪▪▪▪▪▪▪|▪▪▪▪▪▪▪▪▪▪▪▪|▪▪▪▪▪▪▪▪▪▪▪|▪▪▪▪▪▪▪▪|▪▪▪▪▪|
 
 ## Recent Works
 
