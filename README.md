@@ -25,6 +25,8 @@ GIS expert managing geospatial data to support a variety of project and client n
 
 During GIS career, I have sought opportunities to analyze situations accurately so effective plans of action could be developed and safely executed, establish good relationships with local residents, maintain GIS applications and procedures, as well as teach, train, and communicate GIS concepts to non-GIS users.
 
+- [Journal of Urban Planning and Development](/journal/2025-07-journal.md)
+
 ## Support
 
 <p><a href="https://www.buymeacoffee.com/pjhooker"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pjhooker" /></a></p>
