@@ -1,0 +1,8 @@
+- Awesome Geospatial,"Long list of geospatial analysis tools. Geospatial analysis, or just spatial analysis, is an approach to applying statistical analysis and other analytic techniques to data which has a geographical or spatial aspect.",https://github.com/sacridini/Awesome-Geospatial
+- Awesome README,"Elements in beautiful READMEs include, but are not limited to:images, screenshots, GIFs, text formatting, etc.",https://github.com/matiassingers/awesome-readme?tab=readme-ov-file
+- Refactoring.Guru,"Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.",https://refactoring.guru/
+- How to Write a Git Commit Message,,https://cbea.ms/git-commit/
+- https://github.com/mapbox/awesome-vector-tiles,,https://github.com/mapbox/awesome-vector-tiles
+- Open Geospatial Solutions,The Open Geospatial Solutions (https://github.com/opengeos) GitHub organization hosts a collection of open-source geospatial software projects.,https://github.com/opengeos?s=09
+- awesome geojson,,https://github.com/tmcw/awesome-geojson
+- GoogleChrome/workbox,,https://github.com/GoogleChrome/workbox/
