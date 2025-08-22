@@ -1,0 +1,13 @@
+- Geospatial Data Pipelines,https://www.youtube.com/watch?v=OTo3xgJoZRM,"Extract, Load, Transform! Ever wanted to create scalable geospatial data pipelines that are repeatable and scalable? Look no further than this live stream where we will use geospatial files loaded into common data storage tools like PostGIS and DuckDB, and transforming those datasets with dbt - Data Build Tool!"
+- Why I quit Esri,https://www.youtube.com/watch?v=03UcZfI8G4s,(and how you can too)
+- OSINT At Home #10,https://www.youtube.com/watch?v=bJkV3l5Haq0,How to map anything with freely available location data.
+- OpenJS Foundation,https://www.youtube.com/@OpenJSFoundation,The OpenJS Foundation supports the healthy growth of JavaScript and web technologies by providing a neutral organization to host and sustain projects.
+- When vector tiles are not enough,https://www.youtube.com/watch?v=EuymvVuV0K4,2023 | When vector tiles are not enough: advanced visualizations with deck.gl - Marti Pericay
+- "Comparing Algorithms: A* vs Dijkstra, in the city's map.",https://www.youtube.com/watch?v=oMgfGkFSgI0,
+- Creating Geomaps in Dashboards 2.0,https://www.youtube.com/watch?v=QcMv5oh5dWk,
+- IBM geospatial foundation model,https://www.youtube.com/watch?v=9bU9eJxFwWc,
+- Bloomberg Terminal - Powerful Maps Data Overview,https://www.youtube.com/watch?v=PKNUxOmQrgw,
+- So You Think You Know Git - FOSDEM 2024,https://www.youtube.com/watch?v=aolI_Rz0ZqY,
+- Getting Started in Geospatial Intelligence,https://www.youtube.com/watch?v=bicX6SLHoXY,(GEOINT) w/ Mishaal Khan
+- Unveiling the Beta: What's New in the Awesome GEE Community Catalog,https://www.youtube.com/watch?v=4czqwP9z2bc,
+- OpenAI’s ChatGPT: This is Science Fiction!,https://www.youtube.com/watch?v=ewLMYLCWvcI,
