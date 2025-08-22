@@ -1,0 +1,6 @@
+- WEATHER DATA FOR WEB MAPS,USING MAPBOX AND OPEN SOURCE TOOLS TO MAP ATMOSPHERIC WATER,https://commercedataservice.github.io/tutorial_mapbox_part1/
+- http://adsbexchange.com/,World's largest source of unfiltered flight data,https://globe.adsbexchange.com/
+- http://aviationweather.gov/gfa,Graphical Forecasts for Aviation (GFA),https://aviationweather.gov/gfa/#taf
+- Air Quality,Observations from Space,https://airquality.gsfc.nasa.gov/
+- Ozone Monitoring Instrument,"O2 tropospheric column density, screened for CloudFraction < 30% global daily composite at 0.25 degree resolution for the temporal range of 2004 to May 2020.",https://aws.amazon.com/marketplace/pp/prodview-avs4bcxwajt4q?sr=0-425&ref_=beagle&applicationId=AWSMPContessa#overview
+- Real-Time Air Quality Map | PurpleAir,,
