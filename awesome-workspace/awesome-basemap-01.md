@@ -1,0 +1,26 @@
+- [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)
+- Carto Vector,,https://docs.carto.com/carto-for-developers/carto-for-react/guides/basemaps
+- Map Compare,"Map Compare shows you different maps from OpenStreetMap, Google, and others side by side.",https://mc.bbbike.org/mc/?lon=13.368594&lat=52.459748&zoom=10&num=2&mt0=osm-no-labels&mt1=mapnik&marker=
+- qgis_recursos/xyztiles,Listado de servicios XYZ.,https://github.com/sigdeletras/qgis_recursos/blob/master/xyztiles/README.md
+- Basemaps for MapLibre,"To render a full basemap, you'll need not only a style and a tileset, but also MapLibre fontstack and spritesheet assets.",https://docs.protomaps.com/basemaps/maplibre
+- CARTO basemap styles,"All the styles are ""soft"" in a sense that they are meant to be used as background or basemap below data layers. These are not really meant to be used as stand-alone map by itself, something you'l get from Google, Here and other general maps.",https://github.com/CartoDB/basemap-styles
+- CARTO basemap styles,"CARTO Basemap styles for web and mobile, raster and vector.",https://github.com/maptiler/carto-basemap-styles/tree/master
+- Editor for Tangram scene files,"Tangram Play is an interactive text editor for creating maps using Mapzen’s https://mapzen.com/products/tangram/. With Play, you can write and edit map styles in YAML and preview the changes live in the web browser. Start with one of Mapzen’s base maps or create your own style!",https://github.com/tangrams/tangram-play?tab=readme-ov-file#editor-for-tangram-scene-files
+- CARTO STYLE COMPARISON,,https://cartodb.github.io/basemap-styles/#zoom%3D6%3Blat%3D45.38%3Blon%3D10.31%3Br1%3Dol%3Br2%3Dgl%3Br3%3Dleaflet%3Br4%3Dleaflet%3Bs1%3DVoyager%20vector%20on%20OpenLayers%3Bs2%3DVoyager%20Vector%20on%20Mapbox-GL%3Bs3%3DVoyager%20raster%3Bs4%3DVoyager%20raster
+- OpenStreetMap Carto,These are the CartoCSS map stylesheets for the Standard map layer on http://www.openstreetmap.org/.,https://github.com/geofabrik/openstreetmap-carto-vector-tiles?tab=readme-ov-file
+- Bathymetry,,https://www.ncei.noaa.gov/maps/iho_dcdb/
+- General Bathymetric Chart of the Oceans,Общедоступная батиметрическая карта Мирового океана,https://qms.nextgis.com/geoservices/5682/
+- Global Multi-Resolution Topography (GMRT) Synthesis,"The Global Multi-Resolution Topography (GMRT) synthesis is a multi-resolution gridded compilation of edited multibeam sonar bathymetry data from the global and polar oceans, merged with terrestrial and lower resolution ocean data from GEBCO. ",https://qms.nextgis.com/geoservices/5204/
+- GMRT,Global Multi-Resolution Topography. Bathymetry plus NASA/USGS elevation,https://qms.nextgis.com/geoservices/5055/
+- openseamap,,https://map.openseamap.org/
+- Apache Baremaps (incubating),"Apache Baremaps is a toolkit and a set of infrastructure components for creating, publishing, and operating online maps. It provides a data pipeline enabling developers to build maps with different data sources with live reload capabilities.",https://github.com/apache/incubator-baremaps
+- OvertureMaps/overture-tiles,Create tilesets from http://overturemaps.org/ data.,
+- https://www.openrailwaymap.org/index.php,,https://www.openrailwaymap.org/
+- https://community.openstreetmap.org/t/vector-tiles-on-osmf-hardware/121501,,https://pnorman.github.io/tilekiln-shortbread-demo/#6.1/-21.191/-43.163
+- Orhyginal's map,,http://map.orhyginal.fr/#5/44.934/10.503
+- OpenSwitchMaps web,,https://tankaru.github.io/OpenSwitchMapsWeb/index.html
+- Bathymetric Data Viewer,,https://www.ncei.noaa.gov/maps/bathymetry/
+- Incorporating Global Landcover Tiles with MapLibre GL JS - Stadia Maps Documentation,,https://docs.stadiamaps.com/tutorials/incorporating-global-landcover-tiles-maplibre/
+- OpenSwitchMaps web,,https://tankaru.github.io/OpenSwitchMapsWeb/index.html
+- ,,https://github.com/opengeos/qgis-basemaps
+- OpenFreeMap,,https://openfreemap.org/
