@@ -1,0 +1,13 @@
+- Overture Maps data in action,https://carto.com/blog/overture-maps-data-now-on-the-cloud-use-it-with-carto,carto
+- Redesigning our Developers section in CARTO Workspace,https://docs.carto.com/whats-new/q2-2024?hss_channel=lcp-5084329#redesigning-our-developers-section-in-carto-workspace,"carto, workspace"
+- Timefold Quickstarts,https://github.com/TimefoldAI/timefold-quickstarts/tree/stable,routing
+- unbiodiversitylab,https://map.unbiodiversitylab.org/earth,
+- GeomaticoLabs,https://labs.geomatico.es/,
+- "GeoGig is an open source tool that draws inspiration from 
+- Git",https://geogig.org/,
+- GeoKettle Extract Transform Load (ETL),https://live.osgeo.org/archive/10.0/en/overview/geokettle_overview.html,
+- stevebennett,https://hire.stevebennett.me/#portfolio-10ThingsIhateaboutGit,
+- Run Node.js in Your Browser with WebContainers,https://blog.bitsrc.io/running-node-js-in-your-browser-with-webcontainers-48ada077518e,
+- Maps for HTML Community Group,https://github.com/Maps4HTML,
+- pygeoapi is a Python server implementation of the OGC API suite of standards. The project emerged as part of the next generation OGC API efforts in 2018 and provides the capability for organizations to deploy a RESTful OGC API endpoint using OpenAPI, GeoJSON, and HTML.	https://pygeoapi.io/
+- The Apache Arrow project specifies a standardized language-independent columnar memory format.	https://github.com/geoarrow/geoarrow
