@@ -1,5 +1,6 @@
 # awesome-map-tools
 
+- [**Valhalla**](https://valhalla.github.io/valhalla/) (`GitHub`) is an open source routing engine and accompanying libraries for use with OpenStreetMap data.
 - [vgrid-maplibre - npm](https://www.npmjs.com/package/vgrid-maplibre)
 - GitHub - c2g-dev/city2graph: Transform geospatial relations into graph representations designed for spatial analysis and Graph Neural Networks (GNNs). https://github.com/c2g-dev/city2graph
 - GitHub - ktanaka101/mcp-server-duckdb: A Model Context Protocol (MCP) server implementation for DuckDB, providing database interaction capabilities https://github.com/ktanaka101/mcp-server-duckdb
@@ -12,4 +13,5 @@ https://github.com/mindsdb/mindsdb
 - OpenRailwayMap https://www.openrailwaymap.org/
 - Five QGIS network analysis toolboxes for routing and isochrones | Free and Open Source GIS Ramblings https://anitagraser.com/2019/07/07/five-qgis-network-analysis-toolboxes-for-routing-and-isochrones/
 - GTFS Viz https://gtfs-viz-production-f1a4.up.railway.app/
-- [GitHub - topojson/us-atlas: Pre-built TopoJSON from the U.S. Census Bureau.](https://github.com/topojson/us-atlas)
+- [topojson/us-atlas: Pre-built TopoJSON from the U.S. Census Bureau.](https://github.com/topojson/us-atlas) (`GitHub`) 
+- [**Timefold Vehicle Routing**](https://github.com/TimefoldAI/timefold-quickstarts?tab=readme-ov-file#-vehicle-routing) (`GitHub`) Find the most efficient routes for vehicles to reach visits, considering vehicle capacity and time windows when visits are available. Sometimes also called "CVRPTW". 
