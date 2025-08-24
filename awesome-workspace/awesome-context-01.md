@@ -1,41 +1,15 @@
-I 10 saggi di Paul Graham che ogni fondatore dovrebbe leggere, selezionati da Yurii Rebryk 👇
+# Awesome Context 01
 
-1. Fai Cose Che Non Si Scalano
-I tuoi primi 10 utenti dovrebbero sentirsi come clienti, non come clic.
-https://lnkd.in/dcKYH9M5
+## Paul Graham (programmer)
 
-2. Startup = Crescita
-Se non sta crescendo, non è una startup.
-https://lnkd.in/djQBDN_8
+Paul Graham ([en.wikipedia.org](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))) is a programmer, writer, and investor. In 1995, he and Robert Morris started Viaweb, the first software as a service company. 
 
-3. Startup in 13 Frasi
-La cosa più vicina a un manuale di YC.
-https://lnkd.in/dT5JKfzC
-
-4. Modalità Fondatore
-Come ci si sente davvero a essere il fondatore di una startup.
-https://lnkd.in/dXmPTcus
-
-5. Sii Bravo
-Nessun growth hack batte un prodotto che le persone amano.
-https://lnkd.in/dB3xThCG
-
-6. I Miliardari Costruiscono
-Parla meno, realizza di più.
-https://lnkd.in/dUW4w3RZ
-
-7. Le Lezioni Più Difficili da Imparare per le Startup
-Le distrazioni che uccidono silenziosamente le grandi aziende.
-https://lnkd.in/d26g2uAf
-
-8. 18 Errori Che Uccidono le Startup
-Evitali e sarai avanti al 90% dei team.
-https://lnkd.in/d38XQE4M
-
-9. Come Convincere gli Investitori
-Cosa dire prima ancora di inviare una presentazione.
-https://lnkd.in/dQZkxjjW
-
-10. Idee per Startup
-La curiosità è il seme di ogni grande azienda.
-https://lnkd.in/dSi6QhwV
+- [Do Things that Don't Scale](https://www.paulgraham.com/ds.html) I tuoi primi 10 utenti dovrebbero sentirsi come clienti, non come clic.
+- [Want to start a startup?](https://paulgraham.com/13sentences.html) Se non sta crescendo, non è una startup.
+- [Founder Mode](https://paulgraham.com/foundermode.html) Come ci si sente davvero a essere il fondatore di una startup.
+- [Be Good](https://paulgraham.com/good.html) Nessun growth hack batte un prodotto che le persone amano.
+- [Billionaires Build](https://www.paulgraham.com/ace.html) Parla meno, realizza di più.
+- [The Hardest Lessons for Startups to Learn](https://www.paulgraham.com/startuplessons.html) Le distrazioni che uccidono silenziosamente le grandi aziende.
+- [The 18 Mistakes That Kill Startups](https://www.paulgraham.com/startupmistakes.html) Evitali e sarai avanti al 90% dei team.
+- [How to Convince Investors](https://paulgraham.com/convince.html) Cosa dire prima ancora di inviare una presentazione.
+- [Ideas for Startups](https://paulgraham.com/ideas.html) La curiosità è il seme di ogni grande azienda.
