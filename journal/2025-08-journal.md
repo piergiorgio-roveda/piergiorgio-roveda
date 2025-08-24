@@ -81,9 +81,6 @@ README
 
 ## Social
 
-- https://www.facebook.com/piergiorgio.roveda.5011/
-- https://www.facebook.com/Cityplanner.biz/
-- https://www.instagram.com/piergiorgio.pj/
 - https://x.com/Null_Island_Geo
 - https://contra.com/piergiorgio_roveda_gpfatute
 - https://peerlist.io/piergiorgio

@@ -26,7 +26,6 @@ https://github.com/googleapis/genai-toolbox
 
 ## Platforms
 
-- Zornade ⇒ https://app.zornade.com/
 - simstudio.ai ⇒ https://www.simstudio.ai/workspace/
 - zed.dev ⇒ https://zed.dev/
   - The editor for what's next
@@ -37,7 +36,6 @@ https://github.com/googleapis/genai-toolbox
 - https://observablehq.com/notebook-kit/
 - GISFAST - Advanced Geospatial Data Visualization Platform
 https://www.gisfast.my.id/
-- AtlasAI - The AI Platform for Geospatial https://www.atlasai.co/
 - https://github.com/rohinmanvi/GeoLLM GitHub (https://github.com/rohinmanvi/GeoLLM)
 GitHub - rohinmanvi/GeoLLM
 - https://github.com/Teakinboyewa/SpatialAnalysisAgent GitHub (https://github.com/Teakinboyewa/SpatialAnalysisAgent)
