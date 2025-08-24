@@ -51,30 +51,33 @@ This month ...
 
 ## Hold in your pocket
 
-- https://it-tools.tech/
-- [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org/using-the-template/)
-- https://boundingbox.klokantech.com/
-- https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
-- https://maplibre.org/maputnik/?layer=3775887416%7E0#18.59/45.463978/9.1895161
-- https://www.shodan.io/
-- https://github.com/geographyclub/gis-from-command-line
-- https://llmstxt.firecrawl.dev/
-- https://til.simonwillison.net/
-- [Digital Garden Search](https://github.com/topics/digital-garden?ref=hackernoon.com)
-- https://www.chartjs.org/docs/latest/samples/information.html
-- https://echarts.apache.org/examples/en/index.html
-- https://colourcontrast.cc/
-- https://color.adobe.com/create/color-wheel
-- https://healthchecks.io/projects/23422d8a-e268-45f6-950e-8b0d87b2cf25/checks/
-- https://openrouter.ai/
-- https://zettelkasten.de/introduction/
-- https://blog.dailydoseofds.com/
-- https://huggingface.co/blog/synthetic-data-generator
-- https://archive.org/details/graphicmethodsfo00brinrich
-- [https://web-check.xyz/](https://www.notion.so/https-web-check-xyz-137acfa8b2eb81368fdbff50475356de?pvs=21)
-- [GitHub - public-apis/public-apis: A collective list of free APIs](https://www.notion.so/GitHub-public-apis-public-apis-A-collective-list-of-free-APIs-ad94edec12be49968478f7811ec29fa5?pvs=21)
-- [GitHub - topojson/us-atlas: Pre-built TopoJSON from the U.S. Census Bureau.](https://www.notion.so/GitHub-topojson-us-atlas-Pre-built-TopoJSON-from-the-U-S-Census-Bureau-6d1b883459164125824be131459bd9a6?pvs=21)
-- [GitHub - carwin/flag-generator: A random flag generator](https://www.notion.so/GitHub-carwin-flag-generator-A-random-flag-generator-7adf5724d68242b0a3713e0afebc0008?pvs=21)
+- [**IT-Tools**](https://it-tools.tech/) (`GitHub`) aggregates useful tools for developer and people working in IT 
+- [**Cookiecutter Data Science**](https://cookiecutter-data-science.drivendata.org/using-the-template/) (`GitHub`) is a logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+- [**BoundingBox**](https://boundingbox.klokantech.com/) is a simple tool to help you find the bounding box of a place.
+- [**Conventional Commits Cheatsheet**](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) (`GitHub`) is a simple guide to write commit messages according to the Conventional Commits specification.
+- [**Maputnik**](https://maplibre.org/maputnik) (`GitHub`) Maputnik is based on the MapLibre Style Spec in order to see everything you can define please visit the style [spec documentation](https://maplibre.org/maplibre-style-spec/).
+- [**GIS from command line**](https://github.com/geographyclub/gis-from-command-line) (`GitHub`) All the software and scripts you need to make Linux a complete Geographic Information System from command line.
+- [**clipboard2markdown**](https://euangoddard.github.io/clipboard2markdown/)  (`GitHub`) Markdown converter written in JavaScript and running locally in the browser. [**Firecrawl**](https://www.firecrawl.dev/) Turn websites into
+LLM-ready data (It's also open source.)
+- [**Adobe - ColorWheel**](https://color.adobe.com/create/color-wheel) generate stunning palettes with Adobe's Color Wheel
+- [**Colour contrast checker**](https://colourcontrast.cc/) (`GitHub`) is a tool to help web designers and developers determine the contrast ratio between foreground and background colors.
+- [**Healthchecks.io**](https://healthchecks.io/) simple and Effective Cron Job Monitoring
+- [**AI use Top Apps**](https://openrouter.ai/rankings#apps) list of the most popular apps using OpenRouter
+- [**Daily Dose of Data Science**](https://blog.dailydoseofds.com/) brings together intriguing frameworks, libraries, technologies, and tips that make the life cycle of a Data Science project effortless.
+- [**Synthetic Data Generator**](https://huggingface.co/blog/synthetic-data-generator) (`huggingface`) a user-friendly application that takes a no-code approach to creating custom datasets with Large Language Models (LLMs)
+- [**Graphic methods for presenting facts** by Brinton, Willard Cope, 1880](https://archive.org/details/graphicmethodsfo00brinrich) an impressive, early survey of what would today be considered to be bare-bones statistical diagrams and graphic techniques that existed at that moment.
+- [**WebCheck**](https://github.com/lissy93/web-check) (`GitHub`) an you X-Ray Vision for your Website
+- [**APILayer** a collective list of free APIs](https://github.com/public-apis/public-apis) (`GitHub`) Consider it a treasure trove of APIs well-managed by the community over the years.
+- [**Readme.so** by Katherine Oelsner](https://readme.so/es/editor) (`GitHub`) the easiest way to create a
+README
+
+## Digital Gardens
+
+- [**Zettelkasten Method**](https://zettelkasten.de/introduction/) (`CC-BY-SA`) a Personal Tool for Thinking and Writing
+- [**Simon Willison: TIL**](https://til.simonwillison.net/) (`GitHub`) Things I've learned, collected in [simonw/til](https://github.com/simonw/til).
+- [**Digital Garden Github search**](https://github.com/topics/digital-garden)
+- [**The HackerNoon**](https://hackernoon.com/) a built for technologists to read, write, and publish.
+- [**Hacker News**](https://news.ycombinator.com/news) is a social news website focusing on computer science and entrepreneurship.
 
 ## Social
 
@@ -82,3 +85,7 @@ This month ...
 - https://www.facebook.com/Cityplanner.biz/
 - https://www.instagram.com/piergiorgio.pj/
 - https://x.com/Null_Island_Geo
+- https://contra.com/piergiorgio_roveda_gpfatute
+- https://peerlist.io/piergiorgio
+- https://mastodon.social/@pjhooker
+- https://www.reddit.com/user/pjhooker/
