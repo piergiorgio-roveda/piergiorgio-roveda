@@ -1,3 +1,6 @@
+- https://www.chartjs.org/docs/latest/samples/information.html
+- https://echarts.apache.org/examples/en/index.html
+
 | ﻿Title | Description/Comments | URL | tags |
 | --- | --- | --- | --- |
 | Font-gis |  | https://viglino.github.io/font-gis/?fg=route-start | icon |
@@ -31,3 +34,4 @@
 | https://ui-libs.vercel.app/ |  |  |  |
 | Eva Design System: Deep learning color generator |  |  |  |
 | Plain Vanilla |  | https://plainvanillaweb.com/index.html |  |
+- [GitHub - carwin/flag-generator: A random flag generator](https://www.notion.so/GitHub-carwin-flag-generator-A-random-flag-generator-7adf5724d68242b0a3713e0afebc0008?pvs=21)

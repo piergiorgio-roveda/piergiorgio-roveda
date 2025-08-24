@@ -47,8 +47,20 @@ GitHub - Teakinboyewa/SpatialAnalysisAgent
 ## Other Resources
 
 - [AGENTS.md](https://agents.md/)
+  - Comprehensive documentation and guides for implementing AI agents
+  - Features best practices for agent architecture, prompt engineering, and tool use
+  - Includes tutorials on autonomous AI systems and multi-agent frameworks
+  - Resource hub for developers building intelligent, interactive AI applications
 - [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
+  - Open standard for describing AI model capabilities
+  - Defines format for documenting model behavior, limitations, and usage guidelines
+  - Helps developers select appropriate models for applications
+  - Supports responsible AI development through standardized documentation
 - [anthropic-cookbook/tool_use](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/customer_service_agent.ipynb)
+  - Jupyter notebook demonstrating how to build a customer service AI agent using Claude
+  - Features examples of tool use for database lookups and order processing
+  - Shows how to implement structured outputs and error handling
+  - Includes practical patterns for creating effective AI customer support assistants
 - [Secure your AI applications](https://www.promptfoo.dev/)
 - Interpretability: Understanding how AI models think - YouTube
 https://www.youtube.com/watch?v=fGKNUvivvnc
