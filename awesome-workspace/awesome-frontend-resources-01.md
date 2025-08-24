@@ -1,5 +1,6 @@
 - https://www.chartjs.org/docs/latest/samples/information.html
 - https://echarts.apache.org/examples/en/index.html
+- https://chakra-ui.com/docs/components/slider
 
 | ﻿Title | Description/Comments | URL | tags |
 | --- | --- | --- | --- |
