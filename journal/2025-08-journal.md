@@ -36,13 +36,12 @@ This workflow gives me both speed and control, without losing track of progress.
 
 ## Interesting Links
 
-- [vgrid-maplibre - npm](https://www.npmjs.com/package/vgrid-maplibre)
-- [AGENTS.md](https://agents.md/)
-- [GeoDa AI](https://openjsf.org/blog/introducing-geoda-ai)
-- [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
-- [GeoGPT](https://geogpt.zero2x.org/)
+- [vgrid-maplibre - npm](https://www.npmjs.com/package/vgrid-maplibre) (`GitHub`) DGGS Visualization for MapLibre GL JS
+- [GeoDa AI](https://openjsf.org/blog/introducing-geoda-ai) A New Addition to the OpenJS Foundation’s Open Visualization Collaboration Space.
+- [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html) first draft of the Model Spec, a document that specifies desired behavior for our models in the OpenAI API and ChatGPT.
+- [GeoGPT](https://geogpt.zero2x.org/) (`GitHub`) A Non-Profit Exploratory Research Project
 - [anthropic-cookbook/tool_use](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/customer_service_agent.ipynb)
-- [Secure your AI applications](https://www.promptfoo.dev/)
+- [Secure your AI applications](https://www.promptfoo.dev/) (`GitHub`) Find vulnerabilities you actually care about
 - [WorldPop Global Population Data 2015-2030 dataset](https://gee-community-catalog.org/projects/worldpop/#available-data)
 
 ## Conclusion
