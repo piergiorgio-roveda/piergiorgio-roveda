@@ -1,0 +1,330 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* MapLibre popup styling */
+.maplibregl-popup {
+  max-width: 400px;
+  font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.vanilla:hover {
+  filter: drop-shadow(0 0 2em #f7df1eaa);
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+/* Styles for the map instructions panel */
+.map-instructions {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  max-width: 300px;
+  font-size: 14px;
+}
+
+.map-instructions h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #d32f2f;
+}
+
+.map-instructions ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.map-instructions li {
+  margin-bottom: 5px;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .map-instructions {
+    background-color: rgba(40, 40, 40, 0.9);
+    color: #f0f0f0;
+  }
+  
+  .map-instructions h3 {
+    color: #ff6b6b;
+  }
+}
+
+/* Styles for the location information container */
+.location-info-container {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  max-width: 350px;
+  max-height: 400px;
+  overflow-y: auto;
+  font-size: 13px;
+}
+
+.location-info-container h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #2e7d32;
+}
+
+.location-info-content {
+  margin-bottom: 5px;
+}
+
+.location-info-content ul {
+  margin: 5px 0;
+  padding-left: 20px;
+}
+
+.location-info-content li {
+  margin-bottom: 3px;
+}
+
+.location-info-content ul ul {
+  margin: 3px 0;
+  padding-left: 15px;
+}
+
+/* Highlight indicator in the location info panel */
+.highlight-indicator {
+  color: #FFC107;
+  font-size: 1.2em;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+/* Styles for the layer controls */
+.layer-controls {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  min-width: 200px;
+  font-size: 14px;
+}
+
+.layer-controls h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+}
+
+.layer-toggle {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.layer-toggle input[type="checkbox"] {
+  margin-right: 8px;
+}
+
+.layer-toggle label {
+  cursor: pointer;
+}
+
+/* Styles for the PMTiles layers info panel */
+.pmtiles-layers-info {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  max-width: 300px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.pmtiles-layers-info h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #1976d2;
+}
+
+.pmtiles-layers-info ul {
+  margin: 5px 0;
+  padding-left: 20px;
+}
+
+.pmtiles-layers-info li {
+  margin-bottom: 3px;
+}
+
+/* Styles for the discover layers button */
+.discover-layers-button {
+  position: absolute;
+  top: 120px;
+  right: 10px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 1;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.discover-layers-button:hover {
+  background-color: #1565c0;
+}
+
+/* Dark mode support for location info */
+@media (prefers-color-scheme: dark) {
+  .location-info-container {
+    background-color: rgba(40, 40, 40, 0.9);
+    color: #f0f0f0;
+  }
+  
+  .location-info-container h3 {
+    color: #81c784;
+  }
+  
+  .highlight-indicator {
+    color: #FFEB3B;
+  }
+  
+  .pmtiles-layers-info {
+    background-color: rgba(40, 40, 40, 0.9);
+    color: #f0f0f0;
+  }
+  
+  .pmtiles-layers-info h3 {
+    color: #64b5f6;
+  }
+  
+  .discover-layers-button {
+    background-color: #2196f3;
+  }
+  
+  .discover-layers-button:hover {
+    background-color: #1e88e5;
+  }
+  
+  .layer-controls {
+    background-color: rgba(40, 40, 40, 0.9);
+    color: #f0f0f0;
+  }
+  
+  .layer-controls h3 {
+    color: #f0f0f0;
+  }
+}
