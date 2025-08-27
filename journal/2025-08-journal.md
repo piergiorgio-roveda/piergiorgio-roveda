@@ -48,7 +48,7 @@ This workflow gives me both speed and control, without losing track of progress.
 
 This month ...
 
-## Hold in your pocket
+## Hold in your pocket for GIS & Urban Planning workflows?
 
 - [**IT-Tools**](https://it-tools.tech/) (`GitHub`) aggregates useful tools for developer and people working in IT 
 - [**Cookiecutter Data Science**](https://cookiecutter-data-science.drivendata.org/using-the-template/) (`GitHub`) is a logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
