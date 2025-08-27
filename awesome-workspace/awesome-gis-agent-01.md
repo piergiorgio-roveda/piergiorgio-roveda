@@ -44,6 +44,9 @@ GitHub - Teakinboyewa/SpatialAnalysisAgent
 
 ## Other Resources
 
+- [**DeepWiki**](https://deepwiki.com/) AI-powered search engine for technical documentation.
+- [**rendergit**](https://github.com/karpathy/rendergit) by Karpathy, Just show me the code.
+- [**SideKick Dev**](https://sidekickdev.com/) Automatically generate high-quality markdown context files for your coding agents to enhance their performance.
 - [**Decentralized AI** NANDA MIT](https://github.com/aidecentralized) (`GitHub`) NANDA Protocol - Networked AI Agents 
 - [**AGENTS.md**](https://agents.md/) Comprehensive documentation and guides for implementing AI agents
 - [**Model Spec**](https://cdn.openai.com/spec/model-spec-2024-05-08.html) Open standard for describing AI model capabilities
