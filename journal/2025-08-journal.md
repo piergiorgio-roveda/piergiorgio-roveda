@@ -43,6 +43,8 @@ This workflow gives me both speed and control, without losing track of progress.
 - [anthropic-cookbook/tool_use](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/customer_service_agent.ipynb)
 - [Secure your AI applications](https://www.promptfoo.dev/) (`GitHub`) Find vulnerabilities you actually care about
 - [WorldPop Global Population Data 2015-2030 dataset](https://gee-community-catalog.org/projects/worldpop/#available-data)
+- [SideKick Dev](https://sidekickdev.com/) (`GitHub`) Automatically generate high-quality markdown context files for your coding agents to enhance their performance.
+- [whosonfirst-data-postalcode](https://data.geocode.earth/wof/dist/protomaps/whosonfirst-data-postalcode-latest.pmtiles)
 
 ## Conclusion
 
@@ -69,6 +71,8 @@ LLM-ready data (It's also open source.)
 - [**APILayer** a collective list of free APIs](https://github.com/public-apis/public-apis) (`GitHub`) Consider it a treasure trove of APIs well-managed by the community over the years.
 - [**Readme.so** by Katherine Oelsner](https://readme.so/es/editor) (`GitHub`) the easiest way to create a
 README
+- [**DeepWiki**](https://deepwiki.com/) AI-powered search engine for technical documentation.
+- [**rendergit**](https://github.com/karpathy/rendergit) by Karpathy, Just show me the code.
 
 ## Digital Gardens
 
