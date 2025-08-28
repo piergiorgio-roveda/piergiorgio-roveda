@@ -58,6 +58,48 @@ https://www.youtube.com/watch?v=gv0WHhKelSE&pp=QAFIAQ%3D%3D
 - MiniMax Agent: Minimize Effort, Maximize Intelligence
 https://agent.minimax.io/
 
+
+- [ArcGIS Insights](https://doc.arcgis.com/en/insights/)
+- [ArcGIS StoryMaps](https://storymaps.arcgis.com/)
+- Google Geospatial Reasoning – (trusted-tester)
+- [GeoNode / MapStore](https://geonode.org/)
+- [Tableau (+GPT)](https://tableau.com/)
+- [Power BI (+Copilot)](https://powerbi.microsoft.com/)
+- [CARTO Workspace](https://carto.com/)
+- [Foursquare Studio](https://studio.foursquare.com/)
+- [Felt](https://felt.com/)
+- [Fused](https://fused.ai/)
+- [Notion](https://www.notion.so/)
+- [Obsidian](https://obsidian.md/)
+- [Google Docs (+ Charts)](https://docs.google.com/)
+- [Jupyter](https://jupyter.org/)
+- [Observable](https://observablehq.com/)
+- [Coda](https://coda.io/)
+- [Quarto](https://quarto.org/)
+- [Kepler.gl](https://kepler.gl/)
+- [Dekart.xyz](https://dekart.xyz/) SQL to Map. Instantly. We took Kepler.gl, and connected it to your data warehouse. Now you can type SQL and get beautiful, up-to-date maps ready to share with your team.
+- [Nika GAIA](https://www.nikaplanet.com/) — Geospatial AI Analyst, out now.
+- [GISCARTA](https://giscarta.com/) Intuitive GIS for Powerful Geospatial Analysis
+- [Hex](https://hex.tech/)
+- [GeoRetina](https://georetina.ai/)
+- [Aino AI](https://aino.world/)                      
+- [Alteryx](https://alteryx.com/)                     
+- [Dataiku DSS ](https://dataiku.com/)                
+- [LLM-Geo](https://github.com/gladcolor/LLM-Geo)     
+- [QGIS Spatial-Agent](https://plugins.qgis.org/plugins/SpatialAnalysisAgent-master/)
+- [Maptionnaire](https://maptionnaire.com/)
+- [Humap](https://humap.me/)
+- [CartoVista](https://cartovista.com/)
+- [StoryMapJS](https://storymap.knightlab.com/)
+- [Odyssey.js](https://github.com/cartodb/odyssey.js)
+- [MapStory](https://mapstory.org/)
+- [Terrastories](https://terrastories.app/)
+- [Mode](https://mode.com/)
+- [Monarcha](https://monarcha.ai/)
+- [Julius AI](https://julius.ai/)
+- [ChatGeoPT - GitHub demo](https://github.com/earth-genome/ChatGeoPT)
+- [Mundi.ai](https://mundi.ai/) is an open-source *“AI-native web GIS”* designed to make PostGIS databases more accessible through natural language.
+
 | Name | Description/Comments | Link(s) | Created time |
 | --- | --- | --- | --- |
 |Databricks | Databricks is the Data and AI company.  | https://www.youtube.com/@Databricks/search | --- |
