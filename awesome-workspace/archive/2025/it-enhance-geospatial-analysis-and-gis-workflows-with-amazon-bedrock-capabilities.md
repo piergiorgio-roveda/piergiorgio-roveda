@@ -1,8 +1,8 @@
-# Migliorare l'analisi geospaziale e i flussi di lavoro GIS con le capacità dei modelli di base AI
+# Migliorare l'analisi geospaziale e i flussi di lavoro GIS con le capacità dei foundation models
 
 Con l'aumentare della disponibilità di dati e della complessità dei sistemi informativi, gli stakeholder necessitano di soluzioni che rivelino insight di qualità. L'applicazione delle tecnologie emergenti al dominio geospaziale offre un'opportunità unica per creare esperienze utente trasformative e flussi di lavoro intuitivi per utenti e organizzazioni, permettendo loro di adempiere alle proprie missioni e responsabilità.
 
-In questo articolo esploriamo come integrare i sistemi esistenti con i modelli di base AI per creare nuovi flussi di lavoro in grado di sbloccare efficienza e intuizioni. Questa integrazione può beneficiare ruoli tecnici, non tecnici e i livelli dirigenziali.
+In questo articolo esploriamo come integrare i sistemi esistenti con i foundation models (FMs) per creare nuovi flussi di lavoro in grado di sbloccare efficienza e intuizioni. Questa integrazione può beneficiare ruoli tecnici, non tecnici e i livelli dirigenziali.
 
 ## Introduzione ai dati geospaziali
 
@@ -11,20 +11,20 @@ I dati geospaziali sono associati a una posizione rispetto alla Terra (latitudin
 - Dati vettoriali – caratteristiche geografiche, come strade, edifici o confini comunali, rappresentate come punti, linee o poligoni
 - Dati tabellari – dati basati sulla posizione, come descrizioni e metriche (pioggia media, popolazione, proprietà), rappresentati in tabelle di righe e colonne
 
-Le sorgenti di dati geospaziali possono anche contenere elementi di testo in linguaggio naturale per attributi non strutturati e metadati per categorizzare e descrivere il record in questione. I Sistemi Informativi Geografici (GIS) forniscono un modo per memorizzare, analizzare e visualizzare le informazioni geospaziali. Nelle applicazioni GIS, queste informazioni sono frequentemente presentate su una mappa per visualizzare strade, edifici e vegetazione.
+Le sorgenti di dati geospaziali possono anche contenere elementi di testo in linguaggio naturale per attributi non strutturati e metadati per categorizzare e descrivere il record in questione. Geographic Information Systems (GIS) forniscono un modo per memorizzare, analizzare e visualizzare le informazioni geospaziali. Nelle applicazioni GIS, queste informazioni sono frequentemente presentate su una mappa per visualizzare strade, edifici e vegetazione.
 
-## LLM e modelli di base AI
+## LLMs e foundation models
 
-I large language model (LLM) sono una sottoclasse di modelli di base (foundation models, FM) che possono trasformare input (di solito testo o immagine, a seconda della modalità del modello) in output (generalmente testo) tramite un processo chiamato generazione. I servizi di modelli di base AI offrono piattaforme complete, sicure e flessibili per costruire applicazioni generative AI e agenti.
+Large Language Models (LLMs) sono una sottoclasse di foundation models (FMs) che possono trasformare input (di solito testo o immagine, a seconda della modalità del modello) in output (generalmente testo) tramite un processo chiamato generazione. I servizi di foundation models AI offrono piattaforme complete, sicure e flessibili per costruire applicazioni generative AI e agenti.
 
 Gli LLM funzionano in molti compiti generalizzati che coinvolgono il linguaggio naturale. Alcuni casi d'uso comuni degli LLM includono:
 
 - Riassunto – usare un modello per riassumere un testo o un documento.
 - Q&A – usare un modello per rispondere a domande su dati o fatti dal contesto fornito durante l'addestramento o l'inferenza mediante Retrieval Augmented Generation (RAG).
-- Ragionamento – usare un modello per fornire ragionamenti in catena di pensiero che assistano un umano nel processo decisionale e nella valutazione delle ipotesi.
+- Ragionamento – usare un modello per fornire chain-of-thought reasoning che assistano un umano nel processo decisionale e nella valutazione delle ipotesi.
 - Generazione dati – usare un modello per generare dati sintetici per test, simulazioni o scenari ipotetici.
 - Generazione di contenuti – usare un modello per redigere un rapporto dagli insight derivati da una knowledge base AI o dal prompt dell'utente.
-- Agenti AI e orchestrazione di tool – usare un modello per pianificare l'invocazione di altri sistemi e processi. Dopo che altri sistemi vengono invocati da un agente, l'output dell'agente può essere usato come contesto per ulteriori generazioni LLM.
+- AI agents and tool orchestration – usare un modello per pianificare l'invocazione di altri sistemi e processi. Dopo che altri sistemi vengono invocati da un agente, l'output dell'agente può essere usato come contesto per ulteriori generazioni LLM.
 
 I GIS possono implementare queste capacità per creare valore e migliorare l'esperienza utente. I benefici includono:
 
@@ -34,7 +34,7 @@ I GIS possono implementare queste capacità per creare valore e migliorare l'esp
 
 L'integrazione degli LLM con i GIS semplifica l'analisi, mette in evidenza insight e migliora il processo decisionale.
 
-## Combinare GIS e AI tramite RAG e flussi di lavoro agentici
+## Combinare GIS e AI tramite RAG e agent workflows
 
 Gli LLM sono addestrati con grandi quantità di informazioni generalizzate per scoprire pattern nel modo in cui il linguaggio viene prodotto. Per migliorare le prestazioni degli LLM in casi d'uso specifici, sono state create approcci come RAG e i flussi di lavoro agentici. Il recupero di policy e conoscenza generale per i casi d'uso geospaziali può essere ottenuto con RAG, mentre il calcolo e l'analisi dei dati GIS richiederebbero un flusso di lavoro agentico. In questa sezione approfondiamo sia RAG che i flussi agentici nel contesto dei casi d'uso geospaziali.
 
@@ -44,7 +44,7 @@ Con RAG, è possibile iniettare dinamicamente informazioni contestuali da una kn
 
 RAG integra il prompt fornito dall'utente con dati provenienti da una knowledge base (collezione di documenti).
 
-I servizi di modelli di base AI offrono knowledge base gestite per sorgenti di dati, come servizi di storage cloud e sistemi di gestione documentale, in modo da poter fornire informazioni supplementari — come piani di sviluppo cittadino, report di intelligence o policy e regolamenti — quando il tuo assistente AI genera una risposta per un utente.
+I servizi di foundation models offrono knowledge base gestite per sorgenti di dati, come servizi di storage cloud e sistemi di gestione documentale, in modo da poter fornire informazioni supplementari — come piani di sviluppo cittadino, report di intelligence o policy e regolamenti — quando il tuo assistente AI genera una risposta per un utente.
 
 Le knowledge base sono ideali per documenti non strutturati con informazioni memorizzate in linguaggio naturale. Quando il modello AI risponde a un utente con informazioni tratte da RAG, può fornire riferimenti e citazioni al materiale sorgente. Il diagramma seguente mostra come i sistemi si connettono fra loro.
 
@@ -52,7 +52,7 @@ Le knowledge base sono ideali per documenti non strutturati con informazioni mem
 
 Poiché i dati geospaziali sono spesso strutturati e risiedono in un GIS, puoi connettere il GIS agli LLM usando tool e agenti invece delle knowledge base.
 
-### Tool e agenti (per controllare un'interfaccia utente e un sistema)
+### Tools and agents (per controllare un'interfaccia utente e un sistema)
 
 Molti LLM permettono di descrivere i tool disponibili in modo che il modello AI generi testo per invocare processi esterni. Questi processi possono recuperare informazioni in tempo reale, come il meteo corrente in una località o interrogare un archivio dati strutturato, oppure controllare sistemi esterni, ad esempio avviando un flusso di lavoro o aggiungendo layer a una mappa. Alcune funzionalità geospaziali comuni che potresti integrare con il tuo LLM usando i tool includono:
 
@@ -67,7 +67,7 @@ Molti LLM permettono di descrivere i tool disponibili in modo che il modello AI 
 
 I tool sono spesso implementati in servizi serverless. Questi servizi eseguono codice senza la complessità e l'overhead di mantenere server. Gestiscono l'infrastruttura, abilitando uno sviluppo più rapido, prestazioni migliorate, maggiore sicurezza e costi ridotti.
 
-I servizi di modelli di base AI offrono funzionalità di orchestrazione di agenti per semplificare l'orchestrazione e l'integrazione con i tuoi tool geospaziali. Questi agenti AI seguono istruzioni per il ragionamento degli LLM per scomporre un prompt dell'utente in compiti più piccoli ed eseguire azioni contro i task identificati da provider di azioni. Il diagramma seguente illustra come funzionano gli agenti AI.
+I servizi di foundation models offrono funzionalità di orchestrazione di agenti per semplificare l'orchestrazione e l'integrazione con i tuoi tool geospaziali. Questi agenti AI seguono istruzioni per il ragionamento degli LLM per scomporre un prompt dell'utente in compiti più piccoli ed eseguire azioni contro i task identificati da provider di azioni. Il diagramma seguente illustra come funzionano gli agenti AI.
 
 ![AI Agent Architecture Diagram](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/08/image-2-5.png)
 
@@ -112,7 +112,7 @@ L'LLM recupera i documenti di pianificazione urbana pertinenti, quindi sintetizz
 
 Per questo esempio, usiamo il prompt “Mostrami sulla mappa le proprietà a bassa densità in Abbeville street a Macgregor con il loro indirizzo.”
 
-L'LLM crea una catena di pensiero per cercare quali proprietà corrispondono alla query dell'utente e poi invoca lo strumento di disegno marker sulla mappa. L'LLM fornisce i parametri di invocazione del tool nel suo scratchpad, attende il completamento di queste invocazioni di tool, poi risponde in linguaggio naturale con un elenco puntato dei marker posizionati sulla mappa.
+L'LLM crea una chain-of-thought per cercare quali proprietà corrispondono alla query dell'utente e poi invoca lo strumento di disegno marker sulla mappa. L'LLM fornisce i parametri di invocazione del tool nel suo scratchpad, attende il completamento di queste invocazioni di tool, poi risponde in linguaggio naturale con un elenco puntato dei marker posizionati sulla mappa.
 
 ![Map Property Query Interface](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/08/image-6-5.png)
 
@@ -128,7 +128,7 @@ L'LLM comprende il contesto di “qui” in base al marker selezionato, esegue i
 
 ![UI Context Example Screenshot](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/08/08/image-6-5.png)
 
-### Esempio 5: Contesto UI e controllo UI
+### Esempio 5: UI context and control
 
 Successivamente, scegliamo un marker sulla mappa e inseriamo il prompt “disegna un cerchio di 0,25 miglia intorno a qui così posso visualizzare la distanza a piedi.”
 
@@ -208,7 +208,7 @@ I moderni GIS operano sempre più sotto le richieste del **big data**. Applicazi
 
 ### Calcolo elastico per carichi di lavoro spaziali
 
-L'analisi geospaziale spesso comporta **task intensivi di dati** come eseguire query spaziali complesse, effettuare join tra grandi dataset o eseguire operazioni di geoprocessing su larga scala. Una piattaforma moderna dovrebbe fornire **risorse di calcolo elastiche** che possano scalare verso l'alto o verso il basso a seconda dell'intensità del carico di lavoro. Questo garantisce che query esplorative e task analitici pesanti possano essere gestiti in modo efficiente senza vincolare il sistema a limiti infrastrutturali fissi.
+L'analisi geospaziale spesso comporta **data-intensive tasks** come eseguire query spaziali complesse, effettuare join tra grandi dataset o eseguire operazioni di geoprocessing su larga scala. Una piattaforma moderna dovrebbe fornire **risorse di calcolo elastiche** che possano scalare verso l'alto o verso il basso a seconda dell'intensità del carico di lavoro. Questo garantisce che query esplorative e task analitici pesanti possano essere gestiti in modo efficiente senza vincolare il sistema a limiti infrastrutturali fissi.
 
 ### Archiviazione scalabile e affidabile
 
@@ -243,7 +243,7 @@ Per geoNotebook, adottare queste lezioni architetturali significa rafforzare la 
 
 > Fonte: Cloud Provider Revolutionizes Geospatial Tech with ML Integration
 
-Sviluppi recenti nella tecnologia geospaziale mostrano come **machine learning e agenti AI** possano trasformare i flussi di lavoro GIS tradizionali. Guardando ai trend architetturali, piuttosto che a piattaforme di specifici vendor, emergono diversi principi di design che possono informare l'evoluzione di geoNotebook.
+Sviluppi recenti nella tecnologia geospaziale mostrano come **machine learning e AI agents** possano trasformare i flussi di lavoro GIS tradizionali. Guardando ai trend architetturali, piuttosto che a piattaforme di specifici vendor, emergono diversi principi di design che possono informare l'evoluzione di geoNotebook.
 
 ### Recupero multimodale e integrazione della conoscenza
 
