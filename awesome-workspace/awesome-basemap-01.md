@@ -50,3 +50,6 @@
 - [Overture Maps Explorer](https://explore.overturemaps.org/) Explore Overture Maps data with this interactive map viewer.
 - [Overture Maps GitHub Repository](https://github.com/OvertureMaps/explore-site/tree/main) (GitHub repository)
 - [Overture Tiles](https://github.com/OvertureMaps/overture-tiles) (GitHub repository)
+
+### Tiles
+- https://overturemaps-tiles-us-west-2-beta.s3.amazonaws.com/2024-08-20/places.pmtiles
