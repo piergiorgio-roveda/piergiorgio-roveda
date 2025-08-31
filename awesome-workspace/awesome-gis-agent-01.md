@@ -44,6 +44,10 @@ GitHub - Teakinboyewa/SpatialAnalysisAgent
 
 ## Other Resources
 
+- [**GeoFlow**](https://arxiv.org/html/2508.04719) (github) Agentic Workflow Automation for Geospatial Tasks.
+  - [iflow.cn/papers](https://iflow.cn/papers/semantic-3748208bf2bb969135de21d3d58abf75a2bd7707-175483448538946ae626c)
+  - [github.com/dstamoulis/geo-olms](https://github.com/dstamoulis/geo-olms?spm=3e711c3f.2a75f657.0.0.1cd273e8KS76bO)
+- [**ACM SIGSPATIAL 2025**](https://sigspatial2025.sigspatial.org/short-paper-accepted/) Accepted Short Papers.
 - [**DeepWiki**](https://deepwiki.com/) AI-powered search engine for technical documentation.
 - [**rendergit**](https://github.com/karpathy/rendergit) by Karpathy, Just show me the code.
 - [**SideKick Dev**](https://sidekickdev.com/) Automatically generate high-quality markdown context files for your coding agents to enhance their performance.
