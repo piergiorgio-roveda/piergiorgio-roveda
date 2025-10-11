@@ -95,8 +95,7 @@ August closed with a clearer vision of the path forward: building intelligent ge
 - [**Conventional Commits Cheatsheet**](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) (`GitHub`) is a simple guide to write commit messages according to the Conventional Commits specification.
 - [**Maputnik**](https://maplibre.org/maputnik) (`GitHub`) Maputnik is based on the MapLibre Style Spec in order to see everything you can define please visit the style [spec documentation](https://maplibre.org/maplibre-style-spec/).
 - [**GIS from command line**](https://github.com/geographyclub/gis-from-command-line) (`GitHub`) All the software and scripts you need to make Linux a complete Geographic Information System from command line.
-- [**clipboard2markdown**](https://euangoddard.github.io/clipboard2markdown/)  (`GitHub`) Markdown converter written in JavaScript and running locally in the browser. [**Firecrawl**](https://www.firecrawl.dev/) Turn websites into
-LLM-ready data (It's also open source.)
+- [**clipboard2markdown**](https://euangoddard.github.io/clipboard2markdown/)  (`GitHub`) Markdown converter written in JavaScript and running locally in the browser. [**Firecrawl**](https://www.firecrawl.dev/) Turn websites into LLM-ready data (It's also open source.)
 - [**Adobe - ColorWheel**](https://color.adobe.com/create/color-wheel) generate stunning palettes with Adobe's Color Wheel
 - [**Colour contrast checker**](https://colourcontrast.cc/) (`GitHub`) is a tool to help web designers and developers determine the contrast ratio between foreground and background colors.
 - [**Healthchecks.io**](https://healthchecks.io/) simple and Effective Cron Job Monitoring
@@ -106,8 +105,7 @@ LLM-ready data (It's also open source.)
 - [**Graphic methods for presenting facts** by Brinton, Willard Cope, 1880](https://archive.org/details/graphicmethodsfo00brinrich) an impressive, early survey of what would today be considered to be bare-bones statistical diagrams and graphic techniques that existed at that moment.
 - [**WebCheck**](https://github.com/lissy93/web-check) (`GitHub`) an you X-Ray Vision for your Website
 - [**APILayer** a collective list of free APIs](https://github.com/public-apis/public-apis) (`GitHub`) Consider it a treasure trove of APIs well-managed by the community over the years.
-- [**Readme.so** by Katherine Oelsner](https://readme.so/es/editor) (`GitHub`) the easiest way to create a
-README
+- [**Readme.so** by Katherine Oelsner](https://readme.so/es/editor) (`GitHub`) the easiest way to create a README
 - [**DeepWiki**](https://deepwiki.com/) AI-powered search engine for technical documentation.
 - [**rendergit**](https://github.com/karpathy/rendergit) by Karpathy, Just show me the code.
 - [NEW! **Planning and tracking with Projects**](https://docs.github.com/en/issues/organizing-your-work-with-projects/learning-about-projects/about-projects)
