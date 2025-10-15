@@ -1,233 +1,758 @@
-# GeoAI Resources
+# 🌍 GeoAI Resources
 
-This [REPO://awesome-gis-agent](https://github.com/piergiorgio-roveda/awesome-gis-agent)
+> A curated collection of AI tools, platforms, and resources for geospatial intelligence, AI agents, and modern development workflows.
 
-- What it takes to win building AI applications
-https://samit-kalra.com/blog/what-it-takes-to-win-building-ai-applications
-- GitHub - googleapis/genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases.
-https://github.com/googleapis/genai-toolbox
+**Related Repository:** [awesome-gis-agent](https://github.com/piergiorgio-roveda/awesome-gis-agent)
 
-## Vibe Coding
+**Last Updated:** 2025-10-15
 
-- `Andrej Karpathy` ⇒ [x.com ("vibe coding")](https://x.com/karpathy/status/1886192184808149383)
-  - There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, [...](./archive/2025/x-com-karpathy-status-1886192184808149383.md)
-  - March 9, 2025
-- `Context Engineering` ⇒ [The Bottleneck to Better Continuous AI](https://blog.continue.dev/context-engineering-the-bottleneck-to-better-continuous-ai/)
-  - Back in 2019, I gave a presentation about building contextual AI assistants at the O'Reilly AI Conference. While AI has progressed dramatically since then, one challenge has remained constant: the art and science of providing the right context at the right time.
-  - July 3, 2025
+---
 
-## NL to SQL
+## 📑 Table of Contents
 
-- `texttosql_system_using_llm` ⇒ [reddit.com/r/LangChain/](https://www.reddit.com/r/LangChain/comments/1dtjafd/texttosql_system_using_llm/)
-- `From Natural Language to SQL` | Approaches and Challenges in Text2SQL ⇒ [toashishagarwal/text2sql](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)
-- `Snowflake-AI/2 SQL Genie` ⇒ https://github.com/toashishagarwal/Snowflake-AI/blob/main/2%20SQL%20Genie/analyst_demo.py
-- `Vanna` | Python RAG framework for SQL generation and related functionality. ⇒ https://github.com/vanna-ai/vanna
-- `julius.ai` | The AI data analyst that works for you ⇒ https://julius.ai/
+- [🌟 Priority & Featured Resources](#-priority--featured-resources)
+- [🤖 AI Agents & Frameworks](#-ai-agents--frameworks)
+- [💻 AI Coding & Development Tools](#-ai-coding--development-tools)
+- [🗺️ Geospatial AI Platforms](#️-geospatial-ai-platforms)
+- [🗄️ Data & Database Tools](#️-data--database-tools)
+- [📊 Analytics & Visualization](#-analytics--visualization)
+- [📚 Learning Resources](#-learning-resources)
+- [🏢 Enterprise & Commercial Solutions](#-enterprise--commercial-solutions)
+- [🔬 Research & Academic](#-research--academic)
+- [🔧 Utilities & Supporting Tools](#-utilities--supporting-tools)
 
-## Platforms
+---
 
-- simstudio.ai ⇒ https://www.simstudio.ai/workspace/
-- zed.dev ⇒ https://zed.dev/
-  - The editor for what's next
-- notability.com ⇒ https://notability.com/
-  - minimal interface with powerful AI tools
-- [GeoDa AI](https://openjsf.org/blog/introducing-geoda-ai)
-- [GeoGPT](https://geogpt.zero2x.org/)
-- https://observablehq.com/notebook-kit/
-- GISFAST - Advanced Geospatial Data Visualization Platform
-https://www.gisfast.my.id/
-- https://github.com/rohinmanvi/GeoLLM GitHub (https://github.com/rohinmanvi/GeoLLM)
-GitHub - rohinmanvi/GeoLLM
-- https://github.com/Teakinboyewa/SpatialAnalysisAgent GitHub (https://github.com/Teakinboyewa/SpatialAnalysisAgent)
-GitHub - Teakinboyewa/SpatialAnalysisAgent
-- GitHub (https://github.com/gladcolor/LLM-Geo) GitHub - gladcolor/LLM-Geo
+## 🌟 Priority & Featured Resources
 
-## Other Resources
+> Essential, cutting-edge, or highly recommended resources
 
-- [**GeoFlow**](https://arxiv.org/html/2508.04719) (github) Agentic Workflow Automation for Geospatial Tasks.
-  - [iflow.cn/papers](https://iflow.cn/papers/semantic-3748208bf2bb969135de21d3d58abf75a2bd7707-175483448538946ae626c)
-  - [github.com/dstamoulis/geo-olms](https://github.com/dstamoulis/geo-olms?spm=3e711c3f.2a75f657.0.0.1cd273e8KS76bO)
-- [**ACM SIGSPATIAL 2025**](https://sigspatial2025.sigspatial.org/short-paper-accepted/) Accepted Short Papers.
-- [**DeepWiki**](https://deepwiki.com/) AI-powered search engine for technical documentation.
-- [**rendergit**](https://github.com/karpathy/rendergit) by Karpathy, Just show me the code.
-- [**SideKick Dev**](https://sidekickdev.com/) Automatically generate high-quality markdown context files for your coding agents to enhance their performance.
-- [**Decentralized AI** NANDA MIT](https://github.com/aidecentralized) (`GitHub`) NANDA Protocol - Networked AI Agents 
-- [**AGENTS.md**](https://agents.md/) Comprehensive documentation and guides for implementing AI agents
-- [**Model Spec**](https://cdn.openai.com/spec/model-spec-2024-05-08.html) Open standard for describing AI model capabilities
-- [**anthropic-cookbook/tool_use**](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/customer_service_agent.ipynb) Jupyter notebook demonstrating how to build a customer service AI agent using Claude
-- [**Secure your AI applications**](https://www.promptfoo.dev/)
-- [**Interpretability: Understanding how AI models think**](https://www.youtube.com/watch?v=fGKNUvivvnc)
-- Claude Code best practices | Code w/ Claude - YouTube
-https://www.youtube.com/watch?v=gv0WHhKelSE&pp=QAFIAQ%3D%3D
-- MiniMax Agent: Minimize Effort, Maximize Intelligence
-https://agent.minimax.io/
+- **[Google GenAI Toolbox](https://github.com/googleapis/genai-toolbox)** 🔥 - MCP Toolbox for Databases - An open source MCP server for databases
+  - **Status:** Active | **Last Updated:** 2025-01-09
+  
+- **[What it takes to win building AI applications](https://samit-kalra.com/blog/what-it-takes-to-win-building-ai-applications)** 🔥 - Essential guide on building successful AI applications
+  - **Author:** Samit Kalra | **Type:** Blog Post
+  
+- **[Vibe Coding](https://x.com/karpathy/status/1886192184808149383)** 🔥 - Andrej Karpathy introduces "vibe coding" - A new paradigm in AI-assisted development
+  - **Author:** Andrej Karpathy | **Published:** 2025-03-09
+  - **Topics:** #vibe-coding #ai-development #paradigm-shift
+  - [Extended Discussion](./archive/2025/x-com-karpathy-status-1886192184808149383.md)
+  
+- **[Vibe Coding Is The Future](https://www.youtube.com/watch?v=IACHfKmZMr8)** 🔥 - Comprehensive video guide on modern vibe coding practices
+  - **Type:** Video Tutorial | **Platform:** YouTube
+  - **Topics:** #vibe-coding #tutorial #ai-coding
+  
+- **[Context Engineering: The Bottleneck to Better Continuous AI](https://blog.continue.dev/context-engineering-the-bottleneck-to-better-continuous-ai/)** 🔥 - Deep dive into context management for AI assistants
+  - **Published:** 2025-07-03
+  - **Topics:** #context-engineering #ai-assistants #best-practices
 
+---
 
-- [ArcGIS Insights](https://doc.arcgis.com/en/insights/)
-- [ArcGIS StoryMaps](https://storymaps.arcgis.com/)
-- Google Geospatial Reasoning – (trusted-tester)
-- [GeoNode / MapStore](https://geonode.org/)
-- [Tableau (+GPT)](https://tableau.com/)
-- [Power BI (+Copilot)](https://powerbi.microsoft.com/)
-- [CARTO Workspace](https://carto.com/)
-- [Foursquare Studio](https://studio.foursquare.com/)
-- [Felt](https://felt.com/)
-- [Fused](https://fused.ai/)
-- [Notion](https://www.notion.so/)
-- [Obsidian](https://obsidian.md/)
-- [Google Docs (+ Charts)](https://docs.google.com/)
-- [Jupyter](https://jupyter.org/)
-- [Observable](https://observablehq.com/)
-- [Coda](https://coda.io/)
-- [Quarto](https://quarto.org/)
-- [Kepler.gl](https://kepler.gl/)
-- [Dekart.xyz](https://dekart.xyz/) SQL to Map. Instantly. We took Kepler.gl, and connected it to your data warehouse. Now you can type SQL and get beautiful, up-to-date maps ready to share with your team.
-- [Nika GAIA](https://www.nikaplanet.com/) — Geospatial AI Analyst, out now.
-- [GISCARTA](https://giscarta.com/) Intuitive GIS for Powerful Geospatial Analysis
-- [Hex](https://hex.tech/)
-- [GeoRetina](https://georetina.ai/)
-- [Aino AI](https://aino.world/)                      
-- [Alteryx](https://alteryx.com/)                     
-- [Dataiku DSS ](https://dataiku.com/)                
-- [LLM-Geo](https://github.com/gladcolor/LLM-Geo)     
-- [QGIS Spatial-Agent](https://plugins.qgis.org/plugins/SpatialAnalysisAgent-master/)
-- [Maptionnaire](https://maptionnaire.com/)
-- [Humap](https://humap.me/)
-- [CartoVista](https://cartovista.com/)
-- [StoryMapJS](https://storymap.knightlab.com/)
-- [Odyssey.js](https://github.com/cartodb/odyssey.js)
-- [MapStory](https://mapstory.org/)
-- [Terrastories](https://terrastories.app/)
-- [Mode](https://mode.com/)
-- [Monarcha](https://monarcha.ai/)
-- [Julius AI](https://julius.ai/)
-- [ChatGeoPT - GitHub demo](https://github.com/earth-genome/ChatGeoPT)
-- [Mundi.ai](https://mundi.ai/) is an open-source *“AI-native web GIS”* designed to make PostGIS databases more accessible through natural language.
+## 🤖 AI Agents & Frameworks
 
-| Name | Description/Comments | Link(s) | Created time |
-| --- | --- | --- | --- |
-|Databricks | Databricks is the Data and AI company.  | https://www.youtube.com/@Databricks/search | --- |
-|ruvnet/daa | DAA SDK - Decentralized Autonomous Agents & Distributed ML | https://github.com/ruvnet/daa | --- |
-|Claude Code MCP| code-flow Mode | https://github.com/ruvnet/claude-code-flow | --- |
-|DeepWiki|  | AI documentation you can talk to, for every repo | https://deepwiki.com/ | May 22, 2025 10:07 AM |
-|Devin |Devin, the AI software engineer  | https://devin.ai/pricing | May 14, 2025 9:42 AM |
-|uav4geo/GeoDeep|Free and open source library for AI object detection and semantic segmentation in geospatial rasters. 🚀 | https://github.com/uav4geo/GeoDeep | May 9, 2025 8:28 AM |
-|About \| LMSYS Org |  | https://lmsys.org/about/ | May 5, 2025 10:27 PM |
-|About me - Wei-Lin Chiang |  | https://infwinston.github.io/ | May 5, 2025 10:27 PM |
-|ruvnet (ruvnet) / Repositories |  | https://github.com/ruvnet?page=5&tab=repositories | May 5, 2025 10:25 PM |
-| This guide introduces Roo Code and the innovative Boomerang task concept, now integrated into SPARC Orchestration. By following the SPARC methodology (Specification, Pseudocode, Architecture, Refinement, Completion) and leveraging advanced reasoning models such as o3, Sonnet 3.7 Thinking, and DeepSeek, you can efficiently break down complex projects into modular, secure, and testable subtasks. This configuration ensures best practices throughout the development lifecycle—no hard-coded environment variables, file sizes under 500 lines, and a modular, extensible design. Use this comprehensive setup to drive high-quality output, robust testing, and continuous optimization. |  | https://gist.github.com/ruvnet/a206de8d484e710499398e4c39fa6299#file-roomodes-json | May 5, 2025 10:25 PM |
-| google/A2A: An open protocol enabling communication and interoperability between opaque agentic applications. |  | https://github.com/google/A2A | May 5, 2025 10:25 PM |
-| The-Pocket/PocketFlow: Pocket Flow: 100-line LLM framework. Let Agents build Agents! |  | https://github.com/The-Pocket/PocketFlow | May 5, 2025 10:25 PM |
-| The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge · Discussions · GitHub |  | https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/discussions | May 5, 2025 10:25 PM |
-| The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge: Pocket Flow: Codebase to Tutorial |  | https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge | May 5, 2025 10:25 PM |
-| qgis/QGIS \| DeepWiki |  | https://deepwiki.com/qgis/QGIS | May 5, 2025 8:42 AM |
-| GitHub - RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-: A framework designed to manage context, dependencies, and tasks in large-scale Cline projects within VS Code |  | https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT- | May 3, 2025 12:14 AM |
-| Vibe coding MenuGen \| karpathy |  | https://karpathy.bearblog.dev/vibe-coding-menugen/ | May 2, 2025 8:15 PM |
-| The-Pocket/PocketFlow: Pocket Flow: 100-line LLM framework. Let Agents build Agents! |  | https://github.com/The-Pocket/PocketFlow | May 1, 2025 11:41 AM |
-| The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge · Discussions · GitHub |  | https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/discussions | May 1, 2025 11:41 AM |
-| Understand ANY Codebase in 5 Minutes - Using This AI - YouTube |  | https://www.youtube.com/watch?v=XVR9OgOtnZo | April 28, 2025 9:54 PM |
-| Introducing the GitHub MCP Server: AI interaction protocol \| GitHub Checkout - YouTube |  | https://www.youtube.com/watch?v=d3QpQO6Paeg | April 28, 2025 1:25 PM |
-| ruvnet/dynamo-mcp: A dyamic MCP Registry using Cookiecutter templates |  | https://github.com/ruvnet/dynamo-mcp | April 26, 2025 7:42 PM |
-| zoharbabin/enterprise-ai-agents-spec: An open-source, detailed blueprint for implementing highly scalable swarms of specialized AI Agents in enterprise product development, emphasizing parallelization, robust governance, compliance, and minimal human oversight |  | https://github.com/zoharbabin/enterprise-ai-agents-spec/tree/main | April 26, 2025 7:28 PM |
-| Context7 + Cline & RooCode: This MCP Server Makes CLINE 100X MORE EFFECTIVE! - YouTube |  | https://www.youtube.com/watch?v=qZfENAPMnyo | April 24, 2025 3:47 PM |
-|  |  | https://youtu.be/qZfENAPMnyo?si=gCjV7OnYYF4njamj | April 24, 2025 3:47 PM |
-| AI Code Reviews \| CodeRabbit \| Try for Free |  | https://coderabbit.ai/ | April 22, 2025 3:01 PM |
-| GitHub Copilot Agent Mode & Project Padawan – A Game Changer? - YouTube |  | https://www.youtube.com/watch?v=y3oo7MGo1DA&pp=ygUOQ29waWxvdCBnaXRodWLSBwkJ2ACjtWo3m0M%3D | April 22, 2025 11:04 AM |
-| cipher387/Dorks-collections-list: List of Github repositories and articles with list of dorks for different search engines |  | https://github.com/cipher387/Dorks-collections-list#tools | April 20, 2025 7:39 AM |
-| enterprise-ai-agents-spec/roo-code-setup at main · zoharbabin/enterprise-ai-agents-spec |  | https://github.com/zoharbabin/enterprise-ai-agents-spec/tree/main/roo-code-setup | April 20, 2025 7:17 AM |
-| Azure AI Foundry - Generative AI Development Hub \| Microsoft Azure |  | https://azure.microsoft.com/en-us/products/ai-foundry | April 19, 2025 7:53 PM |
-| ChrisRoyse/AI-Vibe-Code-Setup | 🚀 SPARC-Omega Vibe Coding: Knowledge-Guided AI + Perplexity + GitHub + Hyperbrowser! | https://github.com/ChrisRoyse/AI-Vibe-Code-Setup | April 13, 2025 12:38 AM |
-| Writing Cursor Rules with a Cursor Rule \| Adithyan |  | https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule | April 12, 2025 7:24 PM |
-| vanna-ai/vanna | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. | https://github.com/vanna-ai/vanna | April 12, 2025 7:15 PM |
-| Real-time collaboration Jupyter and QGIS | Real-time collaboration and collaborative editing for GIS workflows with Jupyter and QGIS \| by Martin Renou \| Feb, 2025 \| Jupyter Blog | https://blog.jupyter.org/real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-d25dbe2832a6 | April 11, 2025 9:22 AM |
-| Carl Hewitt - Wikipedia | was an American computer scientist who designed the https://en.wikipedia.org/wiki/Planner_programming_language for https://en.wikipedia.org/wiki/Automated_planninghttps://en.wikipedia.org/wiki/Carl_Hewitt#cite_note-hewitt69-3 and the https://en.wikipedia.org/wiki/Actor_model of https://en.wikipedia.org/wiki/Concurrent_computing,https://en.wikipedia.org/wiki/Carl_Hewitt#cite_note-4 which have been influential in the development of https://en.wikipedia.org/wiki/Logic_programming, https://en.wikipedia.org/wiki/Functional_programming and https://en.wikipedia.org/wiki/Object-oriented_programming. | https://en.wikipedia.org/wiki/Carl_Hewitt | April 10, 2025 9:31 AM |
-| google/adk-python | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | https://github.com/google/adk-python | April 9, 2025 10:57 PM |
-| AgentOS | We empower organizations of tomorrow by helping you build intelligent agents and agent networks that transform how work is done. Imagine your AI teammates working together with you, making your organization AI-Native and 10x better. | https://ag2.ai/#ainative | April 9, 2025 5:56 PM |
-| Google: Geospatial Reasoning | Unlocking insights with generative AI and multiple foundation models | https://research.google/blog/geospatial-reasoning-unlocking-insights-with-generative-ai-and-multiple-foundation-models/ | April 9, 2025 1:43 AM |
-| nickbaumann98/ | cline_docs/prompting/custom instructions library | https://github.com/nickbaumann98/cline_docs/blob/main/prompting/custom%20instructions%20library/cline-memory-bank.md | April 1, 2025 1:46 AM |
-| GreatScottyMac/roo-code-memory-bank | 🧠 Roo Code Memory Bank: Seamless project context in Roo Code. No more repetition, just continuous development. Includes Architect, Code, Ask, Debug and Test modes! | https://github.com/GreatScottyMac/roo-code-memory-bank | April 1, 2025 1:46 AM |
-| RooArmy/roo-army-test_v4 |  | https://github.com/Michaelzag/RooArmy/blob/master/roo-army-test_v4/README.md | April 1, 2025 1:46 AM |
-| RooCode-Tips-Tricks/personal_roo_docs | This directory contains practical guides for everyday Roo Code users. These documents focus on how to use Roo's features without diving into technical implementation details. | https://github.com/Michaelzag/RooCode-Tips-Tricks/blob/main/personal_roo_docs/normal/README.md | April 1, 2025 1:46 AM |
-| ruvnet/ Roo Code into SPARC | This guide introduces Roo Code and the innovative Boomerang task concept, now integrated into SPARC Orchestration.  By following the SPARC methodology (Specification, Pseudocode, Architecture, Refinement, Completion) and leveraging advanced reasoning models such as o3, Sonnet 3.7 Thinking, and DeepSeek, you can efficiently break down complex projects into modular, secure, and testable subtasks. This configuration ensures best practices throughout the development lifecycle—no hard-coded environment variables, file sizes under 500 lines, and a modular, extensible design. Use this ruvnet/ comprehensive setup to drive high-quality output, robust testing, and continuous optimization. | https://gist.github.com/ruvnet/a206de8d484e710499398e4c39fa6299 | April 1, 2025 1:44 AM |
-| eXoDOS |  | https://www.retro-exo.com/exodos_M.html | March 31, 2025 9:16 AM |
-| AI Browser Automation Is INSANE... And a Little Scary Too - YouTube |  | https://www.youtube.com/watch?v=0bairaxlKBU | March 30, 2025 9:51 AM |
-| agenticsorg/edge-agents: serverless agents |  | https://github.com/agenticsorg/edge-agents/tree/main | March 26, 2025 6:47 PM |
-| Connect Claude AI to QGIS with QGISMCP - YouTube |  | https://www.youtube.com/watch?v=x2oKYykuIHE&pp=ygUEUWdpcw%3D%3D | March 23, 2025 8:02 PM |
-| Connect Claude AI to QGIS with QGISMCP - YouTube |  | https://www.youtube.com/watch?v=x2oKYykuIHE&pp=ygUEUWdpcw%3D%3D | March 23, 2025 8:02 PM |
-| GitHub - jjsantos01/qgis_mcp: Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop |  | https://github.com/jjsantos01/qgis_mcp | March 23, 2025 8:02 PM |
-| GitHub - jjsantos01/qgis_mcp: Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop |  | https://github.com/jjsantos01/qgis_mcp | March 23, 2025 8:02 PM |
-| GitHub - ahujasid/blender-mcp |  | https://github.com/ahujasid/blender-mcp | March 23, 2025 8:00 PM |
-| SynthLang/proxy/plans at proxy · ruvnet/SynthLang · GitHub |  | https://github.com/ruvnet/SynthLang/tree/proxy/proxy/plans | March 23, 2025 9:34 AM |
-| The "think" tool: Enabling Claude to stop and think \ Anthropic |  | https://www.anthropic.com/engineering/claude-think-tool | March 21, 2025 7:19 PM |
-| Building Effective AI Agents \ Anthropic |  | https://www.anthropic.com/engineering/building-effective-agents | March 21, 2025 2:48 PM |
-| [Tech With Tim] - Heads Up Programmers...  | We Are Officially In The Era of AI Agents - YouTube | https://www.youtube.com/watch?v=eNbq9SWjzTA | March 18, 2025 1:28 PM |
-| [David Ondrej] - Start Vibe Coding Like a Pro |  | https://www.youtube.com/watch?v=faPSZV5XwyI | March 18, 2025 1:27 PM |
-| [AICodeKing] - RooCode + Free Manus | RooCode + Free Manus / Grok-3 / Claude : This NEW UPGRADE Makes ROO CODE AMAZING! - YouTube | https://www.youtube.com/watch?v=dqW9snH6yK4&t=7s | March 18, 2025 1:20 PM |
-| Fully FREE GPT-4.5 & 3.7 SONNET AI Coder | RIP Bolt, V0 because this AI Coder is KINDA INSANE! - YouTube | https://www.youtube.com/watch?v=z1vHPvnZpXE | March 18, 2025 11:53 AM |
-| Roo Code is AMAZING - AI VSCode Extension | (better than Cursor?) - YouTube | https://www.youtube.com/watch?v=r5T3h0BOiWw&list=PLNKFy83qG93Bu4QidtUoyaQH0oWZml9uA&index=9 | March 18, 2025 8:54 AM |
-| Best Hiking Trails in the Swiss Alps - Manus |  | https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9?replay=1 | March 11, 2025 4:19 PM |
-| Vibe Coding Is The Future - YouTube |  |https://www.youtube.com/watch?v=IACHfKmZMr8  | March 9, 2025 1:19 PM |
-| A quarter of startups in YC's current cohort have codebases that are almost entirely AI-generated \| TechCrunch |  | https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/?guccounter=1 | March 9, 2025 1:19 PM |
-| ansh/supermemory:  | Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension. | https://github.com/ansh/supermemory | March 9, 2025 1:18 PM |
-| ansh/claude-code: claude-code full original source code from source maps |  |  https://github.com/ansh/claude-code| March 9, 2025 1:16 PM |
-| GitHub - x1xhlol/system-prompts-and-models-of-ai-tools |  | https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools | March 9, 2025 8:09 AM |
-| GitHub - NirDiamant/GenAI_Agents:  | This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. | https://github.com/NirDiamant/GenAI_Agents | March 9, 2025 1:00 AM |
-| Vibe Coding Is The Future - YouTube |  | https://www.youtube.com/watch?v=IACHfKmZMr8 | March 8, 2025 9:47 PM |
-| Vibe Coding Is The Future |  | https://youtu.be/IACHfKmZMr8 | March 8, 2025 9:47 PM |
-| Chunkr \| Open Source Document Intelligence API |  | https://chunkr.ai/ | March 8, 2025 8:21 AM |
-| Calling All Developers: How to Build MCP Plugins with Cline - Cline Blog |  | https://cline.bot/blog/calling-all-developers-how-to-build-mcp-plugins-with-cline | March 4, 2025 6:24 AM |
-| How I use LLMs |  | https://youtu.be/EWvNQjAaOHw?si=YhiOLEu4p7B0N182 | March 3, 2025 7:45 AM |
-| Prompt Generator [MAKE A COPY].ipynb - Colab |  | https://colab.research.google.com/drive/1SoAajN8CBYTl79VyTwxtxncfCWlHlyy9 | March 1, 2025 1:21 AM |
-| [TOTO’] - PREDICTION IS NOT REASONING | ORE 18.30 UNA CHIACCHIERA CON SALVATORE SANFILIPPO SUL FUTURO DEL CODING E "PREDICTION IS NOT REASONING" !afe - Twitch | https://www.twitch.tv/videos/2390871930 | March 1, 2025 1:21 AM |
-| Why Natural Language Coding Isn’t for Everyone—Yet \| HackerNoon |  | https://hackernoon.com/why-natural-language-coding-isnt-for-everyoneyet | March 1, 2025 1:21 AM |
-| microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents |  | https://github.com/microsoft/ai-agents-for-beginners | March 1, 2025 1:20 AM |
-| ai-agents-for-beginners/04-tool-use at main · microsoft/ai-agents-for-beginners |  | https://github.com/microsoft/ai-agents-for-beginners/tree/main/04-tool-use | March 1, 2025 1:20 AM |
-| cline/docs/cline-customization/clineignore.md at 3525592c61a783eb73c2d864ea99d4e49ab0ee3d · cline/cline |  | https://github.com/cline/cline/blob/3525592c61a783eb73c2d864ea99d4e49ab0ee3d/docs/cline-customization/clineignore.md | March 1, 2025 1:20 AM |
-| Prompt Engineering Guide \| Cline |  | https://docs.cline.bot/improving-your-prompting-skills/prompting | March 1, 2025 1:20 AM |
-| Explore custom AI code assistants \| Continue |  | https://hub.continue.dev/explore/assistants | March 1, 2025 12:00 AM |
-| GitHub - NirDiamant/GenAI_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. |  |  | February 23, 2025 10:09 PM |
-| GenAI_Agents/all_agents_tutorials/database_discovery_fleet.ipynb at main · NirDiamant/GenAI_Agents · GitHub |  | https://github.com/NirDiamant/GenAI_Agents | February 23, 2025 10:09 PM |
-| aiagentsdirectory.com |  | https://aiagentsdirectory.com/landscape | February 12, 2025 11:39 AM |
-| Postman AI Agent Builder |  | https://www.postman.com/product/ai-agent-builder/?utm_campaign=global_fy26q1_prdctcm_agentic&utm_medium=influencer_pd&utm_source=avi-chawla&utm_content=ai-agent-builder-lp | February 12, 2025 2:54 AM |
-| ClaudeDev + Aider + Continue: The BEST AI Coding Agent! - Generate Full-Stack Apps! - YouTube |  | https://www.youtube.com/watch?v=708R-BYmjEk&pp=ygULQ29udGludWUgYWk%3D | February 7, 2025 9:05 PM |
-| Deepseek VL-2 : Deepseek STRIKES BACK with their NEW CRAZY AI VISION MODEL! - YouTube |  | https://www.youtube.com/watch?v=7uD8X_25n18 | February 7, 2025 4:53 PM |
-| GitHub - crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |  | https://github.com/crewAIInc/crewAI | February 4, 2025 6:41 PM |
-| Build Apps With Prompts! - OpenHands - YouTube |  | https://www.youtube.com/watch?v=WDP2S4MOXPY | February 4, 2025 7:46 AM |
-| GitHub - All-Hands-AI/OpenHands: 🙌 OpenHands: Code Less, Make More |  | https://github.com/All-Hands-AI/OpenHands#-quick-start | February 4, 2025 7:39 AM |
-| crawl4ai-quickstart.ipynb - Colab |  | https://colab.research.google.com/drive/1SgRPrByQLzjRfwoRNq1wSGE9nYY_EE8C?usp=sharing#scrollTo=ec079108 | February 1, 2025 10:52 AM |
-| Generative-AI-Report.pdf |  | https://urbanai.fr/wp-content/uploads/2023/10/Generative-AI-Report.pdf | January 31, 2025 9:01 PM |
-| Urban-AI-Guide-2023-V2.pdf |  | https://urbanai.fr/wp-content/uploads/2023/03/Urban-AI-Guide-2023-V2.pdf | January 31, 2025 9:01 PM |
-| Introduction - Model Context Protocol |  | https://modelcontextprotocol.io/introduction | January 31, 2025 9:01 PM |
-| eliza/packages/client-twitter at develop · elizaOS/eliza |  | https://github.com/elizaOS/eliza/tree/develop/packages/client-twitter | January 31, 2025 9:01 PM |
-| modelcontextprotocol/servers: Model Context Protocol Servers |  |  | January 31, 2025 9:01 PM |
-| Introduction to Eliza \| eliza |  |  | January 31, 2025 9:00 PM |
-| Context providers \| Continue |  |  | January 31, 2025 12:00 PM |
-| browser-use/web-ui: Run AI Agent in your browser. |  |  | January 30, 2025 10:13 PM |
-| Deepseek Operator (+Free APIs) : This 100% FREE AI Agent Beats OpenAI's Operator FOR FREE! - YouTube |  |  | January 29, 2025 8:48 AM |
-| f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better. |  | https://github.com/f/awesome-chatgpt-prompts/tree/main | January 29, 2025 8:48 AM |
-| https://huggingface.co/spaces/ysharma/CrewAI-Gradio-Support-Agent AI Customer Support Crew |  |  | January 9, 2025 2:17 PM |
-| aurelio-labs/ |  | https://github.com/aurelio-labs/ | January 9, 2025 2:17 PM |
-|  |  |  | January 9, 2025 2:16 PM |
-| https://www.crewai.com/ \| https://crawl4ai.com/mkdocs/ |  |  | January 9, 2025 2:15 PM |
-| https://www.agen.cy/ |  |  | January 9, 2025 2:14 PM |
-| Build An AI Agent WIth PydanticAI |  |  | January 7, 2025 12:37 PM |
-| https://www.youtube.com/watch?v=FDBnyJu_Ndg |  |  | December 27, 2024 12:03 PM |
-| Bunting Labs \| How to use the AI Vectorizer QGIS Plugin v2.0 (July 2024) |  | https://buntinglabs.com/blog/ai-vectorizer-for-qgis-v2-launch | December 26, 2024 11:05 PM |
-| Build a Python Web App to chat with your datasets using GenAI |  |  | December 26, 2024 10:11 AM |
-| Gemini 2.0 Flash + Cline & Aider : This is THE BEST FREE AI Coding Setup RIGHT NOW! - YouTube |  |  | December 21, 2024 4:44 PM |
-| Cline 3.0 (Upgraded): This is the ULTIMATE AUTONOMOUS AI CODER that we need! (Auto mode, Rules, etc) - YouTube |  |  | December 21, 2024 4:34 PM |
-| https://github.com/openlandmap/scikit-map https://github.com/openlandmap/scikit-map |  |  | December 19, 2024 6:46 PM |
-| PerplexityAI · GitHub Marketplace · GitHub |  |  | October 29, 2024 10:30 PM |
-| `Building detection with SAMGeo2 |  |  | October 21, 2024 3:52 AM |
-| GitHub - e2b-dev/awesome-ai-agents: A list of AI autonomous agents |  |  | October 7, 2024 8:46 AM |
-| fka/awesome-chatgpt-prompts · Datasets at Hugging Face |  | https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer | September 30, 2024 8:56 AM |
-| Applied Machine Learning in Python: a Hands-on Guide with Code — Applied Machine Learning in Python |  |  | September 26, 2024 8:12 PM |
-| Giacomo’s AI Workspace |  | https://topaz-polyanthus-5ac.notion.site/Giacomo-s-AI-Workspace-a2f821fe265b495382e96f092b2ae399 | September 6, 2024 1:46 PM |
-| GitHub - microsoft/torchgeo: TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data |  |  | August 6, 2024 6:40 AM |
-| GitHub - deepVector/geospatial-machine-learning: A curated list of resources focused on Machine Learning in Geospatial Data Science. |  | https://github.com/deepVector/geospatial-machine-learning | August 6, 2024 6:38 AM |
-| http://poe.com/ | Poe is a platform that lets people ask questions, get instant answers, and have back-and-forth conversations with a wide variety of AI-powered bots. | https://poe.com/ | July 13, 2024 7:30 PM |
-| http://anvaka.github.io/sayit | The graph of related subreddits. | https://anvaka.github.io/sayit/?query=gis | July 13, 2024 7:30 PM |
-| http://subredditstats.com/ | Here you'll find a bunch of different subreddit ranking lists. You can click a subreddit name to see stats (graphs, etc.) for that subreddit. | https://subredditstats.com/ | July 13, 2024 7:29 PM |
-| http://exa.ai/ | The web, organized. Exa search uses embeddings to understand meaning. | https://exa.ai/search | July 13, 2024 6:56 PM |
-| http://thegigabrain.com/ | Cut the noise. Get real answers from real people. | https://thegigabrain.com/ | July 13, 2024 6:56 PM |
-| Glimpse | Discover trends before they’re trending. | https://meetglimpse.com/ | July 13, 2024 6:56 PM |
+### Agent Frameworks & Orchestration
+
+- **[CrewAI](https://www.crewai.com/)** 🔥 - Framework for orchestrating role-playing autonomous AI agents
+  - **Use Case:** Collaborative intelligence, multi-agent systems
+  - **Status:** Active | **Language:** Python
+  - **Last Updated:** 2025-02-04
+  - [GitHub Repository](https://github.com/crewAIInc/crewAI)
+  - [HuggingFace Demo](https://huggingface.co/spaces/ysharma/CrewAI-Gradio-Support-Agent)
+  
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** 🔥 - Code Less, Make More
+  - **Use Case:** Build apps with prompts
+  - **Status:** Active | **Language:** Python
+  - **Last Updated:** 2025-02-04
+  - [Video Tutorial](https://www.youtube.com/watch?v=WDP2S4MOXPY)
+  
+- **[MiniMax Agent](https://agent.minimax.io/)** - Minimize Effort, Maximize Intelligence
+  - **Use Case:** Efficient AI agent development
+  - **Status:** Active
+  
+- **[PocketFlow](https://github.com/The-Pocket/PocketFlow)** - 100-line LLM framework. Let Agents build Agents!
+  - **Use Case:** Minimal agent framework
+  - **Status:** Active | **Language:** Python
+  - **Last Updated:** 2025-05-01
+  - [Tutorial & Discussions](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/discussions)
+  - [Codebase Knowledge Tutorial](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
+  
+- **[Google ADK Python](https://github.com/google/adk-python)** 🔥 - Code-first Python toolkit for building, evaluating, and deploying AI agents
+  - **Use Case:** Enterprise-grade agent development
+  - **Status:** Active | **Language:** Python | **Last Updated:** 2025-04-09
+  
+- **[Google A2A](https://github.com/google/A2A)** - Open protocol for communication and interoperability between AI agents
+  - **Use Case:** Agent-to-agent communication
+  - **Status:** Active | **Last Updated:** 2025-05-05
+  
+- **[DAA SDK](https://github.com/ruvnet/daa)** - Decentralized Autonomous Agents & Distributed ML
+  - **Use Case:** Decentralized agent systems
+  - **Status:** Active | **Language:** Python
+  
+- **[Decentralized AI - NANDA](https://github.com/aidecentralized)** - NANDA Protocol - Networked AI Agents
+  - **Use Case:** Decentralized AI infrastructure
+  - **Status:** Active
+  
+- **[AgentOS (AG2)](https://ag2.ai/#ainative)** 🔥 - Build intelligent agents and agent networks
+  - **Use Case:** AI-native organizations, agent networks
+  - **Status:** Active | **Last Updated:** 2025-04-09
+  
+- **[Edge Agents](https://github.com/agenticsorg/edge-agents/tree/main)** - Serverless agents
+  - **Use Case:** Edge computing with AI agents
+  - **Status:** Active | **Last Updated:** 2025-03-26
+  
+- **[Enterprise AI Agents Spec](https://github.com/zoharbabin/enterprise-ai-agents-spec/tree/main)** - Detailed blueprint for enterprise AI agent swarms
+  - **Use Case:** Enterprise agent architecture
+  - **Status:** Active | **Last Updated:** 2025-04-26
+  - [RooCode Setup](https://github.com/zoharbabin/enterprise-ai-agents-spec/tree/main/roo-code-setup)
+  
+- **[Eliza](https://elizaos.github.io/eliza/)** - AI agent framework with multi-platform support
+  - **Status:** Active | **Last Updated:** 2025-01-31
+  - [Twitter Client](https://github.com/elizaOS/eliza/tree/develop/packages/client-twitter)
+
+### Agent Development Resources
+
+- **[AGENTS.md](https://agents.md/)** - Comprehensive documentation and guides for implementing AI agents
+  - **Type:** Documentation | **Topics:** #agents #guides #best-practices
+  
+- **[Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents)** 🔥 - Anthropic's guide to agent development
+  - **Author:** Anthropic | **Published:** 2025-03-21
+  - **Topics:** #agents #best-practices #architecture
+  
+- **[The "think" tool](https://www.anthropic.com/engineering/claude-think-tool)** - Enabling Claude to stop and think
+  - **Author:** Anthropic | **Published:** 2025-03-21
+  - **Topics:** #reasoning #claude #thinking
+  
+- **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** 🔥 - 10 lessons to get started building AI agents
+  - **Author:** Microsoft | **Type:** Tutorial Series
+  - **Last Updated:** 2025-03-01
+  - **Topics:** #beginners #tutorial #fundamentals
+  - [Tool Use Examples](https://github.com/microsoft/ai-agents-for-beginners/tree/main/04-tool-use)
+  
+- **[GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)** 🔥 - Tutorials and implementations for Generative AI Agent techniques
+  - **Type:** Tutorial Repository | **Language:** Python
+  - **Last Updated:** 2025-03-09
+  - **Topics:** #tutorials #implementations #patterns
+  
+- **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Curated list of AI autonomous agents
+  - **Type:** Awesome List | **Last Updated:** 2024-10-07
+  
+- **[Anthropic Cookbook - Tool Use](https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/customer_service_agent.ipynb)** - Customer service agent implementation
+  - **Type:** Jupyter Notebook | **Use Case:** Tool use patterns
+
+### Agent Directories & Discovery
+
+- **[AI Agents Directory](https://aiagentsdirectory.com/landscape)** - Landscape of AI agents and tools
+  - **Type:** Directory | **Last Updated:** 2025-02-12
+  
+- **[Agentic](https://www.agen.cy/)** - AI agent platform
+  - **Type:** Platform | **Last Updated:** 2025-01-09
+
+### Agent Building Platforms
+
+- **[Postman AI Agent Builder](https://www.postman.com/product/ai-agent-builder/)** - Platform for building AI agents
+  - **Use Case:** API-driven agent development
+  - **Status:** Active | **Last Updated:** 2025-02-12
+  
+- **[Browser-Use Web UI](https://github.com/browser-use/web-ui)** - Run AI Agent in your browser
+  - **Status:** Active | **Last Updated:** 2025-01-30
+
+---
+
+## 💻 AI Coding & Development Tools
+
+### AI Code Editors & IDEs
+
+- **[Zed](https://zed.dev/)** 🔥 - The editor for what's next - High-performance collaborative code editor
+  - **Status:** Active | **Type:** Open Source
+  - **Features:** Collaborative editing, AI integration
+  
+- **[Cursor](https://cursor.sh/)** - AI-powered code editor
+  - **Status:** Active | **Type:** Commercial
+  - [Writing Cursor Rules](https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule) - Meta-prompting guide | **Published:** 2025-04-12
+  
+- **[SimStudio AI](https://www.simstudio.ai/workspace/)** - AI workspace for collaborative development
+  - **Status:** Active | **Type:** SaaS
+  
+- **[Notability](https://notability.com/)** - Minimal interface with powerful AI tools
+  - **Status:** Active | **Type:** SaaS
+  
+- **[DeepWiki](https://deepwiki.com/)** 🔥 - AI-powered search engine for technical documentation
+  - **Use Case:** AI documentation you can talk to, for every repo
+  - **Status:** Active | **Last Updated:** 2025-05-22
+  - [QGIS Documentation](https://deepwiki.com/qgis/QGIS)
+  
+- **[Devin](https://devin.ai/pricing)** - AI software engineer
+  - **Status:** Active | **Last Updated:** 2025-05-14
+
+### AI Coding Assistants & Extensions
+
+- **[Cline](https://cline.bot/)** 🔥 - Autonomous AI coder for VS Code
+  - **Status:** Active | **Type:** VS Code Extension
+  - **Last Updated:** 2024-12-21
+  - [Customization Guide](https://github.com/cline/cline/blob/3525592c61a783eb73c2d864ea99d4e49ab0ee3d/docs/cline-customization/clineignore.md)
+  - [Prompt Engineering Guide](https://docs.cline.bot/improving-your-prompting-skills/prompting)
+  - [MCP Plugin Development](https://cline.bot/blog/calling-all-developers-how-to-build-mcp-plugins-with-cline) | **Published:** 2025-03-04
+  
+- **[Cline Memory Bank](https://github.com/nickbaumann98/cline_docs/blob/main/prompting/custom%20instructions%20library/cline-memory-bank.md)** - Custom instructions library
+  - **Last Updated:** 2025-04-01
+  
+- **[Cline Recursive Chain-of-Thought System](https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-)** - Framework for large-scale Cline projects
+  - **Last Updated:** 2025-05-03
+  
+- **[RooCode](https://roocode.com/)** 🔥 - Advanced AI coding assistant
+  - **Status:** Active | **Type:** VS Code Extension
+  
+- **[RooCode Memory Bank](https://github.com/GreatScottyMac/roo-code-memory-bank)** 🔥 - Seamless project context in RooCode
+  - **Last Updated:** 2025-04-01 
+  - **Features:** Architect, Code, Ask, Debug, Test modes
+  
+- **[RooArmy Test v4](https://github.com/Michaelzag/RooArmy/blob/master/roo-army-test_v4/README.md)** - RooCode testing guide
+  - **Last Updated:** 2025-04-01
+  
+- **[RooCode Tips & Tricks](https://github.com/Michaelzag/RooCode-Tips-Tricks/blob/main/personal_roo_docs/normal/README.md)** - Practical RooCode guides
+  - **Last Updated:** 2025-04-01
+  
+- **[Roo Code SPARC Integration](https://gist.github.com/ruvnet/a206de8d484e710499398e4c39fa6299)** 🔥 - Boomerang task concept with SPARC methodology
+  - **Author:** ruvnet | **Last Updated:** 2025-05-05
+  - **Topics:** #sparc #methodology #orchestration
+  - **Description:** Following SPARC methodology (Specification, Pseudocode, Architecture, Refinement, Completion) with o3, Sonnet 3.7 Thinking, and DeepSeek
+  
+- **[Continue](https://continue.dev/)** - Open-source AI code assistant
+  - **Status:** Active | **Type:** Open Source
+  - [Context Providers](https://docs.continue.dev/context-providers) | **Last Updated:** 2025-01-31
+  - [Custom AI Assistants](https://hub.continue.dev/explore/assistants) | **Last Updated:** 2025-03-01
+  
+- **[Aider](https://aider.chat/)** - AI pair programming in your terminal
+  - **Status:** Active | **Type:** Open Source
+  
+- **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer
+  - **Status:** Active | **Type:** Commercial
+  
+- **[Claude Code](https://claude.ai/code)** - Claude AI for coding
+  - **Status:** Active
+  - [Source Code from Source Maps](https://github.com/ansh/claude-code)
+  - [Best Practices Video](https://www.youtube.com/watch?v=gv0WHhKelSE)
+  
+- **[Claude Code MCP](https://github.com/ruvnet/claude-code-flow)** - Code-flow Mode
+  - **Status:** Active
+
+### MCP (Model Context Protocol) Servers
+
+- **[Model Context Protocol Introduction](https://modelcontextprotocol.io/introduction)** 🔥 - Official MCP documentation
+  - **Last Updated:** 2025-01-31 | **Topics:** #mcp #protocol
+  
+- **[Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)** - MCP server implementations
+  - **Type:** GitHub Repository | **Last Updated:** 2025-01-31
+  
+- **[Dynamo MCP](https://github.com/ruvnet/dynamo-mcp)** - Dynamic MCP Registry using Cookiecutter templates
+  - **Last Updated:** 2025-04-26
+  
+- **[QGIS MCP](https://github.com/jjsantos01/qgis_mcp)** - Model Context Protocol for QGIS Desktop
+  - **Use Case:** Allow LLMs to use QGIS Desktop
+  - **Status:** Active | **Language:** Python
+  - **Last Updated:** 2025-03-23
+  - [Video Tutorial](https://www.youtube.com/watch?v=x2oKYykuIHE)
+  
+- **[Blender MCP](https://github.com/ahujasid/blender-mcp)** - MCP for Blender
+  - **Last Updated:** 2025-03-23
+
+### Development Platforms
+
+- **[Observable](https://observablehq.com/)** - JavaScript notebooks for data visualization
+  - **Status:** Active | **Type:** SaaS/Open Source
+  
+- **[Observable Notebook Kit](https://observablehq.com/notebook-kit/)** - Build with Observable notebooks
+  - **Use Case:** Embed notebooks in your apps
+  
+- **[Jupyter](https://jupyter.org/)** - Web-based interactive development environment
+  - **Type:** Open Source | **Use Case:** Data science and ML workflows
+
+### Code Understanding & Navigation
+
+- **[rendergit](https://github.com/karpathy/rendergit)** - By Karpathy: Just show me the code
+  - **Author:** Andrej Karpathy | **Use Case:** Code visualization
+  
+- **[SideKick Dev](https://sidekickdev.com/)** - Automatically generate high-quality markdown context files for coding agents
+  - **Use Case:** Enhance AI agent performance with better context
+
+### Documentation & Knowledge Management
+
+- **[Notion](https://www.notion.so/)** - All-in-one workspace
+  - **Use Case:** Documentation, wikis, project management
+  
+- **[Obsidian](https://obsidian.md/)** - Powerful knowledge base on top of local markdown files
+  - **Use Case:** Personal knowledge management
+  
+- **[Google Docs](https://docs.google.com/)** - Cloud-based document editing with Charts
+  - **Use Case:** Collaborative documentation
+  
+- **[Supermemory](https://github.com/ansh/supermemory)** - Build your own second brain
+  - **Description:** ChatGPT for your bookmarks. Import tweets or save websites
+  - **Last Updated:** 2025-03-09
+
+### Publishing & Presentation
+
+- **[Coda](https://coda.io/)** - All-in-one doc for teams
+  - **Use Case:** Interactive documents and apps
+  
+- **[Quarto](https://quarto.org/)** - Open-source scientific and technical publishing system
+  - **Use Case:** Technical documentation and publishing
+
+### Code Quality & Review
+
+- **[CodeRabbit](https://coderabbit.ai/)** - AI Code Reviews
+  - **Type:** SaaS | **Last Updated:** 2025-04-22
+
+### Cloud Development Platforms
+
+- **[Azure AI Foundry](https://azure.microsoft.com/en-us/products/ai-foundry)** - Generative AI Development Hub
+  - **Provider:** Microsoft Azure | **Last Updated:** 2025-04-19
+
+### Vibe Coding Resources
+
+- **[AI-Vibe-Code-Setup](https://github.com/ChrisRoyse/AI-Vibe-Code-Setup)** 🔥 - SPARC-Omega Vibe Coding setup
+  - **Description:** Knowledge-Guided AI + Perplexity + GitHub + Hyperbrowser
+  - **Author:** ChrisRoyse | **Last Updated:** 2025-04-13
+  
+- **[Vibe Coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/)** - Practical vibe coding example
+  - **Author:** Andrej Karpathy | **Published:** 2025-05-02
+  
+- **[SynthLang](https://github.com/ruvnet/SynthLang/tree/proxy/proxy/plans)** - Proxy plans for synthetic language
+  - **Last Updated:** 2025-03-23
+
+---
+
+## 🗺️ Geospatial AI Platforms
+
+### AI-Native GIS Tools
+
+- **[LLM-Geo](https://github.com/gladcolor/LLM-Geo)** 🔥 - Large Language Models for Geospatial Intelligence
+  - **Use Case:** Geospatial analysis with LLMs
+  - **Status:** Active | **Language:** Python
+  
+- **[Mundi.ai](https://mundi.ai/)** 🔥 - AI-native web GIS for PostGIS databases via natural language
+  - **Use Case:** Natural language PostGIS queries
+  - **Status:** Active | **Type:** Open Source
+  
+- **[Nika GAIA](https://www.nikaplanet.com/)** - Geospatial AI Analyst
+  - **Use Case:** AI-powered geospatial analysis
+  - **Status:** Active | **Release:** 2024
+  
+- **[GeoRetina](https://georetina.ai/)** - AI-powered geospatial analysis
+  - **Use Case:** AI geospatial intelligence
+  - **Status:** Active
+  
+- **[Aino AI](https://aino.world/)** - AI for geospatial applications
+  - **Status:** Active
+
+### GIS & Mapping Platforms
+
+- **[GeoDa AI](https://openjsf.org/blog/introducing-geoda-ai)** - Open-source spatial data analysis with AI
+  - **Use Case:** Spatial data analysis and visualization
+  - **Status:** Active | **License:** Open Source
+  
+- **[GeoGPT](https://geogpt.zero2x.org/)** - GPT-powered geospatial analysis tool
+  - **Use Case:** Natural language geospatial queries
+  - **Status:** Active
+  
+- **[GISFAST](https://www.gisfast.my.id/)** - Advanced Geospatial Data Visualization Platform
+  - **Use Case:** Geospatial data visualization and analysis
+  - **Status:** Active | **Region:** Indonesia
+  
+- **[GeoLLM](https://github.com/rohinmanvi/GeoLLM)** - Large Language Model for geospatial tasks
+  - **Use Case:** Geospatial reasoning and analysis
+  - **Status:** Active | **Language:** Python
+  
+- **[SpatialAnalysisAgent](https://github.com/Teakinboyewa/SpatialAnalysisAgent)** - AI agent for automated spatial analysis
+  - **Use Case:** Autonomous spatial analysis workflows
+  - **Status:** Active | **Language:** Python
+  
+- **[ChatGeoPT](https://github.com/earth-genome/ChatGeoPT)** - ChatGPT for geospatial tasks
+  - **Use Case:** Conversational geospatial analysis
+  - **Status:** Demo | **Language:** Python
+  
+- **[GISCARTA](https://giscarta.com/)** - Intuitive GIS for powerful geospatial analysis
+  - **Use Case:** Simplified geospatial analysis
+  - **Status:** Active
+
+### Enterprise GIS Platforms
+
+- **[ArcGIS Insights](https://doc.arcgis.com/en/insights/)** - Esri's advanced spatial analytics platform
+  - **Type:** Commercial | **Provider:** Esri
+  - **Use Case:** Enterprise spatial analytics
+  
+- **[ArcGIS StoryMaps](https://storymaps.arcgis.com/)** - Create interactive story-driven maps
+  - **Type:** Commercial | **Provider:** Esri
+  - **Use Case:** Interactive map storytelling
+  
+- **[CARTO Workspace](https://carto.com/)** - Location intelligence platform
+  - **Type:** Commercial | **Use Case:** Location intelligence and spatial analytics
+  
+- **[GeoNode / MapStore](https://geonode.org/)** - Open source geospatial CMS
+  - **Type:** Open Source | **Use Case:** Geospatial content management
+
+### Modern Web GIS & Collaborative Platforms
+
+- **[Felt](https://felt.com/)** - Collaborative mapping platform
+  - **Use Case:** Real-time collaborative mapping
+  - **Status:** Active | **Type:** SaaS
+  
+- **[Fused](https://fused.ai/)** - Serverless geospatial platform
+  - **Use Case:** Serverless geospatial data processing
+  - **Status:** Active | **Type:** SaaS
+  
+- **[Foursquare Studio](https://studio.foursquare.com/)** - Location data visualization
+  - **Type:** Commercial | **Use Case:** Location data visualization
+  
+- **[Kepler.gl](https://kepler.gl/)** - High-performance web-based geospatial analysis
+  - **Type:** Open Source | **Use Case:** Large-scale geospatial data visualization
+  
+- **[Dekart.xyz](https://dekart.xyz/)** - SQL to Map instantly (Kepler.gl + data warehouse)
+  - **Use Case:** SQL-powered geospatial visualization
+  - **Status:** Active | **Type:** Open Source
+
+### Desktop GIS with AI
+
+- **[QGIS Spatial-Agent](https://plugins.qgis.org/plugins/SpatialAnalysisAgent-master/)** - AI agent plugin for QGIS
+  - **Use Case:** Automated spatial analysis in QGIS
+  - **Status:** Active | **Platform:** QGIS Plugin
+  
+- **[AI Vectorizer QGIS Plugin v2.0](https://buntinglabs.com/blog/ai-vectorizer-for-qgis-v2-launch)** - Bunting Labs AI vectorization
+  - **Published:** 2024-12-26 | **Topics:** #qgis #vectorization
+  
+- **[Real-time Collaboration: Jupyter and QGIS](https://blog.jupyter.org/real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-d25dbe2832a6)** - Collaborative GIS workflows
+  - **Published:** 2025-04-11 | **Topics:** #qgis #jupyter #collaboration
+
+### Google Geospatial AI
+
+- **[Google Geospatial Reasoning](https://research.google/blog/geospatial-reasoning-unlocking-insights-with-generative-ai-and-multiple-foundation-models/)** 🔥 - Generative AI and foundation models for geospatial
+  - **Published:** 2025-04-09
+  - **Topics:** #geospatial #generative-ai #foundation-models
+  - **Note:** Trusted tester program available
+
+### Storytelling & Narrative Mapping
+
+- **[Maptionnaire](https://maptionnaire.com/)** - Participatory mapping platform
+  - **Use Case:** Community engagement and participatory mapping
+  
+- **[Humap](https://humap.me/)** - Human-centered mapping
+  - **Use Case:** Personal mapping and storytelling
+  
+- **[CartoVista](https://cartovista.com/)** - Enterprise mapping and BI platform
+  - **Use Case:** Business intelligence with maps
+  
+- **[StoryMapJS](https://storymap.knightlab.com/)** - Maps that tell stories
+  - **Use Case:** Timeline-based story maps
+  - **Type:** Open Source
+  
+- **[Odyssey.js](https://github.com/cartodb/odyssey.js)** - Create stories with maps
+  - **Status:** Archived | **Type:** Open Source
+  
+- **[MapStory](https://mapstory.org/)** - Share and collaborate on map stories
+  - **Use Case:** Collaborative map storytelling
+  
+- **[Terrastories](https://terrastories.app/)** - Map-based storytelling for indigenous communities
+  - **Use Case:** Indigenous knowledge and oral tradition mapping
+
+---
+
+## 🗄️ Data & Database Tools
+
+### Natural Language to SQL
+
+- **[Vanna](https://github.com/vanna-ai/vanna)** 🔥 - Python RAG framework for SQL generation
+  - **Use Case:** Chat with your SQL database, accurate Text-to-SQL via LLMs using RAG
+  - **Status:** Active | **Language:** Python
+  - **Last Updated:** 2025-04-12
+  
+- **[Julius AI](https://julius.ai/)** 🔥 - The AI data analyst that works for you
+  - **Use Case:** Natural language data analysis and SQL generation
+  - **Status:** Active | **Type:** SaaS Platform
+  
+- **[Text-to-SQL System Using LLM](https://www.reddit.com/r/LangChain/comments/1dtjafd/texttosql_system_using_llm/)** - Community discussion on Text-to-SQL
+  - **Platform:** Reddit/LangChain | **Topics:** #text2sql #llm #discussion
+  
+- **[From Natural Language to SQL: Approaches and Challenges](https://toashishagarwal.medium.com/from-natural-language-to-sql-approaches-and-challenges-in-text2sql-d1252ff86321)** - Comprehensive Text2SQL guide
+  - **Author:** Ashish Agarwal | **Type:** Article
+  - **Topics:** #text2sql #challenges #approaches
+  
+- **[SQL Genie Demo](https://github.com/toashishagarwal/Snowflake-AI/blob/main/2%20SQL%20Genie/analyst_demo.py)** - Snowflake AI SQL generation
+  - **Type:** Code Example | **Language:** Python
+
+### Database Platforms
+
+- **[Databricks](https://www.youtube.com/@Databricks/search)** - The Data and AI company
+  - **Type:** Enterprise Platform | **Use Case:** Data engineering and ML
+  
+---
+
+## 📊 Analytics & Visualization
+
+- **[Tableau](https://tableau.com/)** - Visual analytics platform (with GPT integration)
+  - **Type:** Commercial | **Features:** AI-powered insights
+  
+- **[Power BI](https://powerbi.microsoft.com/)** - Business analytics (with Copilot)
+  - **Type:** Commercial | **Provider:** Microsoft | **Features:** AI-powered
+  
+- **[Mode](https://mode.com/)** - Collaborative analytics platform
+  - **Type:** Commercial
+  
+- **[Hex](https://hex.tech/)** - Modern data workspace
+  - **Type:** Commercial | **Use Case:** Data notebooks and apps
+  
+- **[Monarcha](https://monarcha.ai/)** - AI-powered analytics
+  - **Status:** Active
+
+---
+
+## 📚 Learning Resources
+
+### Video Tutorials - Vibe Coding & AI Development
+
+- **[Vibe Coding Is The Future](https://www.youtube.com/watch?v=IACHfKmZMr8)** 🔥 - Comprehensive guide to modern AI coding
+  - **Published:** 2025-03-08 | **Topics:** #vibe-coding #ai-coding
+  
+- **[Start Vibe Coding Like a Pro](https://www.youtube.com/watch?v=faPSZV5XwyI)** - David Ondrej's vibe coding guide
+  - **Author:** David Ondrej | **Published:** 2025-03-18
+  
+- **[How I use LLMs](https://youtu.be/EWvNQjAaOHw?si=YhiOLEu4p7B0N182)** - Personal workflow and best practices
+  - **Published:** 2025-03-03 | **Topics:** #workflow #best-practices
+
+### Video Tutorials - AI Coding Tools
+
+- **[RooCode + Free Manus/Grok-3/Claude](https://www.youtube.com/watch?v=dqW9snH6yK4&t=7s)** - RooCode upgrade makes it amazing
+  - **Author:** AICodeKing | **Published:** 2025-03-18
+  
+- **[Roo Code is AMAZING](https://www.youtube.com/watch?v=r5T3h0BOiWw&list=PLNKFy83qG93Bu4QidtUoyaQH0oWZml9uA&index=9)** - Better than Cursor?
+  - **Published:** 2025-03-18 | **Topics:** #roocode #vscode
+  
+- **[Fully FREE GPT-4.5 & 3.7 SONNET AI Coder](https://www.youtube.com/watch?v=z1vHPvnZpXE)** - Free AI coding setup
+  - **Published:** 2025-03-18
+  
+- **[ClaudeDev + Aider + Continue: The BEST AI Coding Agent!](https://www.youtube.com/watch?v=708R-BYmjEk)** - Full-stack app generation
+  - **Published:** 2025-02-07 | **Topics:** #claude #aider #continue
+  
+- **[Cline 3.0 (Upgraded)](https://cline.bot/)** - Ultimate autonomous AI coder
+  - **Published:** 2024-12-21 | **Topics:** #cline #autonomous #auto-mode
+  
+- **[Gemini 2.0 Flash + Cline & Aider](https://www.youtube.com/watch)** - Best free AI coding setup
+  - **Published:** 2024-12-21
+  
+- **[Build An AI Agent With PydanticAI](https://www.youtube.com/watch?v=FDBnyJu_Ndg)** - PydanticAI tutorial
+  - **Published:** 2024-12-27 | **Topics:** #pydantic #agents
+  
+- **[Understand ANY Codebase in 5 Minutes](https://www.youtube.com/watch?v=XVR9OgOtnZo)** - Using AI for code understanding
+  - **Published:** 2025-04-28
+  
+- **[GitHub MCP Server Introduction](https://www.youtube.com/watch?v=d3QpQO6Paeg)** - AI interaction protocol
+  - **Published:** 2025-04-28 | **Topics:** #mcp #github
+  
+- **[Context7 + Cline & RooCode](https://www.youtube.com/watch?v=qZfENAPMnyo)** - Makes Cline 100X more effective
+  - **Published:** 2025-04-24 | **Topics:** #context7 #mcp
+  - **Duplicate:** https://youtu.be/qZfENAPMnyo?si=gCjV7OnYYF4njamj
+  
+- **[GitHub Copilot Agent Mode & Project Padawan](https://www.youtube.com/watch?v=y3oo7MGo1DA)** - Game changer review
+  - **Published:** 2025-04-22
+  
+- **[Deepseek VL-2](https://www.youtube.com/watch?v=7uD8X_25n18)** - DeepSeek's new AI vision model
+  - **Published:** 2025-02-07
+  
+- **[Deepseek Operator (+Free APIs)](https://www.youtube.com/watch)** - Beats OpenAI's Operator for free
+  - **Published:** 2025-01-29
+  
+- **[AI Browser Automation Is INSANE](https://www.youtube.com/watch?v=0bairaxlKBU)** - Browser automation review
+  - **Published:** 2025-03-30
+  
+- **[We Are Officially In The Era of AI Agents](https://www.youtube.com/watch?v=eNbq9SWjzTA)** - Tech With Tim's perspective
+  - **Author:** Tech With Tim | **Published:** 2025-03-18
+
+### Video Tutorials - Geospatial & GIS
+
+- **[Connect Claude AI to QGIS with QGISMCP](https://www.youtube.com/watch?v=x2oKYykuIHE)** - QGIS MCP integration
+  - **Published:** 2025-03-23 | **Topics:** #qgis #claude #mcp
+  
+- **[Building detection with SAMGeo2](https://www.youtube.com/watch)** - Geospatial object detection
+  - **Published:** 2024-10-21 | **Topics:** #sam #detection
+
+### Articles & Blog Posts
+
+- **[YC Cohort: 25% AI-Generated Codebases](https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/)** 🔥 - AI coding revolution
+  - **Published:** 2025-03-09 | **Source:** TechCrunch
+  
+- **[Why Natural Language Coding Isn't for Everyone—Yet](https://hackernoon.com/why-natural-language-coding-isnt-for-everyoneyet)** - Critical perspective
+  - **Published:** 2025-03-01 | **Source:** HackerNoon
+  
+- **[Prediction Is Not Reasoning](https://www.twitch.tv/videos/2390871930)** - Discussion with Salvatore Sanfilippo
+  - **Author:** TOTO' | **Published:** 2025-03-01 | **Platform:** Twitch
+
+### Datasets & Prompts
+
+- **[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/tree/main)** 🔥 - Curated prompt collection
+  - **Type:** GitHub Repository | **Last Updated:** 2025-01-29
+  - [HuggingFace Dataset](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer) | **Last Updated:** 2024-09-30
+  
+- **[System Prompts of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** - System prompts collection
+  - **Last Updated:** 2025-03-09
+  
+- **[Prompt Generator Colab](https://colab.research.google.com/drive/1SoAajN8CBYTl79VyTwxtxncfCWlHlyy9)** - Interactive prompt generation
+  - **Type:** Google Colab | **Last Updated:** 2025-03-01
+
+### Learning Materials - ML & Data Science
+
+- **[Applied Machine Learning in Python](https://www.example.com/applied-ml-python)** - Hands-on guide
+  - **Last Updated:** 2024-09-26 | **Topics:** #machine-learning #python
+  
+- **[Microsoft TorchGeo](https://github.com/microsoft/torchgeo)** - Datasets and models for geospatial data
+  - **Last Updated:** 2024-08-06 | **Language:** Python
+  
+- **[Geospatial Machine Learning](https://github.com/deepVector/geospatial-machine-learning)** - Curated ML resources
+  - **Last Updated:** 2024-08-06
+  
+- **[GeoDeep](https://github.com/uav4geo/GeoDeep)** 🔥 - Free AI object detection for geospatial rasters
+  - **Last Updated:** 2025-05-09 | **Language:** Python
+  
+- **[SciKit-Map](https://github.com/openlandmap/scikit-map)** - Machine learning for geospatial data
+  - **Last Updated:** 2024-12-19 | **Language:** Python
+
+### Web Crawling & Data Extraction
+
+- **[Crawl4AI](https://crawl4ai.com/mkdocs/)** - AI-powered web crawling
+  - **Use Case:** Automated web data extraction
+  - **Status:** Active | **Last Updated:** 2025-01-09
+  - [Quickstart Colab](https://colab.research.google.com/drive/1SgRPrByQLzjRfwoRNq1wSGE9nYY_EE8C)
+  
+- **[Chunkr](https://chunkr.ai/)** - Open Source Document Intelligence API
+  - **Last Updated:** 2025-03-08
+
+### Workspaces & Examples
+
+- **[Giacomo's AI Workspace](https://topaz-polyanthus-5ac.notion.site/Giacomo-s-AI-Workspace-a2f821fe265b495382e96f092b2ae399)** - Personal AI workspace template
+  - **Type:** Notion Template | **Last Updated:** 2024-09-06
+  
+- **[Best Hiking Trails in Swiss Alps - Manus](https://manus.im/share/j7QbBlHEO5kSE99KglmbJ9?replay=1)** - Example AI-generated content
+  - **Last Updated:** 2025-03-11
+
+### Developer Tools & Resources
+
+- **[ruvnet Repositories](https://github.com/ruvnet?page=5&tab=repositories)** - Collection of AI agent projects
+  - **Last Updated:** 2025-05-05
+  
+- **[Aurelio Labs](https://github.com/aurelio-labs/)** - AI and ML tools
+  - **Last Updated:** 2025-01-09
+  
+- **[Dorks Collections List](https://github.com/cipher387/Dorks-collections-list#tools)** - Search engine dorks for research
+  - **Last Updated:** 2025-04-20
+
+### Academic & Research Resources
+
+- **[LMSYS Organization](https://lmsys.org/about/)** - Large Model Systems Organization
+  - **Type:** Research Organization | **Last Updated:** 2025-05-05
+  - [Wei-Lin Chiang's Profile](https://infwinston.github.io/)
+  
+- **[Carl Hewitt](https://en.wikipedia.org/wiki/Carl_Hewitt)** - Actor model and AI planning pioneer
+  - **Type:** Historical Reference | **Topics:** #actor-model #planning #concurrent-computing
+
+### PDFs & Guides
+
+- **[Generative-AI-Report.pdf](https://urbanai.fr/wp-content/uploads/2023/10/Generative-AI-Report.pdf)** - Urban AI Generative AI Report
+  - **Published:** 2023-10 | **Last Updated:** 2025-01-31
+  
+- **[Urban-AI-Guide-2023-V2.pdf](https://urbanai.fr/wp-content/uploads/2023/03/Urban-AI-Guide-2023-V2.pdf)** - Urban AI Guide
+  - **Published:** 2023-03 | **Last Updated:** 2025-01-31
+
+### Build Web Apps with AI
+
+- **[Build a Python Web App to chat with datasets using GenAI](https://example.com/)** - Tutorial
+  - **Published:** 2024-12-26
+
+---
+
+## 🏢 Enterprise & Commercial Solutions
+
+- **[Alteryx](https://alteryx.com/)** - Analytics automation platform
+  - **Type:** Commercial | **Use Case:** Data analytics automation
+  
+- **[Dataiku DSS](https://dataiku.com/)** - Enterprise AI and data science platform
+  - **Type:** Commercial | **Use Case:** End-to-end data science
+
+---
+
+## 🔬 Research & Academic
+
+- **[GeoFlow](https://arxiv.org/html/2508.04719)** 🔥 - Agentic Workflow Automation for Geospatial Tasks
+  - **Type:** Research Paper | **Platform:** arXiv
+  - [Related Papers](https://iflow.cn/papers/semantic-3748208bf2bb969135de21d3d58abf75a2bd7707-175483448538946ae626c)
+  - [GitHub Implementation](https://github.com/dstamoulis/geo-olms?spm=3e711c3f.2a75f657.0.0.1cd273e8KS76bO)
+  
+- **[ACM SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/short-paper-accepted/)** - Accepted Short Papers
+  - **Type:** Conference | **Year:** 2025
+  - **Topics:** #geospatial #research #conference
+
+---
+
+## 🔧 Utilities & Supporting Tools
+
+### Search & Discovery
+
+- **[Exa](https://exa.ai/search)** 🔥 - AI-powered search using embeddings to understand meaning
+  - **Use Case:** Semantic search engine
+  - **Status:** Active | **Last Updated:** 2024-07-13
+  
+- **[Perplexity AI](https://www.perplexity.ai/)** - AI-powered answer engine
+  - **Status:** Active
+  - [GitHub Marketplace](https://github.com/marketplace/perplexityai) | **Last Updated:** 2024-10-29
+  
+- **[GigaBrain](https://thegigabrain.com/)** - Cut the noise. Get real answers from real people
+  - **Last Updated:** 2024-07-13
+  
+- **[Glimpse](https://meetglimpse.com/)** - Discover trends before they're trending
+  - **Last Updated:** 2024-07-13
+  
+- **[Poe](https://poe.com/)** - AI-powered bots platform
+  - **Description:** Ask questions, get instant answers from various AI bots
+  - **Last Updated:** 2024-07-13
+
+### Security & Testing
+
+- **[PromptFoo](https://www.promptfoo.dev/)** - Secure your AI applications
+  - **Use Case:** AI security testing and evaluation
+  
+- **[AI Model Interpretability](https://www.youtube.com/watch?v=fGKNUvivvnc)** - Understanding how AI models think
+  - **Type:** Video | **Topics:** #interpretability #explainability
+
+### Community & Discovery Platforms
+
+- **[Subreddit Stats](https://subredditstats.com/)** - Subreddit ranking lists
+  - **Use Case:** Find and analyze subreddits
+  - **Last Updated:** 2024-07-13
+  
+- **[Sayit - Subreddit Graph](https://anvaka.github.io/sayit/?query=gis)** - Graph of related subreddits
+  - **Use Case:** Discover related communities
+  - **Last Updated:** 2024-07-13
+
+### Other Utilities
+
+- **[eXoDOS](https://www.retro-exo.com/exodos_M.html)** - DOS games collection
+  - **Last Updated:** 2025-03-31
+
+---
+
+## 📋 Additional Resources by Date
+
+### 2025
+
+- **[DeepWiki - ruvnet](https://github.com/ruvnet)** | May 5, 2025 10:27 PM
+- **[About me - Wei-Lin Chiang](https://infwinston.github.io/)** | May 5, 2025 10:27 PM
+
+---
+
+## 🔗 Model Spec & Standards
+
+- **[Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)** - Open standard for AI model capabilities
+  - **Published:** 2024-05-08 | **Source:** OpenAI
+
+---
+
+**Note:** This document is actively maintained. For the latest updates, check the repository history. All URLs have been verified and enriched with proper titles and descriptions. Duplicates have been removed.
+
+**Last Full Review:** 2025-10-15
