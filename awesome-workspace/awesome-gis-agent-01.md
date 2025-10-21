@@ -702,9 +702,6 @@
   - **Status:** Active
   - [GitHub Marketplace](https://github.com/marketplace/perplexityai) | **Last Updated:** 2024-10-29
   
-- **[GigaBrain](https://thegigabrain.com/)** - Cut the noise. Get real answers from real people
-  - **Last Updated:** 2024-07-13
-  
 - **[Glimpse](https://meetglimpse.com/)** - Discover trends before they're trending
   - **Last Updated:** 2024-07-13
   

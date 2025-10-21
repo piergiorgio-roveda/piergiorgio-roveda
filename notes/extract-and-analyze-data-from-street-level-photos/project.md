@@ -52,3 +52,34 @@ Use **OpenAI vision models** for *interpretation, description, and contextual la
 
 **LLM-vision models unify semantic understanding**, while **classical CV keeps quantitative precision** — combining both gives the most powerful Street View–based urban indexing workflow.
 
+## Basic safety criteria provided to participants for ranking tasks.
+
+**Safe**
+
+|Descriptions|
+|---|
+|Areas with high pedestrian activity, such as commercial buildings or residential zones|
+|Public service facilities, including police stations and hospitals|
+|Well-maintained and organized street trees|
+|Sidewalks that are clean and in good repair|
+|Active and clean downtown roads|
+|Clearly marked and easily accessible public transport stops|
+|Clear and visible road signs and directions|
+|Well-maintained street decorations or public spaces|
+|Presence of well-maintained greenery and parks|
+
+**Dangerous**
+
+|Descriptions|
+|---|
+|Buildings that are damaged or abandoned|
+|Walls that are blocked or in disrepair|
+|Remote rural or suburban roads with little traffic|
+|Areas where garbage is piled up or the environment is neglected|
+|Active construction sites with insufficient safety measures|
+|Areas lacking sufficient traffic lights|
+|Complex and confusing traffic systems|
+|High traffic areas with disorganized vehicle and pedestrian flow|
+|Open land that is desolate and uninhabited|
+|Narrow, enclosed spaces|
+|Long and narrow roads or tunnels with poor visibility|
