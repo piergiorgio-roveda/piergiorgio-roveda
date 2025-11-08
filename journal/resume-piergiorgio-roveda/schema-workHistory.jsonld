@@ -3,15 +3,16 @@
   "@type": "ItemList",
   "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#workHistory",
   "name": "Work History and Employment Experience",
-  "description": "Complete professional employment history with roles, responsibilities, and key achievements",
+  "description": "Condensed professional employment history highlighting key roles, responsibilities, and major achievements. For detailed project work and deliverables, see performerIn.",
   "itemListElement": [
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
-      "startDate": "2015-01",
+      "startDate": "2015-01-01",
       "description": "Manages the flows of applications in continuous delivery mode, monitors the software operation, and logs the activity of more than 1,000 users.",
       "organization": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
         "name": "Geomarketing Srl",
         "location": {
           "@type": "Place",
@@ -43,7 +44,7 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Consultant",
-      "startDate": "2012-01",
+      "startDate": "2012-01-01",
       "description": "Acts as a webmaster and customizes web application development and training courses, including the basic fundamentals of GIS using QGIS and Postgres/PostGIS.",
       "organization": {
         "@type": "Organization",
@@ -79,11 +80,12 @@
     {
       "@type": "OrganizationRole",
       "roleName": "WebGIS Developer",
-      "startDate": "2014-07",
-      "endDate": "2014-10",
+      "startDate": "2014-07-01",
+      "endDate": "2014-10-31",
       "description": "Designed and executed applications used to support GIS data.",
       "organization": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato",
         "name": "Monferrato Paesaggi",
         "location": {
           "@type": "Place",
@@ -110,11 +112,12 @@
     {
       "@type": "OrganizationRole",
       "roleName": "Urban Planner and Remote Sensing with Drones",
-      "startDate": "2012-01",
-      "endDate": "2014-12",
+      "startDate": "2012-01-01",
+      "endDate": "2014-12-31",
       "description": "Developed comprehensive plans and programs for use of land and physical facilities of jurisdictions, including towns, cities, counties, and metropolitan areas.",
       "organization": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-logosloci",
         "name": "Logos Loci",
         "location": {
           "@type": "Place",
@@ -142,11 +145,12 @@
     {
       "@type": "OrganizationRole",
       "roleName": "Urban Planner",
-      "startDate": "2007-01",
-      "endDate": "2012-12",
+      "startDate": "2007-01-01",
+      "endDate": "2012-12-31",
       "description": "Created maps and reports for land use and environment planning for public administration, including environmental, landscape, and territorial analyses of the Pedemontana Lombarda motorway.",
       "organization": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-vigerlab",
         "name": "VigerLAB",
         "location": {
           "@type": "Place",
@@ -174,8 +178,8 @@
     {
       "@type": "OrganizationRole",
       "roleName": "VBA Developer",
-      "startDate": "2007-01",
-      "endDate": "2007-03",
+      "startDate": "2007-01-01",
+      "endDate": "2007-03-31",
       "description": "Built VB prototypes and small scale applications, along with VBA scripts, to automate Excel spreadsheets.",
       "organization": {
         "@type": "Organization",
@@ -205,11 +209,12 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Analyst",
-      "startDate": "2004-01",
-      "endDate": "2007-12",
+      "startDate": "2004-01-01",
+      "endDate": "2007-12-31",
       "description": "Analyzed geographical data working collaboratively with other staff members and communicating GIS concepts to non-GIS users.",
       "organization": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiofranzosi",
         "name": "Studio Franzosi",
         "location": {
           "@type": "Place",

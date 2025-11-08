@@ -3,15 +3,16 @@
   "@type": "ItemList",
   "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performerIn",
   "name": "Work Experience and Professional Roles",
-  "description": "Detailed work experience and professional roles of Piergiorgio Roveda",
+  "description": "Detailed work experience with specific projects, deliverables, and technical implementations. For achievement summaries, see workHistory.",
   "itemListElement": [
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
-      "startDate": "2022",
-      "endDate": "2024",
+      "startDate": "2022-01",
+      "endDate": "2024-12",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit",
         "name": "StudioSit SA",
         "location": {
           "@type": "Place",
@@ -37,9 +38,10 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
-      "startDate": "2024",
+      "startDate": "2024-01",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-atmosoar",
         "name": "Atmosoar",
         "location": {
           "@type": "Place",
@@ -60,9 +62,10 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
-      "startDate": "2023",
+      "startDate": "2023-01",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-eap",
         "name": "EAP Financial Services",
         "location": {
           "@type": "Place",
@@ -83,10 +86,11 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
-      "startDate": "2015",
-      "endDate": "2023",
+      "startDate": "2015-01",
+      "endDate": "2023-12",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
         "name": "Geomarketing Srl",
         "location": {
           "@type": "Place",
@@ -109,7 +113,7 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Consultant / Freelancer",
-      "startDate": "2012",
+      "startDate": "2012-01",
       "location": [
         {
           "@type": "Place",
@@ -159,12 +163,13 @@
       "endDate": "2014-10",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato",
         "name": "Monferrato Paesaggi",
         "location": {
           "@type": "Place",
           "address": {
             "@type": "PostalAddress",
-            "addressLocality": "Turin",
+            "addressLocality": "Monferrato",
             "addressCountry": "IT"
           }
         }
@@ -178,10 +183,11 @@
     {
       "@type": "OrganizationRole",
       "roleName": "Urban Planner and Remote Sensing with Drones",
-      "startDate": "2012",
-      "endDate": "2014",
+      "startDate": "2012-01",
+      "endDate": "2014-12",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-logosloci",
         "name": "Logos Loci",
         "location": {
           "@type": "Place",
@@ -200,10 +206,11 @@
     {
       "@type": "OrganizationRole",
       "roleName": "Urban Planner",
-      "startDate": "2007",
-      "endDate": "2012",
+      "startDate": "2007-01",
+      "endDate": "2012-12",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-vigerlab",
         "name": "VigerLAB",
         "location": {
           "@type": "Place",
@@ -241,10 +248,11 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Analyst",
-      "startDate": "2004",
-      "endDate": "2007",
+      "startDate": "2004-01",
+      "endDate": "2007-12",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiofranzosi",
         "name": "Studio Franzosi",
         "location": {
           "@type": "Place",
@@ -266,6 +274,7 @@
       "roleName": "Data Entry & Detector",
       "worksFor": {
         "@type": "Organization",
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-euroimpresa",
         "name": "Euroimpresa",
         "location": {
           "@type": "Place",

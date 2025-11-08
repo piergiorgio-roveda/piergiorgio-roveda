@@ -11,7 +11,7 @@
       "applicationCategory": "WebGIS Platform",
       "operatingSystem": "Web-based",
       "description": "A versatile geospatial platform for data management, analysis, and visualization, empowering users to make informed decisions through dynamic maps and insights. Cloud-based platform with web interface consisting of Postgres database, WordPress installation, and optional Geoserver. GEODASHBOARD is an extension (theme + plugin) that transforms WordPress into a Geospatial Tools Platform.",
-      "datePublished": "2012",
+      "datePublished": "2012-01-01",
       "url": "https://www.cityplanner.biz",
       "author": {
         "@type": "Person",
@@ -107,13 +107,13 @@
     {
       "@type": "CreativeWork",
       "name": "Il territorio rurale produttore di valori per la costruzione di un sistema degli spazi aperti: Il caso della provincia di Mantova",
-      "datePublished": "2006",
+      "datePublished": "2006-12-01",
       "about": "Master's Thesis"
     },
     {
       "@type": "CreativeWork",
       "name": "Il Parco delle Groane, interruttore funzionale di una rete ecologica",
-      "datePublished": "2003",
+      "datePublished": "2003-06-01",
       "about": "Bachelor's Thesis"
     }
   ]
