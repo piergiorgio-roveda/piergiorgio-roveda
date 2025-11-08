@@ -8,7 +8,7 @@
     {
       "@type": "Thing",
       "name": "StudioSit SA - Vehicle/Bicycle Video Monitoring System",
-      "dateCreated": "2022-01-01",
+      "dateCreated": "2022-01",
       "description": "Developed comprehensive street-level data capture and analysis system",
       "additionalProperty": [
         {
@@ -31,7 +31,7 @@
     {
       "@type": "Thing",
       "name": "Geomarketing Srl - WebGIS Platform Development",
-      "dateCreated": "2015-01-01",
+      "dateCreated": "2015-01",
       "description": "Developed WebGIS platform for geomarketing in continuous delivery mode",
       "additionalProperty": [
         {
@@ -54,7 +54,7 @@
     {
       "@type": "Thing",
       "name": "Geomarketing Srl - Travel Time Analysis System",
-      "dateCreated": "2015-2023",
+      "dateCreated": "2015",
       "description": "Developed simplified structure for travel time mapping",
       "additionalProperty": [
         {
@@ -77,7 +77,7 @@
     {
       "@type": "Thing",
       "name": "Geomarketing Srl - Agile Methodology Implementation",
-      "dateCreated": "2015-2023",
+      "dateCreated": "2015",
       "description": "Introduced Agile-inspired workflow for team of three newly-hired people",
       "additionalProperty": [
         {
@@ -95,7 +95,7 @@
     {
       "@type": "Thing",
       "name": "Geomarketing Srl - Database Automation with PL/SQL",
-      "dateCreated": "2015-2023",
+      "dateCreated": "2015",
       "description": "Automated database construction and formatting",
       "additionalProperty": [
         {
@@ -118,7 +118,7 @@
     {
       "@type": "Thing",
       "name": "Freelancer - VB Script Automation for GIS",
-      "dateCreated": "2012-Present",
+      "dateCreated": "2012",
       "description": "Created automation scripts for data extraction from GIS",
       "additionalProperty": [
         {
@@ -136,7 +136,7 @@
     {
       "@type": "Thing",
       "name": "Freelancer - MS Access Integration with ArcGIS",
-      "dateCreated": "2012-Present",
+      "dateCreated": "2012",
       "description": "Developed complex database forms for building census reporting",
       "additionalProperty": [
         {
@@ -159,7 +159,7 @@
     {
       "@type": "Thing",
       "name": "Freelancer - QGIS Community and Cost Savings",
-      "dateCreated": "2012-Present",
+      "dateCreated": "2012",
       "description": "Promoted QGIS as zero-cost alternative to commercial GIS",
       "additionalProperty": [
         {
@@ -205,7 +205,7 @@
     {
       "@type": "Thing",
       "name": "Logos Loci - Drone Remote Sensing",
-      "dateCreated": "2012-2014",
+      "dateCreated": "2012",
       "description": "Pioneered drone technology for remote sensing in urban planning",
       "additionalProperty": [
         {
@@ -223,7 +223,7 @@
     {
       "@type": "Thing",
       "name": "VigerLAB - CMS for Technical Documentation",
-      "dateCreated": "2007-2012",
+      "dateCreated": "2007",
       "description": "Developed content management system for technical maps",
       "additionalProperty": [
         {
@@ -259,7 +259,7 @@
     {
       "@type": "Thing",
       "name": "Studio Franzosi - Decision Support System",
-      "dateCreated": "2004-2007",
+      "dateCreated": "2004",
       "description": "Developed system for contaminated site remediation",
       "additionalProperty": [
         {
@@ -277,7 +277,7 @@
     {
       "@type": "Thing",
       "name": "Studio Franzosi - 3D Visualization",
-      "dateCreated": "2004-2007",
+      "dateCreated": "2004",
       "description": "Created multimedia presentations for territorial representation",
       "additionalProperty": [
         {

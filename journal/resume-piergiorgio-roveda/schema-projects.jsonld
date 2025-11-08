@@ -1,0 +1,209 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#projects",
+  "name": "Professional Projects Registry",
+  "description": "Centralized registry of all professional projects with canonical descriptions and metadata. Referenced by makesOffer, performerIn, and workExample schemas.",
+  "dateModified": "2025-11-08",
+  "itemListElement": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard",
+      "name": "GEODASHBOARD",
+      "applicationCategory": "WebGIS Platform",
+      "operatingSystem": "Web-based",
+      "description": "A versatile geospatial platform for data management, analysis, and visualization, empowering users to make informed decisions through dynamic maps and insights. Cloud-based platform with web interface consisting of Postgres database, WordPress installation, and optional Geoserver. GEODASHBOARD is an extension (theme + plugin) that transforms WordPress into a Geospatial Tools Platform.",
+      "datePublished": "2012-01",
+      "startDate": "2022-02",
+      "url": "https://www.cityplanner.biz",
+      "author": {
+        "@type": "Person",
+        "name": "Piergiorgio Roveda"
+      },
+      "softwareRequirements": [
+        "PostgreSQL/PostGIS",
+        "WordPress",
+        "Geoserver (optional)",
+        "LeafletJS",
+        "PHP"
+      ],
+      "keywords": ["Postgres", "PostGIS", "Python", "PHP", "JavaScript", "Angular/React/Vue", "MapLibre", "LeafletJS", "Continuous delivery", "Scrum", "Kanban"],
+      "featureList": [
+        "Data Visualization: Powerful tools for visualizing spatial data in maps, charts, and graphs with user data upload and pre-loaded datasets",
+        "Spatial Analysis: Complex spatial analyses including buffering, distance and area calculations, clustering, providing insights into patterns and trends",
+        "User-Friendly Interface: Intuitive web-based interface accessible from any device with an internet connection",
+        "Customizable Modules: Users can build custom functionality tailored to specific needs",
+        "Open Source: Continuously improved by a global community of developers",
+        "Real-Time Data: Monitor and respond to changes as they happen",
+        "Collaboration: Team collaboration on projects with data and insights sharing",
+        "Layer Manager & Tile Services: Complex layer management with hide-away buttons and Geoserver variable requests",
+        "Info Popup: Custom popups with multiple tabs for extensive data display and Excel export",
+        "PDF Reports: Customizable presentable reports without rigid templates",
+        "Geo Blog: WordPress CMS integration for familiar user experience",
+        "Mobile Ready: Minimal interface optimized for field operations with position tracking and data validation",
+        "Territory Management: Direct territory editing with real-time calculations and agent relationships"
+      ],
+      "hasPart": [
+        {
+          "@type": "Project",
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-studiosit",
+          "name": "GEODASHBOARD for StudioSit SA",
+          "description": "Customized GEODASHBOARD platform for real estate, surveying, and GIS data management with advanced vehicle/bicycle video monitoring system.",
+          "isPartOf": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard"},
+          "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit"},
+          "startDate": "2022-01",
+          "endDate": "2024-12",
+          "customization": "toponymy, real-estate, lidar data management, video monitoring system",
+          "keywords": ["Postgres", "PostGIS", "pgRouting", "QGIS", "Python", "PHP", "JavaScript", "Mapbox", "LeafletJS"]
+        },
+        {
+          "@type": "Project",
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-atmosoar",
+          "name": "GEODASHBOARD for Atmosoar",
+          "description": "Customized GEODASHBOARD for drone route-planning, integrating weather data and insurance-compliant mission management for safe and efficient drone operations.",
+          "isPartOf": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard"},
+          "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-atmosoar"},
+          "startDate": "2024-01",
+          "customization": "drone route-planning, weather data integration, insurance-compliant missions",
+          "keywords": ["Postgres", "PostGIS", "QGIS", "Python", "PHP", "JavaScript", "Mapbox"]
+        },
+        {
+          "@type": "Project",
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-eap",
+          "name": "GEODASHBOARD for EAP Financial Services",
+          "description": "Customized GEODASHBOARD for agents area management, enabling efficient territory management and field operations optimization for financial services.",
+          "isPartOf": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard"},
+          "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-eap"},
+          "startDate": "2023-01",
+          "customization": "agents area management, territory optimization",
+          "keywords": ["Postgres", "PostGIS", "JavaScript", "LeafletJS"]
+        },
+        {
+          "@type": "Project",
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-geomarketing",
+          "name": "GEODASHBOARD for Geomarketing Srl",
+          "description": "9 WebApps serving 500+ users for geomarketing analysis with demographic, social, business and environmental data integration.",
+          "isPartOf": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard"},
+          "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing"},
+          "startDate": "2015-01",
+          "endDate": "2023-12",
+          "customization": "retail geomarketing, demographic data, business intelligence",
+          "keywords": ["Postgres", "PostGIS", "QGIS", "PHP", "JavaScript", "LeafletJS", "Geoserver", "Wordpress"]
+        }
+      ]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-video-monitoring-studiosit",
+      "name": "Vehicle/Bicycle Video Monitoring System",
+      "description": "Comprehensive system for capturing and analyzing street-level data via bicycle and car video monitoring, with GPS integration and web dashboard. Captured approximately 70,000 kilometers of streets using bicycles and dashcams with active GPS tracking.",
+      "startDate": "2023-07",
+      "endDate": "2024-05",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit"},
+      "keywords": ["Postgres", "PostGIS", "pgRouting", "QGIS", "Python", "PHP", "JavaScript", "Mapbox", "Continuous delivery", "Scrum", "Kanban"],
+      "deliverables": [
+        "Municipality-specific routing projects optimizing routes covering all streets with minimal travel time",
+        "Web application for navigation through collected video data points with note and error management",
+        "Real-time dashboard for data analysis and project supervision with video management system",
+        "Machine learning framework to automatically extract street element information from video data",
+        "Key video frames extraction with embedded GPS data for comprehensive street condition records"
+      ]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodms-studiosit",
+      "name": "GEODMS Analysis, Management, Visualization with GEODASHBOARD",
+      "description": "Advanced geodatabase management system with analysis and visualization capabilities for real-estate and surveying data.",
+      "startDate": "2022-01",
+      "endDate": "2024-06",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit"},
+      "keywords": ["Postgres", "PostGIS", "pgRouting", "QGIS", "Python", "PHP", "JavaScript", "Mapbox", "LeafletJS"]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-municipality-studiosit",
+      "name": "Custom WebGIS for Municipality",
+      "description": "Tailored WebGIS solution for municipal geographic data management and public access.",
+      "startDate": "2023-01",
+      "endDate": "2023-06",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit"},
+      "keywords": ["Postgres", "PostGIS", "QGIS", "PHP", "JavaScript", "Geoserver", "LeafletJS"]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-weather-atmosoar",
+      "name": "Custom WebGIS for Weather Data",
+      "description": "Specialized WebGIS platform for weather data visualization and analysis integrated with drone operations.",
+      "startDate": "2023-10",
+      "endDate": "2024-03",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-atmosoar"},
+      "keywords": ["Postgres", "PostGIS", "QGIS", "Python", "PHP", "JavaScript", "Mapbox"]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-retail-geomarketing",
+      "name": "Custom WebGIS for Retail",
+      "description": "Geomarketing platform for retail location analysis and market intelligence.",
+      "startDate": "2019-01",
+      "endDate": "2023-12",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing"},
+      "keywords": ["Postgres", "PostGIS", "QGIS", "PHP", "JavaScript", "LeafletJS", "Geoserver", "Wordpress"]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-mapinfo-geomarketing",
+      "name": "MapInfo Client Service",
+      "description": "Professional MapInfo consulting and custom development services.",
+      "startDate": "2015-09",
+      "endDate": "2017-09",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing"},
+      "keywords": ["MapInfo", "VBA"]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodms-geomarketing",
+      "name": "GEODMS for Socio/Demographic and Business data",
+      "description": "Comprehensive geodatabase management system for demographic and business intelligence.",
+      "startDate": "2015-01",
+      "endDate": "2022-12",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing"},
+      "keywords": ["Postgres", "PostGIS", "QGIS", "Python", "PHP", "JavaScript", "Geoserver", "LeafletJS"]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-monferrato",
+      "name": "WebGIS Developer - Monferrato Paesaggi",
+      "description": "Development and maintenance of enterprise web mapping solutions for landscape visualization with social media integration.",
+      "startDate": "2014-03",
+      "endDate": "2014-07",
+      "client": {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato"},
+      "keywords": ["Postgres", "PostGIS", "MySQL", "PHP", "JavaScript", "LeafletJS", "Wordpress"],
+      "deliverables": [
+        "Monferrato landscapes web portal development in PHP with geographic database integration",
+        "Google Search indexing and maximum integration with Twitter, Facebook, and Instagram"
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#publication-masters-thesis",
+      "name": "Il territorio rurale produttore di valori per la costruzione di un sistema degli spazi aperti: Il caso della provincia di Mantova",
+      "datePublished": "2006-12",
+      "about": "Master's Thesis",
+      "author": {
+        "@type": "Person",
+        "name": "Piergiorgio Roveda"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#publication-bachelors-thesis",
+      "name": "Il Parco delle Groane, interruttore funzionale di una rete ecologica",
+      "datePublished": "2003-06",
+      "about": "Bachelor's Thesis",
+      "author": {
+        "@type": "Person",
+        "name": "Piergiorgio Roveda"
+      }
+    }
+  ]
+}

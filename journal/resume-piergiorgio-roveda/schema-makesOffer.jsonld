@@ -2,150 +2,66 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#makesOffer",
-  "name": "Project Portfolio",
-  "description": "Portfolio of professional projects and services offered by Piergiorgio Roveda",
+  "name": "Current Service Offerings",
+  "description": "Professional services and solutions currently offered by Piergiorgio Roveda. For detailed project information, see schema-projects.jsonld",
+  "dateModified": "2025-11-08",
   "itemListElement": [
     {
       "@type": "Offer",
+      "name": "GEODASHBOARD Platform Development",
+      "description": "Custom geospatial platform development and implementation",
       "itemOffered": {
-        "@type": "Project",
-        "name": "[GEO]DASHBOARD",
-        "description": "Comprehensive Geospatial Platform for Data Management and Visualization with a Postgres/PostGIS backend.",
-        "startDate": "2022-02-01",
-        "employee": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Video Monitoring & Street Data Collection",
+      "description": "Vehicle/bicycle-based video monitoring systems with GPS integration",
+      "itemOffered": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-video-monitoring-studiosit"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Custom WebGIS Solutions",
+      "description": "Tailored web-based GIS applications for various industries",
+      "itemOffered": [
+        {
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-municipality-studiosit"
+        },
+        {
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-weather-atmosoar"
+        },
+        {
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-retail-geomarketing"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Geodatabase Management Systems",
+      "description": "Enterprise-grade geodatabase design and implementation",
+      "itemOffered": [
+        {
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodms-studiosit"
+        },
+        {
+          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodms-geomarketing"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "GIS Consulting Services",
+      "description": "Professional GIS consulting, training, and custom development",
+      "itemOffered": {
+        "@type": "Service",
+        "serviceType": "GIS Consulting",
+        "provider": {
           "@type": "Person",
-          "name": "Piergiorgio Roveda",
-          "jobTitle": "Freelancer"
-        },
-        "keywords": ["Postgres", "PostGIS", "Python", "PHP", "JavaScript", "Angular/React/Vue", "MapLibre", "LeafletJS", "Continuous delivery", "Scrum", "Kanban"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "Vehicle/Bicycle Video Monitoring System",
-        "description": "System for capturing and analyzing street-level data via bicycle and car video monitoring, with GPS integration and web dashboard.",
-        "startDate": "2023-07-01",
-        "endDate": "2024-05-31",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit",
-          "name": "StudioSit SA"
-        },
-        "keywords": ["Postgres", "PostGIS", "pgRouting", "QGIS", "Python", "PHP", "JavaScript", "Mapbox", "Continuous delivery", "Scrum", "Kanban"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "GEODMS Analysis, Management, Visualization with GEODASHBOARD",
-        "description": "Advanced geodatabase management system with analysis and visualization capabilities.",
-        "startDate": "2022-01-01",
-        "endDate": "2024-06-30",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit",
-          "name": "StudioSit SA"
-        },
-        "keywords": ["Postgres", "PostGIS", "pgRouting", "QGIS", "Python", "PHP", "JavaScript", "Mapbox", "LeafletJS"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "Custom WebGIS for Municipality",
-        "description": "Tailored WebGIS solution for municipal geographic data management and public access.",
-        "startDate": "2023-01-01",
-        "endDate": "2023-06-30",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit",
-          "name": "StudioSit SA"
-        },
-        "keywords": ["Postgres", "PostGIS", "QGIS", "PHP", "JavaScript", "Geoserver", "LeafletJS"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "Custom WebGIS for Weather Data",
-        "description": "Specialized WebGIS platform for weather data visualization and analysis.",
-        "startDate": "2023-10-01",
-        "endDate": "2024-03-31",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-atmosoar",
-          "name": "Atmosoar"
-        },
-        "keywords": ["Postgres", "PostGIS", "QGIS", "Python", "PHP", "JavaScript", "Mapbox"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "Custom WebGIS for Retail",
-        "description": "Geomarketing platform for retail location analysis and market intelligence.",
-        "startDate": "2019-01-01",
-        "endDate": "2023-12-31",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
-          "name": "Geomarketing Srl"
-        },
-        "keywords": ["Postgres", "PostGIS", "QGIS", "PHP", "JavaScript", "LeafletJS", "Geoserver", "Wordpress"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "MapInfo Client Service",
-        "description": "Professional MapInfo consulting and custom development services.",
-        "startDate": "2015-09-01",
-        "endDate": "2017-09-30",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
-          "name": "Geomarketing Srl"
-        },
-        "keywords": ["MapInfo", "VBA"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "GEODMS for Socio/Demographic and Business data",
-        "description": "Comprehensive geodatabase management system for demographic and business intelligence.",
-        "startDate": "2015-01-01",
-        "endDate": "2022-12-31",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
-          "name": "Geomarketing Srl"
-        },
-        "keywords": ["Postgres", "PostGIS", "QGIS", "Python", "PHP", "JavaScript", "Geoserver", "LeafletJS"]
-      }
-    },
-    {
-      "@type": "Offer",
-      "itemOffered": {
-        "@type": "Project",
-        "name": "WebGIS Developer - Monferrato Paesaggi",
-        "description": "Development and maintenance of enterprise web mapping solutions for landscape visualization.",
-        "startDate": "2014-03-01",
-        "endDate": "2014-07-31",
-        "client": {
-          "@type": "Organization",
-          "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato",
-          "name": "Monferrato Paesaggi"
-        },
-        "keywords": ["Postgres", "PostGIS", "MySQL", "PHP", "JavaScript", "LeafletJS", "Wordpress"]
+          "name": "Piergiorgio Roveda"
+        }
       }
     }
   ]

@@ -1,0 +1,601 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#competencies",
+  "name": "Professional Competencies and Skills Framework",
+  "description": "Comprehensive catalog of technical skills, soft skills, leadership competencies, and professional credentials of Piergiorgio Roveda. This consolidated framework replaces separate skills files and provides a single source of truth for all competencies.",
+  "dateModified": "2025-11-08",
+  "itemListElement": [
+    {
+      "@type": "CategoryCode",
+      "@id": "#technical-skills",
+      "name": "Technical Skills",
+      "description": "Core technical competencies, tools, and technologies with experience levels",
+      "hasPart": [
+        {
+          "@type": "DefinedTerm",
+          "termCode": "gis-development",
+          "name": "GIS Development",
+          "description": "Expert-level proficiency in Geographic Information Systems development, including desktop and web-based solutions",
+          "inDefinedTermSet": "Technical Leadership",
+          "hasDefinedTerm": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "QGIS",
+              "competenceLevel": 5,
+              "experienceMonths": 120,
+              "startDate": "2014-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "ESRI ArcGIS",
+              "competenceLevel": 5,
+              "experienceMonths": 96,
+              "startDate": "2016-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "MapInfo",
+              "competenceLevel": 5,
+              "experienceMonths": 60,
+              "startDate": "2019-09"
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "geodatabase-management",
+          "name": "GeoDatabase Management",
+          "description": "Comprehensive expertise in designing, implementing, and managing geographic databases at scale",
+          "inDefinedTermSet": "Technical Leadership",
+          "hasDefinedTerm": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "Postgres/PostGIS/pgRouting",
+              "competenceLevel": 5,
+              "experienceMonths": 84,
+              "startDate": "2017-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "MS Access/ESRI Geodatabase",
+              "competenceLevel": 5,
+              "experienceMonths": 84,
+              "startDate": "2017-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "MySQL",
+              "competenceLevel": 4,
+              "experienceMonths": 48,
+              "startDate": "2020-09"
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "webgis-development",
+          "name": "WebGIS Development",
+          "description": "Specialized in creating web-based GIS applications and geospatial platforms",
+          "inDefinedTermSet": "Technical Leadership",
+          "hasDefinedTerm": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "LeafletJS, MapBox, MapLibre, OpenLayers",
+              "competenceLevel": 5,
+              "experienceMonths": 84,
+              "startDate": "2017-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "Geoserver",
+              "competenceLevel": 5,
+              "experienceMonths": 60,
+              "startDate": "2019-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "JavaScript",
+              "competenceLevel": 4,
+              "experienceMonths": 84,
+              "startDate": "2017-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "Angular, React, Vue",
+              "competenceLevel": 4,
+              "experienceMonths": 36,
+              "startDate": "2021-09"
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "programming-languages",
+          "name": "Programming Languages & Frameworks",
+          "description": "Proficiency in various programming languages and development frameworks",
+          "inDefinedTermSet": "Technical Expertise",
+          "hasDefinedTerm": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "PHP",
+              "competenceLevel": 4,
+              "experienceMonths": 120,
+              "startDate": "2014-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "Python/Geopandas",
+              "competenceLevel": 3,
+              "experienceMonths": 36,
+              "startDate": "2021-09"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "VBA",
+              "competenceLevel": 3,
+              "experienceMonths": 36,
+              "startDate": "2021-09"
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "cms-platforms",
+          "name": "Content Management Systems",
+          "description": "Experience with CMS platforms for web development",
+          "inDefinedTermSet": "Web Development",
+          "hasDefinedTerm": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "WordPress",
+              "competenceLevel": 4,
+              "experienceMonths": 96,
+              "startDate": "2016-09"
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "office-productivity",
+          "name": "Office & Productivity Tools",
+          "description": "Advanced proficiency in office productivity software",
+          "inDefinedTermSet": "Professional Tools",
+          "hasDefinedTerm": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "MS Excel",
+              "competenceLevel": 5,
+              "experienceMonths": 209,
+              "startDate": "2007-06"
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "systems-administration",
+          "name": "Systems Administration",
+          "description": "Operating system administration and server management",
+          "inDefinedTermSet": "Infrastructure",
+          "hasDefinedTerm": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "certification",
+              "name": "Linux Ubuntu",
+              "competenceLevel": 4,
+              "experienceMonths": 120,
+              "startDate": "2014-09"
+            }
+          ]
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "data-analysis",
+          "name": "Geographic Data Analysis",
+          "description": "Advanced capabilities in analyzing and interpreting geospatial data to derive actionable insights",
+          "inDefinedTermSet": "Technical Leadership"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "map-analysis",
+          "name": "Map Analysis Processing",
+          "description": "Advanced skills in cartographic analysis and spatial data processing",
+          "inDefinedTermSet": "Technical Leadership"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "data-transformation",
+          "name": "Data Transformation",
+          "description": "Proven ability to dig deep and transform raw data into actionable recommendations that result in peak performance",
+          "inDefinedTermSet": "Technical Leadership"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "continuous-delivery",
+          "name": "Continuous Delivery",
+          "description": "Expertise in managing applications in continuous delivery mode with real-time monitoring",
+          "inDefinedTermSet": "Technical Leadership"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "geospatial-modelling",
+          "name": "Geospatial Modelling",
+          "description": "Expertise in creating and working with geospatial models",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "network-routing",
+          "name": "Network Routing",
+          "description": "Advanced routing and network analysis capabilities",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "remote-sensing",
+          "name": "Remote Sensing",
+          "description": "Experience with remote sensing data and analysis",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "drone-technology",
+          "name": "Drone Technology",
+          "description": "Aerial drone deployment and data collection",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "3d-graphics",
+          "name": "3D Computer Graphics",
+          "description": "3D visualization and graphics capabilities",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "machine-learning",
+          "name": "Machine Learning",
+          "description": "Application of machine learning techniques in geospatial context",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "video-management",
+          "name": "Video Management Systems",
+          "description": "Video monitoring and management system development",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "real-time-dashboards",
+          "name": "Real-Time Dashboards",
+          "description": "Development of real-time monitoring and visualization dashboards",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "gps-tracking",
+          "name": "GPS Tracking",
+          "description": "GPS tracking and location-based services",
+          "inDefinedTermSet": "Technical Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "route-optimization",
+          "name": "Route Optimization",
+          "description": "Advanced route optimization algorithms and implementations",
+          "inDefinedTermSet": "Technical Expertise"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryCode",
+      "@id": "#domain-expertise",
+      "name": "Domain Expertise",
+      "description": "Specialized knowledge in specific industry domains",
+      "hasPart": [
+        {
+          "@type": "DefinedTerm",
+          "termCode": "urban-planning",
+          "name": "Urban Planning",
+          "description": "Deep understanding of urban and regional planning principles applied through GIS technology",
+          "inDefinedTermSet": "Domain Expertise"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "location-intelligence",
+          "name": "Location Intelligence",
+          "description": "Location-based intelligence and analytics",
+          "inDefinedTermSet": "Domain Expertise"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryCode",
+      "@id": "#soft-skills",
+      "name": "Soft Skills & Interpersonal Competencies",
+      "description": "Key interpersonal and professional qualities that define leadership and collaboration style",
+      "hasPart": [
+        {
+          "@type": "DefinedTerm",
+          "termCode": "adaptability",
+          "name": "Adaptability",
+          "description": "Highly adaptable professional capable of adjusting to diverse project requirements and client needs",
+          "inDefinedTermSet": "Personal Attributes"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "hands-on-leadership",
+          "name": "Hands-On Leadership",
+          "description": "Hands-on in approach, directly engaging with team members and technical challenges to provide meaningful support",
+          "inDefinedTermSet": "Leadership Style"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "trust-building",
+          "name": "Trust Building",
+          "description": "Leadership strategy builds trust through consistent delivery and transparent communication",
+          "inDefinedTermSet": "Leadership Style"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "rapport-establishment",
+          "name": "Rapport Establishment",
+          "description": "Establishes rapport with clients, colleagues, and team members through professional engagement",
+          "inDefinedTermSet": "Interpersonal Skills"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "respect-earning",
+          "name": "Respect Earning",
+          "description": "Earns respect from those under leadership through competence and supportive management",
+          "inDefinedTermSet": "Leadership Style"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "mentorship-support",
+          "name": "Mentorship and Support",
+          "description": "Provides administrative, technical, operational, and logistical support to ensure team members have necessary means to perform their duties",
+          "inDefinedTermSet": "Team Development"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "going-above-beyond",
+          "name": "Going Above and Beyond",
+          "description": "Consistently goes above and beyond to help team members get the most out of provided support",
+          "inDefinedTermSet": "Work Ethic"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "client-consultation",
+          "name": "Client Consultation",
+          "description": "Expert in consulting with clients to understand requirements and deliver tailored geospatial solutions",
+          "inDefinedTermSet": "Client Relations"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "performance-advisory",
+          "name": "Performance Advisory",
+          "description": "Advises colleagues on performance optimization and best practices",
+          "inDefinedTermSet": "Team Development"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "excellence-orientation",
+          "name": "Excellence Orientation",
+          "description": "Strives to be the best at any undertaking, consistently pursuing excellence",
+          "inDefinedTermSet": "Work Ethic"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "knowledge-sharing",
+          "name": "Knowledge Sharing",
+          "description": "Prepared to share knowledge as an asset, actively contributing to organizational growth",
+          "inDefinedTermSet": "Team Development"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "professional-demeanor",
+          "name": "Professional Demeanor",
+          "description": "Highly professional in all interactions, maintaining standards in diverse environments",
+          "inDefinedTermSet": "Personal Attributes"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "multilingual-communication",
+          "name": "Multilingual Communication",
+          "description": "Fluent in Italian and English, enabling effective international collaboration",
+          "inDefinedTermSet": "Professional Skills"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryCode",
+      "@id": "#leadership-competencies",
+      "name": "Leadership & Management Competencies",
+      "description": "Leadership characteristics and management capabilities",
+      "hasPart": [
+        {
+          "@type": "DefinedTerm",
+          "termCode": "complex-problem-solving",
+          "name": "Complex Problem-Solving",
+          "description": "Proven ability to analyze complex technical challenges and develop innovative solutions",
+          "inDefinedTermSet": "Leadership Excellence"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "technical-issue-resolution",
+          "name": "Technical Issue Resolution",
+          "description": "Adept at identifying, troubleshooting, and resolving technical issues efficiently",
+          "inDefinedTermSet": "Leadership Excellence"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "operational-framework",
+          "name": "Operational Framework Development",
+          "description": "Builds effective operational frameworks that enhance team performance and project delivery",
+          "inDefinedTermSet": "Management Excellence"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "team-direction",
+          "name": "Team Direction",
+          "description": "Directs teams toward shared visions and goals through clear communication and leadership",
+          "inDefinedTermSet": "Leadership Excellence"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "analytical-excellence",
+          "name": "Analytical Excellence",
+          "description": "Equipped with excellent analytical aptitude for data-driven decision making",
+          "inDefinedTermSet": "Core Competency"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "project-coordination",
+          "name": "Project Coordination",
+          "description": "Extremely organized in managing high-profile projects and coordinating complex workflow and logistics",
+          "inDefinedTermSet": "Management Excellence"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "client-facing-excellence",
+          "name": "Client-Facing Excellence",
+          "description": "Effectively balances competing priorities in fast-paced, client-facing environments",
+          "inDefinedTermSet": "Professional Skills"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "innovation-leadership",
+          "name": "Innovation Leadership",
+          "description": "Innovative leader who continuously explores new technologies and methodologies",
+          "inDefinedTermSet": "Leadership Excellence"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "operational-focus",
+          "name": "Operational Focus",
+          "description": "Strong emphasis on operational efficiency, workflow optimization, and practical implementation",
+          "inDefinedTermSet": "Management Excellence"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "performance-excellence",
+          "name": "Performance Excellence",
+          "description": "Consistently receives excellent performance reviews and strives to be the best at any undertaking",
+          "inDefinedTermSet": "Core Competency"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryCode",
+      "@id": "#knowledge-transfer",
+      "name": "Knowledge Transfer & Training",
+      "description": "Teaching, training, and knowledge-sharing capabilities",
+      "hasPart": [
+        {
+          "@type": "DefinedTerm",
+          "termCode": "teacher-training",
+          "name": "Teacher Training Courses",
+          "description": "Experienced in developing and delivering training programs, particularly in QGIS and PostGIS fundamentals",
+          "inDefinedTermSet": "Knowledge Transfer"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "video-training",
+          "name": "Video Training Production",
+          "description": "Production of video-based training materials and tutorials",
+          "inDefinedTermSet": "Knowledge Transfer"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryCode",
+      "@id": "#professional-methodologies",
+      "name": "Professional Methodologies",
+      "description": "Development methodologies and professional practices",
+      "hasPart": [
+        {
+          "@type": "DefinedTerm",
+          "termCode": "agile-methodology",
+          "name": "Agile Methodology",
+          "description": "Experience with agile development practices",
+          "inDefinedTermSet": "Professional Practices"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "quality-assurance",
+          "name": "Quality Assurance",
+          "description": "Quality assurance practices and testing",
+          "inDefinedTermSet": "Professional Practices"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "seo",
+          "name": "SEO",
+          "description": "Search engine optimization for web applications",
+          "inDefinedTermSet": "Professional Practices"
+        },
+        {
+          "@type": "DefinedTerm",
+          "termCode": "social-media",
+          "name": "Social Media Integration",
+          "description": "Integration of social media features and platforms",
+          "inDefinedTermSet": "Professional Practices"
+        }
+      ]
+    },
+    {
+      "@type": "CategoryCode",
+      "@id": "#formal-certifications",
+      "name": "Formal Certifications & Credentials",
+      "description": "Official certifications and professional qualifications",
+      "hasPart": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "Examiner Qualification ECDL GIS",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "AICA - Uniroma1 LABSITA"
+          },
+          "dateCreated": "2014-09",
+          "description": "GEOGRAPHIC INFORMATION SYSTEM"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "professional certification",
+          "name": "Qualified Urban Planner SN 17236",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Italian Professional Urban Planners Association"
+          },
+          "dateCreated": "2007-01",
+          "description": "European Qualifications Framework Level 7 - Professional Urban Planner certification",
+          "url": "https://ordinearchitetti.mi.it/it/ordine/albo/scheda/-99993794-piergiorgio-roveda"
+        }
+      ]
+    }
+  ],
+  "additionalType": "ProfessionalCompetencyFramework",
+  "about": {
+    "@type": "Person",
+    "name": "Piergiorgio Roveda",
+    "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis"
+  }
+}

@@ -3,27 +3,25 @@
   "@type": "ItemList",
   "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performerIn",
   "name": "Work Experience and Professional Roles",
-  "description": "Detailed work experience with specific projects, deliverables, and technical implementations. For achievement summaries, see workHistory.",
+  "description": "Detailed work experience with specific role responsibilities and achievements. For project details, see schema-projects.jsonld. For employment timeline summary, see workHistory.",
+  "dateModified": "2025-11-08",
   "itemListElement": [
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-studiosit-2022",
       "roleName": "GIS Developer",
       "startDate": "2022-01",
       "endDate": "2024-12",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit",
-        "name": "StudioSit SA",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Lugano",
-            "addressCountry": "CH"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiosit"
       },
-      "description": "Vehicle/Bicycle Video Monitoring System: Developed a comprehensive system for capturing and analyzing street-level data using video monitoring from bicycles and cars. Extensive Coverage: Captured video footage covering approximately 70,000 kilometers of streets using bicycles and dashcams mounted on cars with active GPS tracking integrated into each recording session. Customized the GEODASHBOARD platform to align with the unique needs of StudioSit SA, including tailored features for toponymy, real-estate, and lidar data management.",
+      "description": "Customized the GEODASHBOARD platform to align with the unique needs of StudioSit SA, including tailored features for toponymy, real-estate, and lidar data management. Developed comprehensive vehicle/bicycle video monitoring system capturing approximately 70,000 kilometers of streets.",
+      "performerIn": [
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-video-monitoring-studiosit"},
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodms-studiosit"},
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-municipality-studiosit"},
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-studiosit"}
+      ],
       "namedPosition": [
         "Developed municipality-specific routing projects to optimize routes covering all streets with minimal travel time",
         "Built web application for data navigation through collected video data points with note and error management",
@@ -37,22 +35,17 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-atmosoar-2024",
       "roleName": "GIS Developer",
       "startDate": "2024-01",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-atmosoar",
-        "name": "Atmosoar",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-atmosoar"
       },
       "description": "Customized the GEODASHBOARD platform for drone route-planning, integrating weather data and insurance-compliant mission management for safe and efficient drone operations.",
+      "performerIn": [
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-atmosoar"},
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-weather-atmosoar"}
+      ],
       "namedPosition": [
         "Developed drone route-planning platform",
         "Integrated real-time weather data analysis",
@@ -61,22 +54,16 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-eap-2023",
       "roleName": "GIS Developer",
       "startDate": "2023-01",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-eap",
-        "name": "EAP Financial Services",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Johannesburg",
-            "addressCountry": "ZA"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-eap"
       },
       "description": "Customized the GEODASHBOARD platform for agents area management, enabling efficient territory management and field operations optimization for financial services.",
+      "performerIn": [
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-eap"}
+      ],
       "namedPosition": [
         "Developed agents area management system",
         "Implemented territory optimization tools",
@@ -85,23 +72,20 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-geomarketing-2015",
       "roleName": "GIS Developer",
       "startDate": "2015-01",
       "endDate": "2023-12",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
-        "name": "Geomarketing Srl",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing"
       },
       "description": "Manages the flows of applications in continuous delivery mode, monitors the software operation, and logs the activity of a more than 1K users. Creates, acquires, edits, and manages geospatial data to support a variety of project and client needs. Supports the development of online GIS applications to meet client needs and enhance design storytelling. Coordinates the development/administration of GIS projects, including the development of technical priorities, client reporting, and interfaces. Provides technical expertise in GIS technology to users. Designs, programs, or models GIS applications or procedures. Tests the innovations introduced by various software libraries and proposes innovation in applications. Performs programming, data analysis, or software development for GIS applications, including the maintenance of existing systems or research/development for future enhancements.",
+      "performerIn": [
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard-geomarketing"},
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-retail-geomarketing"},
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-mapinfo-geomarketing"},
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodms-geomarketing"}
+      ],
       "namedPosition": [
         "Developed a WebGIS platform for geomarketing solution in continuous delivery mode, based on WordPress, with JavaScript library, including LeafletJS, with data in Postgres/PostGIS database, modify and get tiles through Geoserver",
         "Developed a simplified, yet logical structure to update a client's maps regarding travel time between two points by identifying similar differences around attractive cities as well as the difference between different attractive cities, which highlighted the consistency with the results of Google Maps for the entire national territory and could be updated by downloading the latest data",
@@ -112,44 +96,47 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-freelancer-2012",
       "roleName": "GIS Consultant / Freelancer",
       "startDate": "2012-01",
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-freelancer"
+      },
       "location": [
         {
           "@type": "Place",
           "address": {
             "@type": "PostalAddress",
-            "addressCountry": "CH",
-            "name": "Switzerland"
-          }
-        },
-        {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IL",
-            "name": "Israel"
-          }
-        },
-        {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "PT",
-            "name": "Portugal"
-          }
-        },
-        {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
             "addressCountry": "IT",
-            "name": "Italy"
+            "addressLocality": "Milan"
+          }
+        },
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CH"
+          }
+        },
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IL"
+          }
+        },
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PT"
           }
         }
       ],
-      "description": "Acts as a webmaster and customizes web application development and training courses, including the basic fundamentals of GIS using QGIS and Postgres/PostGIS. Manages digital mapping data and performs analyses to answer geographical questions by making maps deduced from analytical data for clients. Meets the needs of clients by collaborating with them and colleagues to meet project deadlines and accomplish goals. Specializes in bringing websites to the Google Search front page based on the most searched keywords in relation to the subject of various sites. Employs web maps and SEO with the development of techniques for integrating content, primarily from OpenStreetMap as well as from social networks and Wikipedia. Full-time developer of the GEODASHBOARD project, a versatile geospatial platform for data management, analysis, and visualization, empowering users to make informed decisions through dynamic maps and insights.",
+      "description": "Acts as a webmaster and customizes web application development and training courses, including the basic fundamentals of GIS using QGIS and Postgres/PostGIS. Manages digital mapping data and performs analyses to answer geographical questions by making maps deduced from analytical data for clients. Meets the needs of clients by collaborating with them and colleagues to meet project deadlines and accomplish goals. Specializes in bringing websites to the Google Search front page based on the most searched keywords in relation to the subject of various sites. Employs web maps and SEO with the development of techniques for integrating content, primarily from OpenStreetMap as well as from social networks and Wikipedia. Full-time developer of the GEODASHBOARD project.",
+      "performerIn": [
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-geodashboard"}
+      ],
       "namedPosition": [
         "Created scripts with VB Script to automate data extraction functions from GIS; created templates in Excel to add formulas and graphs associated with the data loaded by the GIS automatically, which saved numerous hours of routine data extraction and import",
         "Employed MS Access databases with Arcgis software, created forms for viewing and editing data, and developed building census reporting, the knowledge of which was essential for the execution of the work as the job was too complex to handle with GIS software alone",
@@ -158,23 +145,17 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-monferrato-2014",
       "roleName": "WebGIS Developer",
       "startDate": "2014-07",
       "endDate": "2014-10",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato",
-        "name": "Monferrato Paesaggi",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Monferrato",
-            "addressCountry": "IT"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato"
       },
       "description": "Designed and executed applications used to support GIS data. Developed and maintained enterprise web services that supported mobile solutions and robust internet applications. Developed, implemented, and managed integrated GIS solutions software. Developed web mapping applications and geo-processing tools to support GIS. Analyzed customer issues and provided resolutions. Made presentations and demonstrations so that customers clearly understood the GIS application. Designed, coded, and integrated applications with database management systems. Proposed development initiatives to increase programming efficiency. Work effectively in a team to develop high quality GIS solutions.",
+      "performerIn": [
+        {"@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#project-webgis-monferrato"}
+      ],
       "namedPosition": [
         "Built the Monferrato landscapes web portal, in addition to the development in PHP language and access to the geographic database",
         "Indexed the website's content on Google Search and reached maximum integration with social networks, Twitter, Facebook, and Instagram"
@@ -182,21 +163,12 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-logosloci-2012",
       "roleName": "Urban Planner and Remote Sensing with Drones",
       "startDate": "2012-01",
       "endDate": "2014-12",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-logosloci",
-        "name": "Logos Loci",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Como",
-            "addressCountry": "IT"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-logosloci"
       },
       "description": "Developed comprehensive plans and programs for use of land and physical facilities of jurisdictions, including towns, cities, counties, and metropolitan areas. Designed, promoted, or administered government plans or policies affecting land use, zoning, public utilities, community facilities, housing, or transportation. Conducted field investigations, surveys, impact studies, or other research to compile and analyze data on economic, social, regulatory, or physical factors affecting land use. Identified opportunities or developed plans for sustainability projects or programs to improve energy efficiency, minimize pollution or waste, or restore natural systems. Created, prepared, or requisitioned graphic or narrative reports on land use data, including land area maps overlaid with geographic variables such as population density.",
       "namedPosition": [
@@ -205,21 +177,12 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-vigerlab-2007",
       "roleName": "Urban Planner",
       "startDate": "2007-01",
       "endDate": "2012-12",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-vigerlab",
-        "name": "VigerLAB",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Como",
-            "addressCountry": "IT"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-vigerlab"
       },
       "description": "Created maps and reports for land use and environment planning for public administration, including environmental, landscape, and territorial analyses of the Pedemontana Lombarda motorway. Advised planning officials on project feasibility, cost-effectiveness, regulatory conformance, or possible alternatives. Discussed with planning officials the purpose of land use projects, including transportation, conservation, residential, commercial, industrial, or community use. Researched impacts of environmental conservation initiatives. Supervised and/or coordinated the work of urban planning technicians.",
       "namedPosition": [
@@ -229,16 +192,12 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-vba-2007",
       "roleName": "VBA Developer",
       "startDate": "2007-01",
       "endDate": "2007-03",
-      "location": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-freelancer"
       },
       "description": "Built VB prototypes and small scale applications, along with VBA scripts, in to automate Excel spreadsheets. Employed development best practices and appropriate patterns to develop required software solutions. Formulated and defined system scope and objectives based on the individual needs of the individual user. Developed, maintained, and supported existing MS Excel VBA applications; analyzed and converted business requirements as needed. Created and maintained technical documentation, including user guides.",
       "namedPosition": [
@@ -247,21 +206,12 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-studiofranzosi-2004",
       "roleName": "GIS Analyst",
       "startDate": "2004-01",
       "endDate": "2007-12",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiofranzosi",
-        "name": "Studio Franzosi",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiofranzosi"
       },
       "description": "Analyzed geographical data working collaboratively with other staff members and communicating GIS concepts to non-GIS users. Gathered, analyzed, and stored geospatial data, according to the clients' requirements. Employed the proper devices and software tools to analyze geographical objects under observation. Extracted relevant information from the gathered geospatial data and applied analytical methods to solve problems. Divided the collected geospatial data into various data sets to suit the needs of various clients.",
       "namedPosition": [
@@ -271,19 +221,10 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performer-euroimpresa",
       "roleName": "Data Entry & Detector",
       "worksFor": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-euroimpresa",
-        "name": "Euroimpresa",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-euroimpresa"
       }
     }
   ]

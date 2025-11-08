@@ -24,7 +24,7 @@
     "addressLocality": "Milan",
     "addressCountry": "IT"
   },
-  "careerStart": "2004-01-01",
+  "careerStart": "2004-01",
   "totalExperienceMonths": 252,
   "availableFrom": "2024-07-15",
   "workStatus": "Freelancer",
@@ -48,46 +48,11 @@
       }
     }
   ],
-  "knowsAbout": [
-    "GIS Development",
-    "WebGIS Development",
-    "GeoDatabase Management",
-    "Geographic Data Analysis",
-    "Urban Planning",
-    "Teacher Training Courses",
-    "Operational Focus",
-    "Complex Problem-Solving",
-    "Map Analysis Processing",
-    "Project Coordination",
-    "Leadership",
-    "Technical Issue Resolution",
-    "Operational Framework Development",
-    "Team Direction",
-    "Data Transformation",
-    "Map Analysis",
-    "Geospatial Modelling",
-    "Data Processing",
-    "Network Routing",
-    "Location Intelligence",
-    "Remote Sensing",
-    "Drone Technology",
-    "3D Computer Graphics",
-    "Machine Learning",
-    "Video Management Systems",
-    "Real-Time Dashboards",
-    "GPS Tracking",
-    "Route Optimization",
-    "Agile Methodology",
-    "Continuous Delivery",
-    "SEO",
-    "Social Media Integration",
-    "Quality Assurance",
-    "Aerial Drone Deployment",
-    "Video Training Production",
-    "Technical Acumen"
-  ],
+  "knowsAbout": {
+    "@id": "resume-piergiorgio-roveda/schema-competencies.jsonld"
+  },
   "hasCredential": {
-    "@id": "resume-piergiorgio-roveda/schema-hasCredential.jsonld"
+    "@id": "resume-piergiorgio-roveda/schema-competencies.jsonld"
   },
   "alumniOf": {
     "@id": "resume-piergiorgio-roveda/schema-alumniOf.jsonld"
@@ -118,21 +83,12 @@
   "workExample": {
     "@id": "resume-piergiorgio-roveda/schema-workExample.jsonld"
   },
-  "worksFor": [
-    {
-      "@type": "Organization",
-      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
-      "name": "Geomarketing Srl",
-      "location": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Milan",
-          "addressCountry": "IT"
-        }
-      }
-    }
-  ],
+  "worksFor": {
+    "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing"
+  },
+  "organizations": {
+    "@id": "resume-piergiorgio-roveda/schema-organizations.jsonld"
+  },
   "workHistory": {
     "@id": "resume-piergiorgio-roveda/schema-workHistory.jsonld"
   },
@@ -151,11 +107,9 @@
   "award": {
     "@id": "resume-piergiorgio-roveda/schema-accomplishments.jsonld"
   },
-  "hasDefinedTerm": {
-    "@id": "resume-piergiorgio-roveda/schema-leadershipTraits.jsonld"
-  },
-  "softSkill": {
-    "@id": "resume-piergiorgio-roveda/schema-softSkills.jsonld"
+  "competencies": {
+    "@id": "resume-piergiorgio-roveda/schema-competencies.jsonld",
+    "description": "Consolidated framework for all professional competencies including technical skills, soft skills, leadership traits, and credentials"
   },
   "serviceCapability": {
     "@id": "resume-piergiorgio-roveda/schema-supportCapabilities.jsonld"

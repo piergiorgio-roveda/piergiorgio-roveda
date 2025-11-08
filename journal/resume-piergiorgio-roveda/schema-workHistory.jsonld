@@ -4,24 +4,17 @@
   "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#workHistory",
   "name": "Work History and Employment Experience",
   "description": "Condensed professional employment history highlighting key roles, responsibilities, and major achievements. For detailed project work and deliverables, see performerIn.",
+  "dateModified": "2025-11-08",
   "itemListElement": [
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#role-gis-developer-geomarketing-2015",
       "roleName": "GIS Developer",
-      "startDate": "2015-01-01",
+      "startDate": "2015-01",
+      "endDate": "2023-12",
       "description": "Manages the flows of applications in continuous delivery mode, monitors the software operation, and logs the activity of more than 1,000 users.",
-      "organization": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing",
-        "name": "Geomarketing Srl",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-geomarketing"
       },
       "responsibilities": [
         "Manages the flows of applications in continuous delivery mode",
@@ -43,20 +36,12 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#role-gis-consultant-freelancer-2012",
       "roleName": "GIS Consultant",
-      "startDate": "2012-01-01",
+      "startDate": "2012-01",
       "description": "Acts as a webmaster and customizes web application development and training courses, including the basic fundamentals of GIS using QGIS and Postgres/PostGIS.",
-      "organization": {
-        "@type": "Organization",
-        "name": "Freelancer",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-freelancer"
       },
       "responsibilities": [
         "Acts as webmaster and customizes web application development",
@@ -79,22 +64,13 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#role-webgis-developer-monferrato-2014",
       "roleName": "WebGIS Developer",
-      "startDate": "2014-07-01",
-      "endDate": "2014-10-31",
+      "startDate": "2014-07",
+      "endDate": "2014-10",
       "description": "Designed and executed applications used to support GIS data.",
-      "organization": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato",
-        "name": "Monferrato Paesaggi",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Monferrato",
-            "addressCountry": "IT"
-          }
-        }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-monferrato"
       },
       "responsibilities": [
         "Designed and executed applications to support GIS data",
@@ -111,22 +87,13 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#role-urban-planner-logosloci-2012",
       "roleName": "Urban Planner and Remote Sensing with Drones",
-      "startDate": "2012-01-01",
-      "endDate": "2014-12-31",
+      "startDate": "2012-01",
+      "endDate": "2014-12",
       "description": "Developed comprehensive plans and programs for use of land and physical facilities of jurisdictions, including towns, cities, counties, and metropolitan areas.",
-      "organization": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-logosloci",
-        "name": "Logos Loci",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-logosloci"
       },
       "responsibilities": [
         "Developed comprehensive plans and programs for land use and physical facilities",
@@ -144,22 +111,13 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#role-urban-planner-vigerlab-2007",
       "roleName": "Urban Planner",
-      "startDate": "2007-01-01",
-      "endDate": "2012-12-31",
+      "startDate": "2007-01",
+      "endDate": "2012-12",
       "description": "Created maps and reports for land use and environment planning for public administration, including environmental, landscape, and territorial analyses of the Pedemontana Lombarda motorway.",
-      "organization": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-vigerlab",
-        "name": "VigerLAB",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-vigerlab"
       },
       "responsibilities": [
         "Created maps and reports for land use and environment planning for public administration",
@@ -177,21 +135,13 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#role-vba-developer-freelancer-2007",
       "roleName": "VBA Developer",
-      "startDate": "2007-01-01",
-      "endDate": "2007-03-31",
+      "startDate": "2007-01",
+      "endDate": "2007-03",
       "description": "Built VB prototypes and small scale applications, along with VBA scripts, to automate Excel spreadsheets.",
-      "organization": {
-        "@type": "Organization",
-        "name": "Freelancer",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-freelancer"
       },
       "responsibilities": [
         "Built VB prototypes and small scale applications",
@@ -208,22 +158,13 @@
     },
     {
       "@type": "OrganizationRole",
+      "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#role-gis-analyst-studiofranzosi-2004",
       "roleName": "GIS Analyst",
-      "startDate": "2004-01-01",
-      "endDate": "2007-12-31",
+      "startDate": "2004-01",
+      "endDate": "2007-12",
       "description": "Analyzed geographical data working collaboratively with other staff members and communicating GIS concepts to non-GIS users.",
-      "organization": {
-        "@type": "Organization",
-        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiofranzosi",
-        "name": "Studio Franzosi",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Milan",
-            "addressCountry": "IT"
-          }
-        }
+      "worksFor": {
+        "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#org-studiofranzosi"
       },
       "responsibilities": [
         "Analyzed geographical data collaboratively with staff members",
