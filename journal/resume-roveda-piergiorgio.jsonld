@@ -11,7 +11,7 @@
     "name": "Italy"
   },
   "jobTitle": "GIS Developer & Urban Planner (17+ Years)",
-  "description": "Highly adaptable and professional GIS Developer with 17+ years of experience in GIS and web development, active in Open Source communities and online QGIS tutorials. Full-time developer of the GEODASHBOARD project, a versatile geospatial platform empowering users to make informed decisions through dynamic maps and insights. Proven ability to leverage geospatial data for rural development initiatives and urban planning. Expert in consulting with clients, creating geospatial data, automating data extraction functions, and advising colleagues on performance. Provides hands-on administrative, technical, operational, and logistical support to teams, ensuring they have the necessary means to perform their duties. Leadership strategy builds trust, establishes rapport, and earns respect. Skilled in indicator creation, thematic analysis, policy scenario definition using GEODMS/GIS tools, data integration, modeling validation, and knowledge dissemination. Strong analytical, communication, and team leadership skills. Consistently receives positive performance feedback and aims for excellence in all endeavors.",
+  "description": "A leader and GIS expert with more than 17 years of industry experience working as a GIS and web developer as well as being an active contributor on YouTube online QGIS tutorials channel and Open Source community projects. Extremely organized in managing high-profile projects and coordinating complex workflow and logistics, especially in freelance work. Effectively balances competing priorities in fast-paced, client-facing environments. Innovative leader adept at resolving technical issues, troubleshooting problems, building effective operational frameworks, and directing teams to achieve shared visions and goals. Equipped with excellent analytical, problem-solving, and leadership aptitude. Proven ability to dig deep and transform data into actionable recommendations that result in peak performance. Full-time developer of the GEODASHBOARD project, a versatile geospatial platform empowering users to make informed decisions through dynamic maps and insights. Expert in consulting with clients, creating geospatial data, automating data extraction functions, and advising colleagues on performance. Provides hands-on administrative, technical, operational, and logistical support to teams, ensuring they have the necessary means to perform their duties.",
   "email": "piergiorgio.roveda@cityplanner.biz",
   "telephone": "+39 348 7448152",
   "url": "https://www.linkedin.com/in/piergiorgioroveda-gis",
@@ -23,8 +23,8 @@
     "addressLocality": "Milan",
     "addressCountry": "IT"
   },
-  "careerStart": "2007-01",
-  "totalExperienceMonths": 209,
+  "careerStart": "2004-01",
+  "totalExperienceMonths": 252,
   "availableFrom": "2024-07-15",
   "workStatus": "Freelancer",
   "knowsLanguage": [
@@ -53,6 +53,16 @@
     "GeoDatabase Management",
     "Geographic Data Analysis",
     "Urban Planning",
+    "Teacher Training Courses",
+    "Operational Focus",
+    "Complex Problem-Solving",
+    "Map Analysis Processing",
+    "Project Coordination",
+    "Leadership",
+    "Technical Issue Resolution",
+    "Operational Framework Development",
+    "Team Direction",
+    "Data Transformation",
     "JavaScript",
     "LeafletJS",
     "MapBox",
@@ -69,10 +79,6 @@
     "Map Analysis",
     "Geospatial Modelling",
     "Data Processing",
-    "Complex Problem-Solving",
-    "Operational Focus",
-    "Teacher Training",
-    "Project Coordination",
     "Python",
     "Geopandas",
     "Angular",
@@ -99,7 +105,16 @@
     "MS Excel",
     "Remote Sensing",
     "Drone Technology",
-    "3D Computer Graphics"
+    "3D Computer Graphics",
+    "Machine Learning",
+    "Video Management Systems",
+    "Real-Time Dashboards",
+    "GPS Tracking",
+    "Route Optimization",
+    "Agile Methodology",
+    "Continuous Delivery",
+    "SEO",
+    "Social Media Integration"
   ],
   "hasCredential": {
     "@id": "resume-piergiorgio-roveda/schema-hasCredential.jsonld"
@@ -155,5 +170,11 @@
   },
   "subjectOf": {
     "@id": "resume-piergiorgio-roveda/schema-narrative.jsonld"
+  },
+  "award": {
+    "@id": "resume-piergiorgio-roveda/schema-accomplishments.jsonld"
+  },
+  "hasDefinedTerm": {
+    "@id": "resume-piergiorgio-roveda/schema-leadershipTraits.jsonld"
   }
 }

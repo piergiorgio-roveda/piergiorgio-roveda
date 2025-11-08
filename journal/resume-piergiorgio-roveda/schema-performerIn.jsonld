@@ -9,6 +9,7 @@
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
       "startDate": "2022",
+      "endDate": "2024",
       "worksFor": {
         "@type": "Organization",
         "name": "StudioSit SA",
@@ -21,8 +22,13 @@
           }
         }
       },
-      "description": "Customized the GEODASHBOARD platform to align with the unique needs of StudioSit SA, including tailored features for toponymy, real-estate, and lidar data management, with custom data integration and user interface enhancements.",
+      "description": "Vehicle/Bicycle Video Monitoring System: Developed a comprehensive system for capturing and analyzing street-level data using video monitoring from bicycles and cars. Extensive Coverage: Captured video footage covering approximately 70,000 kilometers of streets using bicycles and dashcams mounted on cars with active GPS tracking integrated into each recording session. Customized the GEODASHBOARD platform to align with the unique needs of StudioSit SA, including tailored features for toponymy, real-estate, and lidar data management.",
       "namedPosition": [
+        "Developed municipality-specific routing projects to optimize routes covering all streets with minimal travel time",
+        "Built web application for data navigation through collected video data points with note and error management",
+        "Created real-time dashboard for data analysis and project supervision with video management system",
+        "Implemented machine learning framework to automatically extract street element information (e.g., traffic signals) from video data using GPS for precise location tagging",
+        "Extracted key video frames with embedded GPS data to create comprehensive record of street conditions",
         "Implemented custom toponymy management system",
         "Developed real-estate data visualization modules",
         "Integrated lidar data processing capabilities"
@@ -78,7 +84,7 @@
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
       "startDate": "2015",
-      "endDate": "2022",
+      "endDate": "2023",
       "worksFor": {
         "@type": "Organization",
         "name": "Geomarketing Srl",
@@ -91,12 +97,12 @@
           }
         }
       },
-      "description": "Experienced GIS Professional with a proven track record in GIS data management, advanced spatial analysis, and WebGIS development. Proficient in database management, successfully supported third-party clients across diverse sectors including logistics, real estate, and geomarketing, delivering data-driven solutions that drive operational excellence and informed decision-making. Manages continuous delivery GIS applications with over 1K users. Develops PL/SQL functions to automate database tasks.",
+      "description": "Manages the flows of applications in continuous delivery mode, monitors the software operation, and logs the activity of a more than 1K users. Creates, acquires, edits, and manages geospatial data to support a variety of project and client needs. Supports the development of online GIS applications to meet client needs and enhance design storytelling. Coordinates the development/administration of GIS projects, including the development of technical priorities, client reporting, and interfaces. Provides technical expertise in GIS technology to users. Designs, programs, or models GIS applications or procedures. Tests the innovations introduced by various software libraries and proposes innovation in applications. Performs programming, data analysis, or software development for GIS applications, including the maintenance of existing systems or research/development for future enhancements.",
       "namedPosition": [
-        "Developed a WebGIS geomarketing platform with WordPress, LeafletJS, and PostGIS",
-        "Created a map update structure for travel time analysis consistent with Google Maps data",
-        "Introduced Agile-inspired workflow to improve project quality",
-        "Reduced 30 days of database work to 10 using PL/SQL automation",
+        "Developed a WebGIS platform for geomarketing solution in continuous delivery mode, based on WordPress, with JavaScript library, including LeafletJS, with data in Postgres/PostGIS database, modify and get tiles through Geoserver",
+        "Developed a simplified, yet logical structure to update a client's maps regarding travel time between two points by identifying similar differences around attractive cities as well as the difference between different attractive cities, which highlighted the consistency with the results of Google Maps for the entire national territory and could be updated by downloading the latest data",
+        "Worked on a team with three newly-hired people using a method based on a scheme similar to the Agile method that revealed many inconsistencies, including the data used, which allowed the team to have a clearer vision of the project overall and significantly increased the quality of the delivered product",
+        "Employed the PL/SQL language in constructing a database of 4M records; developed some functions to automate database formatting and inserted variables and exceptions, which covered all needs and resulted in 30 days of scheduled work being completed in 10",
         "Developed 9 WebApps used by 500+ users across the Geomarketing team"
       ]
     },
@@ -128,13 +134,22 @@
             "addressCountry": "PT",
             "name": "Portugal"
           }
+        },
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Milan",
+            "addressCountry": "IT",
+            "name": "Italy"
+          }
         }
       ],
-      "description": "Full-time developer of the GEODASHBOARD project, a versatile geospatial platform for data management, analysis, and visualization, empowering users to make informed decisions through dynamic maps and insights. Provides consulting services, creates geospatial data, automates data extraction functions, and advises colleagues on performance. Customizes GIS web applications and provides QGIS and PostGIS training. Performs geospatial data analysis and client reporting.",
+      "description": "Acts as a webmaster and customizes web application development and training courses, including the basic fundamentals of GIS using QGIS and Postgres/PostGIS. Manages digital mapping data and performs analyses to answer geographical questions by making maps deduced from analytical data for clients. Meets the needs of clients by collaborating with them and colleagues to meet project deadlines and accomplish goals. Specializes in bringing websites to the Google Search front page based on the most searched keywords in relation to the subject of various sites. Employs web maps and SEO with the development of techniques for integrating content, primarily from OpenStreetMap as well as from social networks and Wikipedia. Full-time developer of the GEODASHBOARD project, a versatile geospatial platform for data management, analysis, and visualization, empowering users to make informed decisions through dynamic maps and insights.",
       "namedPosition": [
-        "Automated data extraction with VB Script and Excel templates",
-        "Developed MS Access forms integrated with ArcGIS for complex building census reporting",
-        "Created a QGIS community and tutorial platform saving clients €2.3K–€3.3K annually"
+        "Created scripts with VB Script to automate data extraction functions from GIS; created templates in Excel to add formulas and graphs associated with the data loaded by the GIS automatically, which saved numerous hours of routine data extraction and import",
+        "Employed MS Access databases with Arcgis software, created forms for viewing and editing data, and developed building census reporting, the knowledge of which was essential for the execution of the work as the job was too complex to handle with GIS software alone",
+        "Offered QGIS with zero licensing costs to clients as a viable alternative to applications requiring a substantial outlay for licensing; recorded video tutorials and created a community where customers could find solutions and features that were useful for their work, which saved customers, on average, from € 2.3K to € 3.3K"
       ]
     },
     {
@@ -154,10 +169,10 @@
           }
         }
       },
-      "description": "Developed and maintained enterprise web mapping solutions. Created geo-processing tools and web applications. Designed database integrations and presented GIS solutions to clients.",
+      "description": "Designed and executed applications used to support GIS data. Developed and maintained enterprise web services that supported mobile solutions and robust internet applications. Developed, implemented, and managed integrated GIS solutions software. Developed web mapping applications and geo-processing tools to support GIS. Analyzed customer issues and provided resolutions. Made presentations and demonstrations so that customers clearly understood the GIS application. Designed, coded, and integrated applications with database management systems. Proposed development initiatives to increase programming efficiency. Work effectively in a team to develop high quality GIS solutions.",
       "namedPosition": [
-        "Built the Monferrato landscapes web portal using PHP and GIS databases",
-        "Optimized SEO and social media integration across major platforms"
+        "Built the Monferrato landscapes web portal, in addition to the development in PHP language and access to the geographic database",
+        "Indexed the website's content on Google Search and reached maximum integration with social networks, Twitter, Facebook, and Instagram"
       ]
     },
     {
@@ -177,9 +192,9 @@
           }
         }
       },
-      "description": "Developed urban and regional land use plans. Conducted research on sustainability and land use efficiency. Produced reports and thematic maps for planning activities.",
+      "description": "Developed comprehensive plans and programs for use of land and physical facilities of jurisdictions, including towns, cities, counties, and metropolitan areas. Designed, promoted, or administered government plans or policies affecting land use, zoning, public utilities, community facilities, housing, or transportation. Conducted field investigations, surveys, impact studies, or other research to compile and analyze data on economic, social, regulatory, or physical factors affecting land use. Identified opportunities or developed plans for sustainability projects or programs to improve energy efficiency, minimize pollution or waste, or restore natural systems. Created, prepared, or requisitioned graphic or narrative reports on land use data, including land area maps overlaid with geographic variables such as population density.",
       "namedPosition": [
-        "Reconstructed remote sensing information using drones and OpenSource GIS"
+        "Reconstructed remote sensing information carried out using drone technology and OpenSource GIS software"
       ]
     },
     {
@@ -199,10 +214,10 @@
           }
         }
       },
-      "description": "Created maps and analyses for land use and environmental planning. Advised officials on project feasibility and compliance. Coordinated work of planning technicians.",
+      "description": "Created maps and reports for land use and environment planning for public administration, including environmental, landscape, and territorial analyses of the Pedemontana Lombarda motorway. Advised planning officials on project feasibility, cost-effectiveness, regulatory conformance, or possible alternatives. Discussed with planning officials the purpose of land use projects, including transportation, conservation, residential, commercial, industrial, or community use. Researched impacts of environmental conservation initiatives. Supervised and/or coordinated the work of urban planning technicians.",
       "namedPosition": [
-        "Developed CMS for managing 300 technical maps and documents",
-        "Built a GIS server database for desktop clients"
+        "Create an CMS application to manage the delivery up to 300 technical maps with related documents",
+        "Create a Database as server to give access to GIS Desktop clients"
       ]
     },
     {
@@ -218,9 +233,9 @@
             "addressCountry": "IT"
           }
       },
-      "description": "Built VB prototypes and VBA scripts to automate Excel workflows. Maintained MS Excel VBA applications and technical documentation.",
+      "description": "Built VB prototypes and small scale applications, along with VBA scripts, in to automate Excel spreadsheets. Employed development best practices and appropriate patterns to develop required software solutions. Formulated and defined system scope and objectives based on the individual needs of the individual user. Developed, maintained, and supported existing MS Excel VBA applications; analyzed and converted business requirements as needed. Created and maintained technical documentation, including user guides.",
       "namedPosition": [
-        "Created an Access app to manage drawings and activity timelines"
+        "Created an Access application for the management of drawings and the times of activities developed in a database format"
       ]
     },
     {
@@ -240,10 +255,10 @@
           }
         }
       },
-      "description": "Collected, analyzed, and stored geospatial data. Applied analytical methods to interpret geodata. Communicated GIS concepts to non-GIS professionals.",
+      "description": "Analyzed geographical data working collaboratively with other staff members and communicating GIS concepts to non-GIS users. Gathered, analyzed, and stored geospatial data, according to the clients' requirements. Employed the proper devices and software tools to analyze geographical objects under observation. Extracted relevant information from the gathered geospatial data and applied analytical methods to solve problems. Divided the collected geospatial data into various data sets to suit the needs of various clients.",
       "namedPosition": [
-        "Developed a decision support system for contaminated site remediation",
-        "Produced 3D computer graphics for territorial visualization"
+        "Developed a system for the decision support of data from soil analyses to carry out a remediation of a polluted site to build residential structures",
+        "Created a multimedia presentation of communication for administrative and private subjects with computer graphics processing in 3D for the representation of territory"
       ]
     },
     {
