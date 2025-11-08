@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#workExample",
+  "name": "Academic Works and Publications",
+  "description": "Academic works, theses, and publications by Piergiorgio Roveda",
+  "itemListElement": [
+    {
+      "@type": "CreativeWork",
+      "name": "Il territorio rurale produttore di valori per la costruzione di un sistema degli spazi aperti: Il caso della provincia di Mantova",
+      "datePublished": "2006",
+      "about": "Master's Thesis"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Il Parco delle Groane, interruttore funzionale di una rete ecologica",
+      "datePublished": "2003",
+      "about": "Bachelor's Thesis"
+    }
+  ]
+}

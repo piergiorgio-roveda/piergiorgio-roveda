@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis",
+  "name": "Piergiorgio Roveda",
+  "givenName": "Piergiorgio",
+  "familyName": "Roveda",
+  "birthDate": "1980-07-10",
+  "nationality": {
+    "@type": "Country",
+    "name": "Italy"
+  },
+  "jobTitle": "GIS Leader & Analyst (17+ Years)",
+  "description": "GIS expert and leader with 17+ years of experience in GIS and web development, active in Open Source communities and online QGIS tutorials. Proven ability to leverage geospatial data for rural development initiatives. Skilled in indicator creation, thematic analysis, and policy scenario definition using GEODMS/GIS tools. Experienced in data integration, modeling validation, and knowledge dissemination. Strong analytical, communication, and team leadership skills.",
+  "email": "piergiorgio.roveda@cityplanner.biz",
+  "telephone": "+39 348 7448152",
+  "url": "https://www.linkedin.com/in/piergiorgioroveda-gis",
+  "sameAs": [
+    "https://www.linkedin.com/in/piergiorgioroveda-gis"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Milan",
+    "addressCountry": "IT"
+  },
+  "careerStart": "2007-01",
+  "totalExperienceMonths": 209,
+  "availableFrom": "2024-07-15",
+  "workStatus": "Freelancer",
+  "knowsLanguage": [
+    {
+      "@type": "Language",
+      "name": "Italian",
+      "alternateName": "it",
+      "proficiencyLevel": {
+        "spoken": 5,
+        "written": 5
+      }
+    },
+    {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en",
+      "proficiencyLevel": {
+        "spoken": 3,
+        "written": 4
+      }
+    }
+  ],
+  "knowsAbout": [
+    "GIS Development",
+    "WebGIS Development",
+    "GeoDatabase Management",
+    "Geographic Data Analysis",
+    "Urban Planning",
+    "JavaScript",
+    "LeafletJS",
+    "MapBox",
+    "MapLibre",
+    "OpenLayers",
+    "PostgreSQL/PostGIS",
+    "pgRouting",
+    "Geoserver",
+    "PHP",
+    "WordPress",
+    "MySQL",
+    "Linux Ubuntu",
+    "Map Analysis",
+    "Geospatial Modelling",
+    "Data Processing",
+    "Complex Problem-Solving",
+    "Operational Focus",
+    "Teacher Training",
+    "Project Coordination",
+    "Python",
+    "Geopandas",
+    "Angular",
+    "React",
+    "Vue"
+  ],
+  "hasCredential": {
+    "@id": "resume-piergiorgio-roveda/schema-hasCredential.jsonld"
+  },
+  "alumniOf": {
+    "@id": "resume-piergiorgio-roveda/schema-alumniOf.jsonld"
+  },
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "GIS Developer",
+      "occupationalCategory": "15-1199.09"
+    },
+    {
+      "@type": "Occupation",
+      "name": "Urban Planner",
+      "occupationalCategory": "19-3051.00"
+    },
+    {
+      "@type": "Occupation",
+      "name": "WebGIS Developer",
+      "occupationalCategory": "15-1254.00"
+    }
+  ],
+  "makesOffer": {
+    "@id": "resume-piergiorgio-roveda/schema-makesOffer.jsonld"
+  },
+  "workExample": {
+    "@id": "resume-piergiorgio-roveda/schema-workExample.jsonld"
+  },
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Geomarketing Srl",
+      "location": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Milan",
+          "addressCountry": "IT"
+        }
+      }
+    }
+  ],
+  "hasOfferCatalog": {
+    "@id": "resume-piergiorgio-roveda/schema-hasOfferCatalog.jsonld"
+  },
+  "performerIn": {
+    "@id": "resume-piergiorgio-roveda/schema-performerIn.jsonld"
+  },
+  "education": {
+    "@id": "resume-piergiorgio-roveda/schema-education.jsonld"
+  }
+}

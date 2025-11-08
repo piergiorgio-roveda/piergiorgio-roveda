@@ -1,0 +1,177 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#performerIn",
+  "name": "Work Experience and Professional Roles",
+  "description": "Detailed work experience and professional roles of Piergiorgio Roveda",
+  "itemListElement": [
+    {
+      "@type": "OrganizationRole",
+      "roleName": "GIS Developer",
+      "startDate": "2015",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Geomarketing Srl",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Milan",
+            "addressCountry": "IT"
+          }
+        }
+      },
+      "description": "Manages continuous delivery GIS applications with over 1K users. Develops and maintains online GIS applications. Coordinates technical priorities, reporting, and client interfaces. Designs and tests GIS software innovations and processes. Develops PL/SQL functions to automate database tasks.",
+      "namedPosition": [
+        "Developed a WebGIS geomarketing platform with WordPress, LeafletJS, and PostGIS",
+        "Created a map update structure for travel time analysis consistent with Google Maps data",
+        "Introduced Agile-inspired workflow to improve project quality",
+        "Reduced 30 days of database work to 10 using PL/SQL automation"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "GIS Consultant / Freelancer",
+      "startDate": "2012",
+      "location": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Milan",
+          "addressCountry": "IT"
+        }
+      },
+      "description": "Customizes GIS web applications and provides QGIS and PostGIS training. Performs geospatial data analysis and client reporting. Optimizes websites for search engine visibility.",
+      "namedPosition": [
+        "Automated data extraction with VB Script and Excel templates",
+        "Developed MS Access forms integrated with ArcGIS for complex building census reporting",
+        "Created a QGIS community and tutorial platform saving clients €2.3K–€3.3K annually"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "WebGIS Developer",
+      "startDate": "2014-07",
+      "endDate": "2014-10",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Monferrato Paesaggi",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Turin",
+            "addressCountry": "IT"
+          }
+        }
+      },
+      "description": "Developed and maintained enterprise web mapping solutions. Created geo-processing tools and web applications. Designed database integrations and presented GIS solutions to clients.",
+      "namedPosition": [
+        "Built the Monferrato landscapes web portal using PHP and GIS databases",
+        "Optimized SEO and social media integration across major platforms"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Urban Planner and Remote Sensing with Drones",
+      "startDate": "2012",
+      "endDate": "2014",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Logos Loci",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Como",
+            "addressCountry": "IT"
+          }
+        }
+      },
+      "description": "Developed urban and regional land use plans. Conducted research on sustainability and land use efficiency. Produced reports and thematic maps for planning activities.",
+      "namedPosition": [
+        "Reconstructed remote sensing information using drones and OpenSource GIS"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Urban Planner",
+      "startDate": "2007",
+      "endDate": "2012",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "VigerLAB",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Como",
+            "addressCountry": "IT"
+          }
+        }
+      },
+      "description": "Created maps and analyses for land use and environmental planning. Advised officials on project feasibility and compliance. Coordinated work of planning technicians.",
+      "namedPosition": [
+        "Developed CMS for managing 300 technical maps and documents",
+        "Built a GIS server database for desktop clients"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "VBA Developer",
+      "startDate": "2007-01",
+      "endDate": "2007-03",
+      "location": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+            "addressLocality": "Milan",
+            "addressCountry": "IT"
+          }
+      },
+      "description": "Built VB prototypes and VBA scripts to automate Excel workflows. Maintained MS Excel VBA applications and technical documentation.",
+      "namedPosition": [
+        "Created an Access app to manage drawings and activity timelines"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "GIS Analyst",
+      "startDate": "2004",
+      "endDate": "2007",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Studio Franzosi",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Milan",
+            "addressCountry": "IT"
+          }
+        }
+      },
+      "description": "Collected, analyzed, and stored geospatial data. Applied analytical methods to interpret geodata. Communicated GIS concepts to non-GIS professionals.",
+      "namedPosition": [
+        "Developed a decision support system for contaminated site remediation",
+        "Produced 3D computer graphics for territorial visualization"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Data Entry & Detector",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Euroimpresa",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Milan",
+            "addressCountry": "IT"
+          }
+        }
+      }
+    }
+  ]
+}

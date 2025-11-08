@@ -1,0 +1,184 @@
+{
+  "personal_information": {
+    "name": "Piergiorgio Roveda",
+    "date_of_birth": "1980-07-10",
+    "nationality": "Italian",
+    "email": "piergiorgio.roveda@cityplanner.biz",
+    "company_name": "PIERGIORGIO ROVEDA",
+    "contract_type": "Freelancer",
+    "available_from": "2024-07-15"
+  },
+  "education": {
+    "highest_qualification": "Master of Science in Regional, Urban, and Environmental Planning",
+    "institution": "Politecnico di Milano",
+    "start_date": "2000-09",
+    "end_date": "2006-12",
+    "end_secondary_school": "2000-06",
+    "years_of_study_after_secondary": 6
+  },
+  "languages": {
+    "english": {
+      "spoken": 3,
+      "written": 4
+    },
+    "italian": {
+      "spoken": 5,
+      "written": 5
+    }
+  },
+  "career": {
+    "start_date": "2007-01",
+    "total_experience_months": 209,
+    "specific_expertise": {
+      "GIS Development": 84,
+      "GEODMS GeoDatabase Management": 144,
+      "Urban Planning": 60,
+      "Geographic Data Analysis": 209,
+      "Teacher Training Courses": 24,
+      "WebGIS Development": 180,
+      "Map Analysis Processing": 209,
+      "Complex Problem-Solving": 60
+    },
+    "skills": {
+      "backend": ["PHP", "Python", "Node.js"],
+      "frontend": ["JavaScript", "Angular", "React", "Vue", "HTML", "CSS"]
+    },
+    "certifications": [
+      {
+        "name": "Qualified Urban Planner",
+        "standard": "SN 17236",
+        "level": "European Level 10"
+      },
+      {
+        "name": "ECDL GIS",
+        "organizer": "AICA - Uniroma1 LABSITA",
+        "date": "2014-09",
+        "syllabus": "GEOGRAPHIC INFORMATION SYSTEM"
+      }
+    ]
+  },
+  "summary": {
+    "title": "GIS Leader & Analyst (17+ Years)",
+    "highlights": [
+      "Proven ability to leverage geospatial data for rural development initiatives.",
+      "Skilled in indicator creation, thematic analysis, and policy scenario definition using GEODMS/GIS tools.",
+      "Experienced in data integration, modeling validation, and knowledge dissemination.",
+      "Strong analytical, communication, and team leadership skills."
+    ]
+  },
+  "software_expertise": [
+    {"tool": "QGIS", "competence": 5, "duration_months": 120},
+    {"tool": "Postgres/PostGIS/pgRouting", "competence": 5, "duration_months": 84},
+    {"tool": "ESRI ArcGIS", "competence": 5, "duration_months": 96},
+    {"tool": "MapInfo", "competence": 5, "duration_months": 60},
+    {"tool": "MS Access/ESRI Geodatabase", "competence": 5, "duration_months": 84},
+    {"tool": "MS Excel", "competence": 5, "duration_months": 209},
+    {"tool": "PHP", "competence": 4, "duration_months": 120},
+    {"tool": "WordPress", "competence": 4, "duration_months": 96},
+    {"tool": "MySQL", "competence": 4, "duration_months": 48},
+    {"tool": "Geoserver", "competence": 5, "duration_months": 60},
+    {"tool": "VBA", "competence": 3, "duration_months": 36},
+    {"tool": "JavaScript", "competence": 4, "duration_months": 84},
+    {"tool": "Angular, React, Vue", "competence": 4, "duration_months": 36},
+    {"tool": "LeafletJS, MapBox, MapLibre, OpenLayers", "competence": 5, "duration_months": 84},
+    {"tool": "Python/Geopandas", "competence": 3, "duration_months": 36}
+  ],
+  "projects": [
+    {
+      "name": "[GEO]DASHBOARD",
+      "company": "Freelancer",
+      "client": "-",
+      "dates": "Feb 2022 – Present",
+      "duration_months": 20,
+      "description": "Comprehensive Geospatial Platform for Data Management and Visualization with a Postgres/PostGIS backend.",
+      "technologies": ["Postgres", "PostGIS", "Python", "PHP", "JavaScript", "Angular/React/Vue", "MapLibre", "LeafletJS"],
+      "methodologies": ["Continuous delivery", "Scrum", "Kanban"]
+    },
+    {
+      "name": "Vehicle/Bicycle Video Monitoring System",
+      "company": "Freelancer",
+      "client": "StudioSit SA",
+      "dates": "Jul 2023 – May 2024",
+      "duration_months": 10,
+      "description": "System for capturing and analyzing street-level data via bicycle and car video monitoring, with GPS integration and web dashboard.",
+      "technologies": ["Postgres", "PostGIS", "pgRouting", "QGIS", "Python", "PHP", "JavaScript", "Mapbox"],
+      "methodologies": ["Continuous delivery", "Scrum", "Kanban"]
+    },
+    {
+      "name": "GEODMS Analysis, Management, Visualization with GEODASHBOARD",
+      "client": "StudioSit SA",
+      "dates": "Jan 2022 – Jun 2024",
+      "duration_months": 18,
+      "technologies": ["Postgres", "PostGIS", "pgRouting", "QGIS", "Python", "PHP", "JavaScript", "Mapbox", "LeafletJS"]
+    },
+    {
+      "name": "Custom WebGIS for Municipality",
+      "client": "StudioSit SA",
+      "dates": "Jan 2023 – Jun 2023",
+      "duration_months": 6,
+      "technologies": ["Postgres", "PostGIS", "QGIS", "PHP", "JavaScript", "Geoserver", "LeafletJS"]
+    },
+    {
+      "name": "Custom WebGIS for Weather Data",
+      "client": "Atmosoar",
+      "dates": "Oct 2023 – Mar 2024",
+      "duration_months": 6,
+      "technologies": ["Postgres", "PostGIS", "QGIS", "Python", "PHP", "JavaScript", "Mapbox"]
+    },
+    {
+      "name": "Custom WebGIS for Retail",
+      "client": "Geomarketing Srl",
+      "dates": "Jan 2019 – Dec 2023",
+      "duration_months": 48,
+      "technologies": ["Postgres", "PostGIS", "QGIS", "PHP", "JavaScript", "LeafletJS", "Geoserver", "Wordpress"]
+    },
+    {
+      "name": "MapInfo Client Service",
+      "client": "Geomarketing Srl",
+      "dates": "Sep 2015 – Sep 2017",
+      "duration_months": 36,
+      "technologies": ["MapInfo", "VBA"]
+    },
+    {
+      "name": "GEODMS for Socio/Demographic and Business data",
+      "client": "Geomarketing Srl",
+      "dates": "Jan 2015 – Dec 2022",
+      "duration_months": 84,
+      "technologies": ["Postgres", "PostGIS", "QGIS", "Python", "PHP", "JavaScript", "Geoserver", "LeafletJS"]
+    },
+    {
+      "name": "GIS Consultant",
+      "client": "Various Companies",
+      "dates": "Apr 2007 – Present",
+      "technologies": ["QGIS", "Postgres/PostGIS/pgRouting", "ESRI ArcGIS", "MS Access", "MS Excel", "PHP", "Wordpress", "MySQL", "Geoserver", "JavaScript", "LeafletJS/MapBox", "Python/Geopandas"]
+    },
+    {
+      "name": "WebGIS Developer",
+      "client": "Monferrato Paesaggi",
+      "dates": "Mar 2014 – Jul 2014",
+      "duration_months": 4,
+      "technologies": ["Postgres", "PostGIS", "MySQL", "PHP", "JavaScript", "LeafletJS", "Wordpress"]
+    },
+    {
+      "name": "Urban Planner and Remote Sensing with Drones",
+      "company": "Viger Srl",
+      "dates": "Dec 2007 – Dec 2012",
+      "duration_months": 72,
+      "technologies": ["Postgres", "PostGIS", "QGIS", "ESRI ArcGIS", "PHP", "JavaScript", "LeafletJS"]
+    },
+    {
+      "name": "VBA Developer",
+      "client": "FrancoTosi Meccanica",
+      "dates": "Jul 2006 – Mar 2007",
+      "duration_months": 6,
+      "technologies": ["MS Excel/Access"]
+    },
+    {
+      "name": "GIS Analyst",
+      "client": "Studio Franzosi",
+      "dates": "Jan 2004 – Dec 2007",
+      "duration_months": 10,
+      "technologies": ["ESRI ArcGIS", "ESRI Geodatabase"]
+    }
+  ]
+}
