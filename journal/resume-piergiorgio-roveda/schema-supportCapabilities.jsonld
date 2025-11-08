@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#supportCapabilities",
+  "name": "Support and Team Enablement Capabilities",
+  "description": "Comprehensive support services provided to teams, clients, and stakeholders",
+  "itemListElement": [
+    {
+      "@type": "DefinedTerm",
+      "name": "Administrative Support",
+      "description": "Provides administrative support to ensure teams have organizational resources and processes for effective work",
+      "inDefinedTermSet": "Team Support"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Technical Support",
+      "description": "Delivers technical support to help team members overcome technical challenges and optimize their workflows",
+      "inDefinedTermSet": "Team Support"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Operational Support",
+      "description": "Ensures operational support is available to maintain smooth day-to-day activities and project execution",
+      "inDefinedTermSet": "Team Support"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Logistical Support",
+      "description": "Provides logistical support to coordinate resources, timelines, and project dependencies",
+      "inDefinedTermSet": "Team Support"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Geospatial Data Creation",
+      "description": "Creates geospatial data tailored to client requirements and project specifications",
+      "inDefinedTermSet": "Technical Services"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Data Extraction Automation",
+      "description": "Automates data extraction functions to improve efficiency and reduce manual processing",
+      "inDefinedTermSet": "Technical Services"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Video Training Courses",
+      "description": "Develops and delivers video training courses, particularly for QGIS and GIS technologies on YouTube",
+      "inDefinedTermSet": "Knowledge Transfer"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Consulting Services",
+      "description": "Provides expert consulting services to clients on GIS implementation, optimization, and strategy",
+      "inDefinedTermSet": "Professional Services"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Performance Advising",
+      "description": "Advises colleagues and clients on performance optimization, best practices, and technical improvements",
+      "inDefinedTermSet": "Professional Services"
+    }
+  ],
+  "additionalType": "ServiceCapabilityFramework",
+  "about": {
+    "@type": "Person",
+    "name": "Piergiorgio Roveda",
+    "description": "GIS Developer providing comprehensive administrative, technical, operational, and logistical support to teams. Expert in client consultation, geospatial data creation, automation, and training delivery."
+  }
+}

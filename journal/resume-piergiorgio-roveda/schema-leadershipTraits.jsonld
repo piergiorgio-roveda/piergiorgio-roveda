@@ -118,12 +118,24 @@
       "name": "Multilingual Communication",
       "description": "Fluent in Italian and English, enabling effective international collaboration",
       "inDefinedTermSet": "Professional Skills"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Highly Adaptable",
+      "description": "Highly adaptable professional capable of adjusting to diverse client requirements and project contexts",
+      "inDefinedTermSet": "Professional Skills"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Performance Excellence",
+      "description": "Consistently receives excellent performance reviews and strives to be the best at any undertaking",
+      "inDefinedTermSet": "Core Competency"
     }
   ],
   "additionalType": "ProfessionalCompetencyFramework",
   "about": {
     "@type": "Person",
     "name": "Piergiorgio Roveda",
-    "description": "A leader and GIS expert with more than 17 years of industry experience. Leadership strategy builds trust, establishes rapport, and earns respect. Consistently receives positive performance feedback and aims for excellence in all endeavors."
+    "description": "A highly adaptable and professional GIS leader and expert with more than 17 years of industry experience. Leadership strategy builds trust, establishes rapport, and earns respect from those under guidance. Provides hands-on administrative, technical, operational, and logistical support to ensure teams have the necessary means to perform their duties. Goes above and beyond to help team members get the most out of provided support. Consistently receives excellent performance reviews and strives to be the best at any undertaking."
   }
 }

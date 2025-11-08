@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#softSkills",
+  "name": "Professional Soft Skills and Personal Attributes",
+  "description": "Key interpersonal and professional qualities that define leadership and collaboration style",
+  "itemListElement": [
+    {
+      "@type": "DefinedTerm",
+      "name": "Adaptability",
+      "description": "Highly adaptable professional capable of adjusting to diverse project requirements and client needs",
+      "inDefinedTermSet": "Personal Attributes"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Hands-On Leadership",
+      "description": "Hands-on in approach, directly engaging with team members and technical challenges to provide meaningful support",
+      "inDefinedTermSet": "Leadership Style"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Trust Building",
+      "description": "Leadership strategy builds trust through consistent delivery and transparent communication",
+      "inDefinedTermSet": "Leadership Style"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Rapport Establishment",
+      "description": "Establishes rapport with clients, colleagues, and team members through professional engagement",
+      "inDefinedTermSet": "Interpersonal Skills"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Respect Earning",
+      "description": "Earns respect from those under leadership through competence and supportive management",
+      "inDefinedTermSet": "Leadership Style"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Mentorship and Support",
+      "description": "Provides administrative, technical, operational, and logistical support to ensure team members have necessary means to perform their duties",
+      "inDefinedTermSet": "Team Development"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Going Above and Beyond",
+      "description": "Consistently goes above and beyond to help team members get the most out of provided support",
+      "inDefinedTermSet": "Work Ethic"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Client Consultation",
+      "description": "Expert in consulting with clients to understand requirements and deliver tailored geospatial solutions",
+      "inDefinedTermSet": "Client Relations"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Performance Advisory",
+      "description": "Advises colleagues on performance optimization and best practices",
+      "inDefinedTermSet": "Team Development"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Excellence Orientation",
+      "description": "Strives to be the best at any undertaking, consistently pursuing excellence",
+      "inDefinedTermSet": "Work Ethic"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Knowledge Sharing",
+      "description": "Prepared to share knowledge as an asset, actively contributing to organizational growth",
+      "inDefinedTermSet": "Team Development"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Professional Demeanor",
+      "description": "Highly professional in all interactions, maintaining standards in diverse environments",
+      "inDefinedTermSet": "Personal Attributes"
+    }
+  ],
+  "additionalType": "SoftSkillsFramework",
+  "about": {
+    "@type": "Person",
+    "name": "Piergiorgio Roveda",
+    "description": "A professional GIS developer known for hands-on leadership, building trust, and providing comprehensive support to teams. Consistently receives excellent performance reviews and maintains a commitment to excellence in all endeavors."
+  }
+}
