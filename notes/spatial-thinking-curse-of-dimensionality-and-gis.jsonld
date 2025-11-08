@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "@vocab": "https://cityplanner.biz/geospatial-revolution/schema/",
+    "content": "https://cityplanner.biz/geospatial-revolution/content/",
+    "dc": "http://purl.org/dc/terms/"
+  },
+  "@type": "Article",
+  "@id": "content:curse-of-dimensionality-and-gis",
+  "title": "Spatial Thinking: The Curse of Dimensionality and GIS",
+  "author": "Piergiorgio Roveda",
+  "date": "2025-11-06T00:00:00Z",
+  "contentVersions": [
+    {
+      "language": "it",
+      "contentUrl": "#file:spatial-thinking-curse-of-dimensionality-and-gis/spatial-thinking-curse-of-dimensionality-and-gis.md"
+    },
+    {
+      "language": "en",
+      "contentUrl": "#file:spatial-thinking-curse-of-dimensionality-and-gis/spatial-thinking-curse-of-dimensionality-and-gis-en.md"
+    }
+  ],
+  "tags": [
+    "GIS",
+    "spatial-analysis",
+    "dimensionality",
+    "data-science",
+    "geospatial",
+    "dashboard",
+    "performance",
+    "clustering",
+    "PCA"
+  ],
+  "category": "spatial-thinking",
+  "references": [
+    {
+      "title": "Curse of dimensionality",
+      "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality",
+      "type": "external",
+      "description": "Wikipedia article on the general theory of curse of dimensionality"
+    },
+    {
+      "title": "Hacker News Discussion",
+      "url": "https://news.ycombinator.com/item?id=45857606",
+      "type": "external",
+      "description": "Published article discussion on Hacker News"
+    }
+  ],
+  "coverImagePrompt": "Complex 3D wireframe visualization showing multidimensional geospatial data layers converging into a simplified 2D map interface, representing the curse of dimensionality in GIS systems",
+  "coverImageCaption": "Understanding and managing the curse of dimensionality in Geographic Information Systems",
+  "cover": "generate",
+  "coverStatus": "exist",
+  "coverUpdatedAt": "2025-11-06T19:11:51.200Z",
+  "coverImageUrl": "https://geo-source.ams3.digitaloceanspaces.com/geospatial-revolution/covers/spatial-thinking-curse-of-dimensionality-and-gis-cover-genai-2025-11-06T19-11-41-422Z-0.png"
+}
