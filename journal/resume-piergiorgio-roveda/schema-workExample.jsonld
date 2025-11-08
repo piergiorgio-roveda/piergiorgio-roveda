@@ -2,9 +2,108 @@
   "@context": "https://schema.org",
   "@type": "ItemList",
   "@id": "https://www.linkedin.com/in/piergiorgioroveda-gis#workExample",
-  "name": "Academic Works and Publications",
-  "description": "Academic works, theses, and publications by Piergiorgio Roveda",
+  "name": "Projects, Works and Publications",
+  "description": "Professional projects, software platforms, and academic publications by Piergiorgio Roveda",
   "itemListElement": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "GEODASHBOARD",
+      "applicationCategory": "WebGIS Platform",
+      "operatingSystem": "Web-based",
+      "description": "A versatile geospatial platform for data management, analysis, and visualization, empowering users to make informed decisions through dynamic maps and insights. Cloud-based platform with web interface consisting of Postgres database, WordPress installation, and optional Geoserver. GEODASHBOARD is an extension (theme + plugin) that transforms WordPress into a Geospatial Tools Platform.",
+      "datePublished": "2012",
+      "url": "https://www.cityplanner.biz",
+      "author": {
+        "@type": "Person",
+        "name": "Piergiorgio Roveda"
+      },
+      "softwareRequirements": [
+        "PostgreSQL/PostGIS",
+        "WordPress",
+        "Geoserver (optional)",
+        "LeafletJS",
+        "PHP"
+      ],
+      "featureList": [
+        "Data Visualization: Powerful tools for visualizing spatial data in maps, charts, and graphs with user data upload and pre-loaded datasets",
+        "Spatial Analysis: Complex spatial analyses including buffering, distance and area calculations, clustering, providing insights into patterns and trends",
+        "User-Friendly Interface: Intuitive web-based interface accessible from any device with an internet connection",
+        "Customizable Modules: Users can build custom functionality tailored to specific needs",
+        "Open Source: Continuously improved by a global community of developers",
+        "Real-Time Data: Monitor and respond to changes as they happen",
+        "Collaboration: Team collaboration on projects with data and insights sharing",
+        "Layer Manager & Tile Services: Complex layer management with hide-away buttons and Geoserver variable requests",
+        "Info Popup: Custom popups with multiple tabs for extensive data display and Excel export",
+        "PDF Reports: Customizable presentable reports without rigid templates",
+        "Geo Blog: WordPress CMS integration for familiar user experience",
+        "Mobile Ready: Minimal interface optimized for field operations with position tracking and data validation",
+        "Territory Management: Direct territory editing with real-time calculations and agent relationships"
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "StudioSit SA Customization",
+          "description": "Customized for toponymy, real-estate, and lidar data management",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "GEODASHBOARD for Real Estate & Surveying"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Atmosoar Customization",
+          "description": "Drone route-planning platform with weather data and insurance-compliant missions",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "GEODASHBOARD for Drone Operations"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "EAP Financial Services Customization",
+          "description": "Agents area management and territory optimization",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "GEODASHBOARD for Territory Management"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Geomarketing Srl Implementation",
+          "description": "9 WebApps serving 500+ users for geomarketing analysis with demographic, social, business and environmental data integration",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "GEODASHBOARD for Geomarketing"
+          }
+        }
+      ],
+      "audience": [
+        {
+          "@type": "Audience",
+          "audienceType": "Real Estate Professionals"
+        },
+        {
+          "@type": "Audience",
+          "audienceType": "Urban Planners"
+        },
+        {
+          "@type": "Audience",
+          "audienceType": "Geomarketing Analysts"
+        },
+        {
+          "@type": "Audience",
+          "audienceType": "Drone Operators"
+        },
+        {
+          "@type": "Audience",
+          "audienceType": "Field Service Teams"
+        },
+        {
+          "@type": "Audience",
+          "audienceType": "GIS Professionals"
+        }
+      ]
+    },
     {
       "@type": "CreativeWork",
       "name": "Il territorio rurale produttore di valori per la costruzione di un sistema degli spazi aperti: Il caso della provincia di Mantova",

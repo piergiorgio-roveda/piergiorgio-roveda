@@ -8,7 +8,77 @@
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Developer",
+      "startDate": "2022",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "StudioSit SA",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lugano",
+            "addressCountry": "CH"
+          }
+        }
+      },
+      "description": "Customized the GEODASHBOARD platform to align with the unique needs of StudioSit SA, including tailored features for toponymy, real-estate, and lidar data management, with custom data integration and user interface enhancements.",
+      "namedPosition": [
+        "Implemented custom toponymy management system",
+        "Developed real-estate data visualization modules",
+        "Integrated lidar data processing capabilities"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "GIS Developer",
+      "startDate": "2024",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Atmosoar",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Milan",
+            "addressCountry": "IT"
+          }
+        }
+      },
+      "description": "Customized the GEODASHBOARD platform for drone route-planning, integrating weather data and insurance-compliant mission management for safe and efficient drone operations.",
+      "namedPosition": [
+        "Developed drone route-planning platform",
+        "Integrated real-time weather data analysis",
+        "Implemented insurance-compliant mission tracking"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "GIS Developer",
+      "startDate": "2023",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "EAP Financial Services",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Johannesburg",
+            "addressCountry": "ZA"
+          }
+        }
+      },
+      "description": "Customized the GEODASHBOARD platform for agents area management, enabling efficient territory management and field operations optimization for financial services.",
+      "namedPosition": [
+        "Developed agents area management system",
+        "Implemented territory optimization tools",
+        "Created field operations tracking dashboard"
+      ]
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "GIS Developer",
       "startDate": "2015",
+      "endDate": "2022",
       "worksFor": {
         "@type": "Organization",
         "name": "Geomarketing Srl",
@@ -21,27 +91,46 @@
           }
         }
       },
-      "description": "Manages continuous delivery GIS applications with over 1K users. Develops and maintains online GIS applications. Coordinates technical priorities, reporting, and client interfaces. Designs and tests GIS software innovations and processes. Develops PL/SQL functions to automate database tasks.",
+      "description": "Experienced GIS Professional with a proven track record in GIS data management, advanced spatial analysis, and WebGIS development. Proficient in database management, successfully supported third-party clients across diverse sectors including logistics, real estate, and geomarketing, delivering data-driven solutions that drive operational excellence and informed decision-making. Manages continuous delivery GIS applications with over 1K users. Develops PL/SQL functions to automate database tasks.",
       "namedPosition": [
         "Developed a WebGIS geomarketing platform with WordPress, LeafletJS, and PostGIS",
         "Created a map update structure for travel time analysis consistent with Google Maps data",
         "Introduced Agile-inspired workflow to improve project quality",
-        "Reduced 30 days of database work to 10 using PL/SQL automation"
+        "Reduced 30 days of database work to 10 using PL/SQL automation",
+        "Developed 9 WebApps used by 500+ users across the Geomarketing team"
       ]
     },
     {
       "@type": "OrganizationRole",
       "roleName": "GIS Consultant / Freelancer",
       "startDate": "2012",
-      "location": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Milan",
-          "addressCountry": "IT"
+      "location": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CH",
+            "name": "Switzerland"
+          }
+        },
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IL",
+            "name": "Israel"
+          }
+        },
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "PT",
+            "name": "Portugal"
+          }
         }
-      },
-      "description": "Customizes GIS web applications and provides QGIS and PostGIS training. Performs geospatial data analysis and client reporting. Optimizes websites for search engine visibility.",
+      ],
+      "description": "Full-time developer of the GEODASHBOARD project, a versatile geospatial platform for data management, analysis, and visualization, empowering users to make informed decisions through dynamic maps and insights. Provides consulting services, creates geospatial data, automates data extraction functions, and advises colleagues on performance. Customizes GIS web applications and provides QGIS and PostGIS training. Performs geospatial data analysis and client reporting.",
       "namedPosition": [
         "Automated data extraction with VB Script and Excel templates",
         "Developed MS Access forms integrated with ArcGIS for complex building census reporting",

@@ -10,8 +10,8 @@
     "@type": "Country",
     "name": "Italy"
   },
-  "jobTitle": "GIS Leader & Analyst (17+ Years)",
-  "description": "GIS expert and leader with 17+ years of experience in GIS and web development, active in Open Source communities and online QGIS tutorials. Proven ability to leverage geospatial data for rural development initiatives. Skilled in indicator creation, thematic analysis, and policy scenario definition using GEODMS/GIS tools. Experienced in data integration, modeling validation, and knowledge dissemination. Strong analytical, communication, and team leadership skills.",
+  "jobTitle": "GIS Developer & Urban Planner (17+ Years)",
+  "description": "Highly adaptable and professional GIS Developer with 17+ years of experience in GIS and web development, active in Open Source communities and online QGIS tutorials. Full-time developer of the GEODASHBOARD project, a versatile geospatial platform empowering users to make informed decisions through dynamic maps and insights. Proven ability to leverage geospatial data for rural development initiatives and urban planning. Expert in consulting with clients, creating geospatial data, automating data extraction functions, and advising colleagues on performance. Provides hands-on administrative, technical, operational, and logistical support to teams, ensuring they have the necessary means to perform their duties. Leadership strategy builds trust, establishes rapport, and earns respect. Skilled in indicator creation, thematic analysis, policy scenario definition using GEODMS/GIS tools, data integration, modeling validation, and knowledge dissemination. Strong analytical, communication, and team leadership skills. Consistently receives positive performance feedback and aims for excellence in all endeavors.",
   "email": "piergiorgio.roveda@cityplanner.biz",
   "telephone": "+39 348 7448152",
   "url": "https://www.linkedin.com/in/piergiorgioroveda-gis",
@@ -64,6 +64,7 @@
     "PHP",
     "WordPress",
     "MySQL",
+    "MongoDB",
     "Linux Ubuntu",
     "Map Analysis",
     "Geospatial Modelling",
@@ -76,7 +77,29 @@
     "Geopandas",
     "Angular",
     "React",
-    "Vue"
+    "Vue",
+    "NodeJS",
+    "QGIS",
+    "ArcGIS",
+    "ArcMap",
+    "MapInfo",
+    "MapInfo Routing",
+    "TomTom",
+    "Network Routing",
+    "Location Intelligence",
+    "Pmapper",
+    "Chameleon",
+    "QGIS Server",
+    "Zoo Project",
+    "Carto",
+    "Drupal",
+    "VBA",
+    "PL/SQL",
+    "MS Access",
+    "MS Excel",
+    "Remote Sensing",
+    "Drone Technology",
+    "3D Computer Graphics"
   ],
   "hasCredential": {
     "@id": "resume-piergiorgio-roveda/schema-hasCredential.jsonld"
@@ -129,5 +152,8 @@
   },
   "education": {
     "@id": "resume-piergiorgio-roveda/schema-education.jsonld"
+  },
+  "subjectOf": {
+    "@id": "resume-piergiorgio-roveda/schema-narrative.jsonld"
   }
 }
