@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "@vocab": "https://cityplanner.biz/geospatial-revolution/schema/",
+    "content": "https://cityplanner.biz/geospatial-revolution/content/",
+    "dc": "http://purl.org/dc/terms/"
+  },
+  "@type": "Article",
+  "@id": "content:copilot-gis-orchestra",
+  "title": "Copilot GIS Orchestra: Machine-First GIS Development Framework",
+  "author": "Piergiorgio Roveda",
+  "date": "2025-11-08T00:00:00Z",
+  "contentVersions": [
+    {
+      "language": "en",
+      "contentUrl": "#file:copilot-gis-orchestra/copilot-gis-orchestra.md"
+    }
+  ],
+  "tags": [
+    "GIS",
+    "Node.js",
+    "JSON-LD",
+    "agent-first",
+    "PostgreSQL",
+    "PostGIS",
+    "QGIS",
+    "automation",
+    "urban-planning",
+    "geospatial",
+    "AI-development",
+    "GitHub-Copilot",
+    "machine-readable",
+    "schema.org"
+  ],
+  "category": "development-framework",
+  "references": [
+    {
+      "title": "Copilot GIS Orchestra Repository",
+      "url": "https://github.com/piergiorgio-roveda/copilot-gis-orchestra",
+      "type": "external",
+      "description": "Official GitHub repository for the Copilot GIS Orchestra project"
+    },
+    {
+      "title": "JSON-LD Specification",
+      "url": "https://json-ld.org/",
+      "type": "external",
+      "description": "Official JSON-LD specification and documentation"
+    },
+    {
+      "title": "Schema.org",
+      "url": "https://schema.org/",
+      "type": "external",
+      "description": "Schema.org vocabulary for structured data"
+    },
+    {
+      "title": "PostGIS Documentation",
+      "url": "https://postgis.net/",
+      "type": "external",
+      "description": "PostGIS spatial database extension for PostgreSQL"
+    },
+    {
+      "title": "QGIS",
+      "url": "https://qgis.org/",
+      "type": "external",
+      "description": "Free and open source geographic information system"
+    },
+    {
+      "title": "Node.js",
+      "url": "https://nodejs.org/",
+      "type": "external",
+      "description": "JavaScript runtime built on Chrome's V8 JavaScript engine"
+    }
+  ],
+  "coverImagePrompt": "Futuristic orchestral conductor's podium surrounded by floating holographic layers of GIS data, JSON-LD code structures, and Node.js symbols, with interconnected PostgreSQL database nodes and QGIS interface elements, representing machine-first development and AI-driven geospatial automation in a cyberpunk aesthetic",
+  "coverImageCaption": "Machine-first GIS development framework powered by JSON-LD and AI agents",
+  "cover": "generate",
+  "coverStatus": "pending"
+}
