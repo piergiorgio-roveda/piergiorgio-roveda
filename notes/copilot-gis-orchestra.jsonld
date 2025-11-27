@@ -12,7 +12,40 @@
   "contentVersions": [
     {
       "language": "en",
-      "contentUrl": "#file:copilot-gis-orchestra/copilot-gis-orchestra.md"
+      "contentUrl": "#file:copilot-gis-orchestra/copilot-gis-orchestra.md",
+      "contentType": "Article",
+      "description": "Technical documentation in English with detailed specifications, code examples, and architectural patterns"
+    },
+    {
+      "language": "it",
+      "contentUrl": "#file:copilot-gis-orchestra/copilot-gis-orchestra-description-1-ita.md",
+      "contentType": "Article",
+      "description": "Descrizione del progetto in italiano, orientata a concetti di alto livello senza dettagli tecnici o pseudo-codice. Generata da GitHub Copilot in base al contenuto della versione inglese, con focus su filosofia, applicazioni pratiche e vantaggi del paradigma agent-first.",
+      "generationNotes": {
+        "@type": "CreativeWork",
+        "creator": {
+          "@type": "SoftwareApplication",
+          "name": "GitHub Copilot",
+          "description": "AI-powered code assistant"
+        },
+        "sourceWork": "#file:copilot-gis-orchestra/copilot-gis-orchestra.md",
+        "dateCreated": "2025-11-12",
+        "generationConstraints": [
+          "Linguaggio italiano",
+          "Focus su concetti di alto livello",
+          "Nessun dettaglio tecnico eccessivo",
+          "Nessuno pseudo-codice",
+          "Orientato a comprensione generale del progetto",
+          "Accessibile a professionisti GIS e sviluppatori"
+        ],
+        "editingProcess": "Richiesta dell'utente di creare contenuto italiano basato sul documento inglese esistente, con enfasi su aspetti concettuali piuttosto che implementativi"
+      }
+    },
+    {
+      "language": "it",
+      "contentUrl": "https://youtu.be/cUw-2z6rvQ8",
+      "contentType": "VideoObject",
+      "description": "Video introduttivo in italiano sul progetto Copilot GIS Orchestra: archivio di conoscenze per GIS, pianificazione urbana e applicazioni geospaziali guidate dall'intelligenza artificiale"
     }
   ],
   "tags": [
@@ -33,6 +66,13 @@
   ],
   "category": "development-framework",
   "references": [
+    {
+      "title": "Copilot GIS Orchestra - Introduzione (IT)",
+      "url": "https://youtu.be/cUw-2z6rvQ8",
+      "type": "video",
+      "language": "it",
+      "description": "Video introduttivo in italiano sul progetto Copilot GIS Orchestra: archivio di conoscenze per GIS, pianificazione urbana e applicazioni geospaziali guidate dall'intelligenza artificiale"
+    },
     {
       "title": "Copilot GIS Orchestra Repository",
       "url": "https://github.com/piergiorgio-roveda/copilot-gis-orchestra",
