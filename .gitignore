@@ -17,3 +17,4 @@ project/geodata-crawler
 .obsidian
 *.png
 notes/extract-and-analyze-data-from-street-level-photos/external-document
+data-raw
