@@ -18,3 +18,5 @@ project/geodata-crawler
 *.png
 notes/extract-and-analyze-data-from-street-level-photos/external-document
 data-raw
+project/UrbanPlanningGIS
+project/zone-omi-workspace
